@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+
+<html lang="zh">
+<head>
+<link rel="icon" href="favicon.ico">
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>GRINGOTTS</title>
+<link href="https://fonts.font.im/css2?family=Rajdhani:wght@500;600;700&amp;family=Share+Tech+Mono&amp;family=Cinzel+Decorative:wght@700;900&amp;display=swap" rel="stylesheet"/>
+
+
+<link href="style.css" rel="stylesheet"/></head>
+<body class="zh">
+<div id="x7g_L"></div>
+<div id="x7g_R"></div>
+<div id="x7g_ov">
+<div class="x7g_ui">
+<div class="x7g_title">GRINGOTTS</div>
+<svg style="width:clamp(170px,28vw,310px);height:auto;overflow:visible;display:block" viewbox="0 0 310 88" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter height="200%" id="x7g_gw" width="150%" x="-25%" y="-50%">
+<fegaussianblur result="b" stddeviation="2"></fegaussianblur>
+<femerge><femergenode in="b"></femergenode><femergenode in="SourceGraphic"></femergenode></femerge>
+</filter>
+</defs>
+<polyline fill="none" filter="url(#x7g_gw)" points="8,58 26,76 46,18 302,18" stroke="rgba(200,225,255,0.92)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polyline>
+<text fill="rgba(200,225,255,0.92)" filter="url(#x7g_gw)" font-family="Georgia,serif" font-size="40" x="54" y="64">1 + tan</text>
+<text fill="rgba(200,225,255,0.92)" filter="url(#x7g_gw)" font-family="Georgia,serif" font-size="24" x="204" y="40">2</text>
+<text fill="rgba(200,225,255,0.92)" filter="url(#x7g_gw)" font-family="Georgia,serif" font-size="40" x="218" y="64">C</text>
+</svg>
+<div style="display:flex;flex-direction:column;align-items:center;gap:1rem">
+<div class="x7g_boxes">
+<input autocomplete="off" class="x7g_box" id="x7g_b0" maxlength="1" spellcheck="false"/>
+<input autocomplete="off" class="x7g_box" id="x7g_b1" maxlength="1" spellcheck="false"/>
+<input autocomplete="off" class="x7g_box" id="x7g_b2" maxlength="1" spellcheck="false"/>
+<input autocomplete="off" class="x7g_box" id="x7g_b3" maxlength="1" spellcheck="false"/>
+</div>
+<div class="x7g_hint">· · · ·</div>
+</div>
+</div>
+</div>
+
+<div class="topbtns">
+<button class="aboutbtn" onclick="openAbout()"><span class="zh">关于</span><span class="en">About</span></button>
+<button class="themebtn" id="tb" onclick="toggleTheme()">☀ <span class="zh">明亮</span><span class="en">Light</span></button>
+<button class="langbtn" id="lb" onclick="toggleLang()">EN</button>
+</div>
+<!-- About Modal -->
+<div class="about-ov" id="about-ov" onclick="closeAboutOv(event)">
+<div class="about-modal" id="about-modal">
+<button class="about-close" onclick="closeAbout()">✕ <span class="zh">关闭</span><span class="en">Close</span></button>
+<div class="about-deco"></div>
+<div class="about-label"><span class="zh">关于本站</span><span class="en">ABOUT</span></div>
+<div class="about-title"><span class="zh">GRINGOTTS 影视库</span><span class="en">GRINGOTTS Collection</span></div>
+<div class="about-body">
+<span class="zh">如有任何问题或意见，欢迎通过以下邮箱与我联系：<br/><br/>
+<a href="mailto:13661764524@163.com">13661764524@163.com</a>
+</span>
+<span class="en">For any questions or feedback, feel free to reach out:<br/><br/>
+<a href="mailto:13661764524@163.com">13661764524@163.com</a>
+</span>
+</div>
+</div>
+</div>
+<canvas id="sc"></canvas>
+<div class="page">
+<div class="hero">
+<span class="gringotts-title" data-text="GRINGOTTS">GRINGOTTS</span>
+<div class="hstats">
+<div class="hstat"><div class="hsn" id="sf">0</div><div class="hsl"><span class="zh">电影</span><span class="en">FILMS</span></div></div>
+<div class="hstat"><div class="hsn" id="ss">0</div><div class="hsl"><span class="zh">剧集</span><span class="en">SERIES</span></div></div>
+<div class="hstat"><div class="hsn">5</div><div class="hsl"><span class="zh">类别</span><span class="en">GENRES</span></div></div>
+</div>
+</div>
+<div class="sec" id="films">
+<div class="sechd">
+<span class="secicon">▶</span>
+<span class="sectitle"><span class="zh">影视收藏</span><span class="en">Film &amp; Series</span></span>
+<div class="secline"></div>
+<span class="seccount" id="cnt"></span>
+</div>
+<p class="secdesc"><span class="zh">点击任意作品查看详情、双语简介及评分。</span><span class="en">Click any title for bilingual synopsis, ratings and details.</span></p>
+<div class="srow">
+<span class="slbl"><span class="zh">搜索</span><span class="en">SEARCH</span></span>
+<input id="srch" placeholder="Search / 搜索..." type="text"/>
+</div>
+<div class="fgroup">
+<div class="frow">
+<span class="flbl"><span class="zh">类型</span><span class="en">GENRE</span></span>
+<button class="fb on" data-f="genre" data-v="all"><span class="zh">全部</span><span class="en">All</span></button>
+<button class="fb" data-f="genre" data-v="Feature"><span class="zh">剧情</span><span class="en">Feature</span></button>
+<button class="fb" data-f="genre" data-v="Fantasy"><span class="zh">奇幻</span><span class="en">Fantasy</span></button>
+<button class="fb" data-f="genre" data-v="Documentary"><span class="zh">纪录片</span><span class="en">Documentary</span></button>
+<button class="fb" data-f="genre" data-v="Suspense"><span class="zh">侦探</span><span class="en">Suspense</span></button>
+<button class="fb" data-f="genre" data-v="Science Fiction"><span class="zh">科幻</span><span class="en">Sci-Fi</span></button>
+</div>
+<div class="frow">
+<span class="flbl"><span class="zh">形式</span><span class="en">TYPE</span></span>
+<button class="fb on" data-f="type" data-v="all"><span class="zh">全部</span><span class="en">All</span></button>
+<button class="fb" data-f="type" data-v="film"><span class="zh">电影</span><span class="en">Film</span></button>
+<button class="fb" data-f="type" data-v="series"><span class="zh">剧集</span><span class="en">Series</span></button>
+</div>
+<div class="frow">
+<span class="flbl"><span class="zh">语言</span><span class="en">LANG</span></span>
+<button class="fb on" data-f="lang" data-v="all"><span class="zh">全部</span><span class="en">All</span></button>
+<button class="fb" data-f="lang" data-v="en"><span class="zh">英语</span><span class="en">English</span></button>
+<button class="fb" data-f="lang" data-v="fr"><span class="zh">法语</span><span class="en">French</span></button>
+<button class="fb" data-f="lang" data-v="it"><span class="zh">意大利语</span><span class="en">Italian</span></button>
+<button class="fb" data-f="lang" data-v="hi"><span class="zh">印地语</span><span class="en">Hindi</span></button>
+<button class="fb" data-f="lang" data-v="jp"><span class="zh">日语</span><span class="en">Japanese</span></button>
+<button class="fb" data-f="lang" data-v="de"><span class="zh">德语</span><span class="en">German</span></button>
+<button class="fb" data-f="lang" data-v="ko"><span class="zh">韩语</span><span class="en">Korean</span></button>
+<button class="fb" data-f="lang" data-v="es"><span class="zh">西班牙语</span><span class="en">Spanish</span></button>
+<button class="fb" data-f="lang" data-v="ru"><span class="zh">俄语</span><span class="en">Russian</span></button>
+</div>
+<div class="frow">
+<span class="flbl"><span class="zh">排序</span><span class="en">SORT</span></span>
+<button class="fb" data-dir="desc" data-sort="year" id="sb-year"><span class="zh">年份</span><span class="en">Year</span> <span class="sdir">↓</span></button>
+<button class="fb" data-dir="desc" data-sort="imdb" id="sb-imdb">IMDb <span class="sdir">↓</span></button>
+<button class="fb" data-dir="desc" data-sort="douban" id="sb-douban"><span class="zh">豆瓣</span><span class="en">Douban</span> <span class="sdir">↓</span></button>
+</div>
+</div>
+<div class="pgwrap" id="pgrow">
+  <!-- Top row: nav + page numbers -->
+  <div class="pg-nav-row">
+    <span class="pg-nav-label"><span class="zh">分页</span><span class="en">PAGE</span></span>
+    <button class="pg-edge" id="pg-first"><span class="zh">首页</span><span class="en">First</span></button>
+    <button class="pg-arrow" id="pg-prev">‹</button>
+    <div class="pg-nums" id="pg-nums"></div>
+    <button class="pg-arrow" id="pg-next">›</button>
+    <button class="pg-edge" id="pg-last"><span class="zh">尾页</span><span class="en">Last</span></button>
+    <span id="pg-info"></span>
+  </div>
+  <!-- Bottom row: jump controls -->
+  <div class="pg-jump-row">
+    <span class="pg-jump-label"><span class="zh">跳至</span><span class="en">GO TO</span></span>
+    <div class="pg-jump-wrap">
+      <button class="pg-spin-btn" id="pg-minus">−</button>
+      <input id="pg-jump" min="1" placeholder="—" type="number"/>
+      <button class="pg-spin-btn" id="pg-plus">+</button>
+    </div>
+    <button class="pg-edge" id="pg-go"><span class="zh">跳转</span><span class="en">Go</span></button>
+  </div>
+</div>
+<div class="mgrid" id="mgrid"></div>
+<div id="nores"><span class="zh">没有找到匹配的作品</span><span class="en">No titles found</span></div>
+</div>
+</div>
+<div class="ov" id="ov" onclick="closeOv(event)">
+<div class="modal">
+<button class="mclose" onclick="closeModal()">✕ <span class="zh">关闭</span><span class="en">Close</span></button>
+<div class="mhead-row">
+<div class="modal-cover" id="modal-cover">
+<div class="modal-cover-placeholder"><svg fill="none" height="32" opacity=".4" stroke="currentColor" stroke-width="1.2" viewbox="0 0 24 24" width="32"><rect height="18" rx="2" width="18" x="3" y="3"></rect><path d="M9 3v18M3 9h6M3 15h6"></path><circle cx="15.5" cy="10.5" r="2.5"></circle></svg></div>
+</div>
+<div class="mhead-info">
+<div class="mcat" id="mcat"></div>
+<div class="mtitle" id="mtitle"></div>
+<div class="morig" id="morig"></div>
+<div class="mrats" id="mrats"></div>
+</div>
+</div>
+<div class="migrid" id="minfo"></div>
+<div class="mdesc" id="mdesc"></div>
+</div>
+</div>
+
+<script src="data.js"></script>
+<script src="script.js"></script></body>
+</html>
