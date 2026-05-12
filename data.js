@@ -1068,7 +1068,7 @@ window.DATA = [
     "id": 316,
     "title": "A Knight of the Seven Kingdoms",
     "zh": "七王国的骑士",
-    "year": 2024,
+    "year": 2026,
     "type": "series",
     "genre": "Fantasy",
     "lang": "en",
