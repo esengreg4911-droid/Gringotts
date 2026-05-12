@@ -26,7 +26,7 @@ window.DATA = [
     "douban": 9.3,
     "dir": "Francis Ford Coppola",
     "country": "USA",
-    "desc_zh": "1945至1955年间，意裔黑帮科莱昂家族的传奇史诗。老教父遭遇暗杀后，幺子迈克尔挺身而出，展开一场血腥复仇，就此走上权力巅峰。",
+    "desc_zh": "1945至1955年间，意裔黑帮柯里昂家族的传奇史诗。老教父遭遇暗杀后，幺子迈克尔挺身而出，展开一场血腥复仇，就此走上权力巅峰。",
     "desc_en": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
   },
   {
