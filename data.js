@@ -1076,7 +1076,7 @@ window.DATA = [
     "douban": 8.8,
     "dir": "Various",
     "country": "USA",
-    "desc_zh": "维斯特洛大陆前史，年轻的坦格利安骑士邓肯爵士与他的王子扈从在旅途中行侠仗义，揭开权力游戏世界中那段被遗忘的贵族往事。",
+    "desc_zh": "维斯特洛大陆前史，年轻的坦格利安骑士邓肯爵士与他的王子扈从在旅途中行侠仗义，揭开权力的游戏世界中那段被遗忘的贵族往事。",
     "desc_en": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends."
   },
   {
