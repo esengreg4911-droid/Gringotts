@@ -41,33 +41,22 @@ body{
   font-family:"Share Tech Mono",monospace;
   min-height:100vh;overflow-x:hidden;
   transition:background .3s,color .3s;
+  /* Dark: deep navy base with subtle gold & blue radial glows */
+  background-color:#020c1b;
   background-image:
-    linear-gradient(180deg,
-      rgba(1,4,14,0.35) 0%,
-      rgba(1,4,14,0.15) 30%,
-      rgba(1,4,14,0.20) 65%,
-      rgba(1,4,14,0.55) 100%
-    ),
-    linear-gradient(90deg,
-      rgba(1,4,14,0.0) 0%,
-      transparent 45%,
-      transparent 100%
-    ),
-    url("images/bg-dark.jpg"); 
-  background-size:cover;
-  background-position:center center;
-  background-attachment:fixed;
-  background-repeat:no-repeat;
+    radial-gradient(ellipse 80% 55% at 15% 0%,   rgba(201,169,110,.07) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 50% at 85% 8%,   rgba(14,60,120,.22)   0%, transparent 55%),
+    radial-gradient(ellipse 70% 60% at 50% 100%,  rgba(7,30,80,.30)     0%, transparent 65%),
+    linear-gradient(160deg, #03101f 0%, #020c1b 45%, #010818 100%);
 }
 /* 明亮模式背景 */
 body.light{
-  background-image: 
-  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), /* 这是一层半透明黑遮罩 */
-  url("images/bg-light.jpg"); 
-  background-size:cover;
-  background-position:center center;
-  background-attachment:fixed;
-  background-repeat:no-repeat;
+  background-color:#000000;
+  background-image:
+    radial-gradient(ellipse 70% 50% at 10% 0%,   rgba(201,169,110,.10) 0%, transparent 55%),
+    radial-gradient(ellipse 60% 45% at 92% 6%,   rgba(90,130,200,.13)  0%, transparent 50%),
+    radial-gradient(ellipse 80% 55% at 50% 105%,  rgba(120,155,215,.16) 0%, transparent 60%),
+    linear-gradient(160deg, #dff8ec 0%, #bae8d3 50%, #a3eace 100%);
 }
 
 /* Noise texture overlay */
@@ -79,8 +68,7 @@ body::after{
   background-size:200px 200px;
 }
 
-#sc{position:fixed;inset:0;z-index:0;pointer-events:none;transition:opacity .4s}
-body.light #sc{opacity:0.06}
+
 .page{position:relative;z-index:1;max-width:1340px;margin:0 auto;padding:0 1.2rem 6rem}
 body.light .page{background:transparent}
 
@@ -171,10 +159,23 @@ body.zh .en{display:none!important}
 nav{display:none}
 
 /* ─── Hero ─── */
-.hero{padding:4rem 0 3rem;position:relative}
+.hero{
+  padding:4rem 0 3rem;position:relative;
+  /* Break out of .page max-width to fill full viewport width */
+  margin-left:calc(-50vw + 50%);
+  margin-right:calc(-50vw + 50%);
+  padding-left:calc(50vw - 50% + 1.2rem);
+  padding-right:calc(50vw - 50% + 1.2rem);
+  /* Solid lighter blue — hard cut from body */
+  background-color:#0a315e;
+}
+body.light .hero{
+  background-color:#1c7e5d;
+}
 .hero::before{
-  content:"";position:absolute;top:0;left:-2rem;right:-2rem;bottom:0;
-  background:radial-gradient(ellipse 60% 80% at 20% 50%, rgba(201,169,110,.05) 0%, transparent 70%);
+  content:"";position:absolute;top:0;left:0;right:0;bottom:0;
+  /* Subtle left gold accent on top of solid bg */
+  background:radial-gradient(ellipse 40% 80% at 12% 50%, rgba(201,169,110,.07) 0%, transparent 65%);
   pointer-events:none;
 }
 .gringotts-title{
@@ -260,7 +261,7 @@ body.light .srow{
   transition:border-color .3s,box-shadow .3s, background .3s;
 }
 #srch:focus{
-  background:rgba(4,12,26,0.5); border-color:rgba(0,0,0,0.4);
+  background:rgba(4,12,26,0.5); border-color:#7a5010;
   box-shadow:0 0 0 3px rgba(6, 6, 6, 0.1), inset 0 2px 4px rgba(0,0,0,0.2);
 }
 #srch::placeholder{color:var(--muted2)}
@@ -271,7 +272,7 @@ body.light #srch{
 }
 body.light #srch::placeholder{color:#4a6888}
 body.light #srch:focus{
-  background:#fff; border-color:rgba(30,80,150,0.5);
+  background:#fff; border-color:#7a5010;
   box-shadow:0 0 0 3px rgba(30,80,150,0.1);
 }
 
@@ -302,7 +303,7 @@ body.light .flbl{color:#5a3a10}
 
 body.light .fb{color:#1c355e}
 body.light .fb:hover{background:rgba(30,80,150,0.08); color:#0e1a2e;}
-body.light .fb.on{background:rgba(30,80,150,0.15); color:#0e1a2e; border-color:transparent; font-weight:700;}
+body.light .fb.on{background:rgba(17, 59, 101, 0.288); color:#0e1a2e; border-color:transparent; font-weight:700;}
 
 /* ─── Grid ─── */
 .mgrid{
@@ -316,7 +317,6 @@ body.light .fb.on{background:rgba(30,80,150,0.15); color:#0e1a2e; border-color:t
   border:1px solid transparent; /* 取消暗黑模式下卡片的默认发光边框 */
   border-radius:10px;
   padding:1.1rem 1rem;cursor:pointer;
-  backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
   box-shadow:0 8px 24px rgba(0,0,0,0.2), inset 0 1px 1px rgba(255,255,255,0.06);
   transition:border-color .3s,transform .3s,background .3s,box-shadow .3s;
   position:relative;overflow:hidden;
