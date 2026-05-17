@@ -3254,6 +3254,21 @@ window.DATA = [
     "desc_zh": "终季：西斯的秘密行动全面揭露，阿索卡与莫尔在曼达洛的最终对决，以及通向第三集的关键过渡，完美收束这部动画传奇。",
     "desc_en": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists."
   },
+    {
+    "id": 90701,
+    "title": "Star Wars: Maul - Shadow Lord S1",
+    "zh": "星球大战：摩尔-暗影之王 第1季",
+    "year": 2026,
+    "type": "series",
+    "genre": "Science Fiction",
+    "lang": "en",
+    "imdb": 8.6,
+    "douban": 8.8,
+    "dir": "Dave Filoni",
+    "country": "USA",
+    "desc_zh": "设定在“克隆人战争”之后，帕尔帕廷皇帝的统治将要开始之时，摩尔计划在一颗未被帝国染指的星球重建他的犯罪组织，而他遇上了一个理想破灭的绝地学徒，或许正是他在复仇之路上所需要的帮手。",
+    "desc_en": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire."
+  },
   {
     "id": 12101,
     "title": "Spartacus S1",
@@ -5897,6 +5912,7 @@ const IMDB_DICT = {
   90201:"tt8111088", 90202:"tt8111088", 90203:"tt8111088", // 曼达洛人
   90301:"tt12708542", 90302:"tt12708542", 90303:"tt12708542", // 残次品小队
   90401:"tt0458290", 90402:"tt0458290", 90403:"tt0458290", 90404:"tt0458290", 90405:"tt0458290", 90406:"tt0458290", 90407:"tt0458290", // 克隆人战争
+  90701:"tt36594331",//星球大战：摩尔-暗影之王 
   12101:"tt1442449", 12103:"tt1442449", 12104:"tt1442449", 12102:"tt39020004", // 斯巴达克斯
   11301:"tt0898266", 11302:"tt0898266", 11303:"tt0898266", 11304:"tt0898266", 11305:"tt0898266", 11306:"tt0898266", 11307:"tt0898266", 11308:"tt0898266", 11309:"tt0898266", 11310:"tt0898266", 11311:"tt0898266", 11312:"tt0898266", // 生活大爆炸
   11901:"tt0979432", 11902:"tt0979432", 11903:"tt0979432", 11904:"tt0979432", 11905:"tt0979432", // 大西洋帝国
