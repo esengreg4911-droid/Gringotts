@@ -930,6 +930,21 @@ window.DATA = [
     "desc_en": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands."
   },
   {
+    "id": 501,
+    "title": "Spirited Away",
+    "zh": "千与千寻",
+    "year": 2001,
+    "type": "film",
+    "genre": "Feature",
+    "lang": "jp",
+    "imdb": 8.6,
+    "douban": 9.4,
+    "dir": "宫崎骏",
+    "country": "Japan",
+    "desc_zh": "少女千寻误入神灵世界，为了拯救变成猪的父母，在奇幻澡堂中展开成长与冒险",
+    "desc_en": "A young girl named Chihiro enters a mysterious spirit world and must work in a magical bathhouse to save her parents and find her way home."
+  },
+  {
     "id": 105,
     "title": "Chernobyl",
     "zh": "切尔诺贝利",
@@ -5872,7 +5887,7 @@ window.DATA = [
 // --- 自动注入 IMDb ID 的脚本 ---
 const IMDB_DICT = {
   // 经典电影
-  1:"tt0111161", 2:"tt0068646", 3:"tt0071562", 4:"tt0099674", 5:"tt0110912", 6:"tt0108052", 7:"tt0050083", 8:"tt0137523", 9:"tt0109830", 10:"tt1375666", 11:"tt0102926", 12:"tt0114814", 13:"tt0114369", 14:"tt0209144", 15:"tt0268978", 16:"tt0120815", 17:"tt0112573", 18:"tt0172495", 19:"tt0118799", 20:"tt0120731", 21:"tt0097165", 22:"tt1675434", 23:"tt0110413", 24:"tt0095765", 25:"tt5074352", 26:"tt1187043", 27:"tt0087843", 28:"tt0051201", 29:" tt0253474", 30:"tt15398776", 31:"tt0113277", 32:"tt0119488", 33:"tt0110357", 34:"tt0099348", 35:"tt0116209",
+  1:"tt0111161", 2:"tt0068646", 3:"tt0071562", 4:"tt0099674", 5:"tt0110912", 6:"tt0108052", 7:"tt0050083", 8:"tt0137523", 9:"tt0109830", 10:"tt1375666", 11:"tt0102926", 12:"tt0114814", 13:"tt0114369", 14:"tt0209144", 15:"tt0268978", 16:"tt0120815", 17:"tt0112573", 18:"tt0172495", 19:"tt0118799", 20:"tt0120731", 21:"tt0097165", 22:"tt1675434", 23:"tt0110413", 24:"tt0095765", 25:"tt5074352", 26:"tt1187043", 27:"tt0087843", 28:"tt0051201", 29:" tt0253474", 30:"tt15398776", 31:"tt0113277", 32:"tt0119488", 33:"tt0110357", 34:"tt0099348", 35:"tt0116209", 501:"tt0245429",
   // 科幻巨制
   201:"tt0816692", 202:"tt0133093", 203:"tt0234215", 204:"tt0242653", 205:"tt1160419", 206:"tt15239678", 207:"tt0482571", 208:"tt3659388", 209:"tt0372784", 210:"tt0468569", 211:"tt1345836", 212:"tt0499549", 213:"tt0062622",
   // 奇幻 (哈利波特/魔戒/霍比特人)
