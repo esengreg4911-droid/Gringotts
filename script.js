@@ -390,22 +390,9 @@ function closeOv(e){if(e.target===document.getElementById("ov"))closeModal();}
 function closeModal(){document.getElementById("ov").classList.remove("open");}
 document.addEventListener("keydown",function(e){if(e.key==="Escape")closeModal();});
 
-
-function toggleTheme(){
-  var isLight=document.body.classList.toggle("light");
-  var tb=document.getElementById("tb");
-  if(isLight){
-    tb.innerHTML='🌙 <span class="zh">暗黑</span><span class="en">Dark</span>';
-    // hide stars in light mode (canvas already faded via CSS)
-  } else {
-    tb.innerHTML='☀ <span class="zh">明亮</span><span class="en">Light</span>';
-  }
-}
-
 function toggleLang(){
   curLang=curLang==="zh"?"en":"zh";
-  var isLight=document.body.classList.contains("light");
-  document.body.className=(isLight?"light ":"")+curLang;
+  document.body.className=curLang;
   document.getElementById("lb").textContent=curLang==="zh"?"EN":"中文";
   render();
 }
