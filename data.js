@@ -4004,7 +4004,21 @@ window.DATA = [
     "desc_zh": "杰里米·克拉克森继续经营迪德利农场，在天气、政策和经营压力下尝试开设新酒吧，同时面对农业现实带来的各种混乱与挑战。",
     "desc_en": "Jeremy Clarkson continues running Diddly Squat Farm, taking on new ventures like opening a pub while struggling with weather, regulations, and the unpredictable realities of modern farming."
   },
-
+{
+    "id": 40705,
+    "title": "Clarkson Farm S5",
+    "zh": "克拉克森的农场 第5季",
+    "year": 2026,
+    "type": "series",
+    "genre": "Documentary",
+    "lang": "en",
+    "imdb": 9.0,
+    "douban": 9.6,
+    "dir": "Various",
+    "country": "UK",
+    "desc_zh": "在第五季中，杰里米·克拉克森和他的团队在迪丽斯库阿特农场共同应对健康隐忧、政府新税收政策的冲击，并开启了向高科技农业的混乱转型",
+    "desc_en": "In Season 5, Jeremy Clarkson and his team navigate health scares, new government budget crises, and a chaotic transition to high-tech farming at Diddly Squat. "
+  },
   {
     "id": 50311,
     "title": "Poirot S1",
@@ -5879,6 +5893,36 @@ window.DATA = [
     "douban": 6.7,
     "desc_en": "A young Han Solo navigates the criminal underworld, makes his first Kessel Run in the Millennium Falcon, and forges his legendary partnership with Chewbacca. A swashbuckling origin story of the galaxy's most loveable scoundrel.",
     "desc_zh": "年轻的韩·索罗在星际犯罪地下世界中闯荡，完成了首次凯塞尔飞行，并与楚巴卡缔结了那段传奇搭档情谊。这是银河系最惹人喜爱的流氓的冒险起源故事。"
+  },
+  {
+    "id": 27001,
+    "title": "Sense8 S1",
+    "zh": "超感猎杀 第一季",
+    "year": 2015,
+    "type": "series",
+    "genre": "Science Fiction",
+    "lang": "en",
+    "country": "US",
+    "dir": "Wachowski Sisters",
+    "imdb": 8.2,
+    "douban": 8.9,
+    "desc_en": "Eight strangers from different corners of the world suddenly find themselves mentally and emotionally linked, sharing their lives and skills while running from a mysterious organization bent on hunting them down.",
+    "desc_zh": "来自世界不同城市的八名陌生人突然在情感和精神上产生通感联结，在共享彼此技能与人生的同时，还要携手躲避一个神秘组织的致命追杀"
+  },
+  {
+    "id": 27002,
+    "title": "Sense8 S2",
+    "zh": "超感猎杀 第二季",
+    "year": 2017,
+    "type": "series",
+    "genre": "Science Fiction",
+    "lang": "en",
+    "country": "US",
+    "dir": "Wachowski Sisters",
+    "imdb": 8.2,
+    "douban": 9.2,
+    "desc_en": "Delving deeper into the dark secrets of the BPO, the eight sensates transition from running to fighting back, uniting their forces to defeat Whispers and secure their freedom once and for all.",
+    "desc_zh": " 随着对神秘组织“BPO”的调查步步深入，八人通感团队不再只是一味逃亡，而是选择主动出击、团结一心，为了守护彼此和夺回生存自由与低语者展开殊死较量。"
   }
 ];
 
@@ -5939,7 +5983,7 @@ const IMDB_DICT = {
   25901:"tt9253284", 25902:"tt9253284", // 安多
   26101:"tt9795876", 26102:"tt9795876", // 星际迷航神童
   40601:"tt0795176", 40602:"tt5491994", 40603:"tt9805674", // 地球脉动
-  40701:"tt10541088", 40702:"tt10541088", 40703:"tt10541088", 40704:"tt10541088",// 克拉克森农场
+  40701:"tt10541088", 40702:"tt10541088", 40703:"tt10541088", 40704:"tt10541088",40705:"tt10541088",// 克拉克森农场
   50311:"tt0094525", 50312:"tt0094525", 50313:"tt0094525", 50314:"tt0094525", 50315:"tt0094525", 50316:"tt0094525", 50317:"tt0094525", 50318:"tt0094525", 50319:"tt0094525", 50320:"tt0094525", 50321:"tt0094525", 50322:"tt0094525", 50323:"tt0094525", // 波洛
   50411:"tt1734537", 50412:"tt1734537", 50413:"tt1734537", 50414:"tt1734537", 50415:"tt1734537", 50416:"tt1734537", // 马普尔小姐
   12609:"tt14164730", 12610:"tt33043892", // 嗜血法医新生/复生
@@ -5953,7 +5997,8 @@ const IMDB_DICT = {
   13301:"tt1442462", 13302:"tt1442462", 13303:"tt1442462", 13304:"tt1442462", 13305:"tt1442462", 13306:"tt1442462", 13307:"tt1442462", // 傲骨贤妻
   11701:"tt1520211", 11702:"tt1520211", 11703:"tt1520211", 11704:"tt1520211", 11705:"tt1520211", 11706:"tt1520211", 11707:"tt1520211", 11708:"tt1520211", 11709:"tt1520211", 11710:"tt1520211", 11711:"tt1520211", // 行尸走肉
   13201:"tt5555260", 13202:"tt5555260", 13203:"tt5555260", 13204:"tt5555260", 13205:"tt5555260", 13206:"tt5555260", // 我们这一天
-  12501:"tt4236770", 12502:"tt4236770", 12503:"tt4236770", 12504:"tt4236770", 12505:"tt4236770", 12506:"tt13991232", 12507:"tt18335752" // 黄石及前传
+  12501:"tt4236770", 12502:"tt4236770", 12503:"tt4236770", 12504:"tt4236770", 12505:"tt4236770", 12506:"tt13991232", 12507:"tt18335752" ,// 黄石及前传
+  27001:"tt2431438", 27002:"tt2431438" // 超感猎杀
 };
 
 window.DATA = window.DATA.map(function(item) {

@@ -8,9 +8,8 @@
 <title>GRINGOTTS</title>
 <link href="https://fonts.font.im/css2?family=Rajdhani:wght@500;600;700&amp;family=Share+Tech+Mono&amp;family=Cinzel+Decorative:wght@700;900&amp;display=swap" rel="stylesheet"/>
 
-
 <link href="style.css" rel="stylesheet"/></head>
-<body class="zh">
+<body class="zh dark">
 <div class="topbtns">
 <button class="aboutbtn" onclick="openAbout()"><span class="zh">关于</span><span class="en">About</span></button>
 <button class="langbtn" id="lb" onclick="toggleLang()">EN</button>
@@ -18,7 +17,6 @@
 <!-- About Modal -->
 <div class="about-ov" id="about-ov" onclick="closeAboutOv(event)">
 <div class="about-modal" id="about-modal">
-<button class="about-close" onclick="closeAbout()">✕ <span class="zh">关闭</span><span class="en">Close</span></button>
 <div class="about-deco"></div>
 <div class="about-label"><span class="zh">关于本站</span><span class="en">ABOUT</span></div>
 <div class="about-title"><span class="zh">GRINGOTTS 影视库</span><span class="en">GRINGOTTS Collection</span></div>
@@ -32,7 +30,7 @@
 </div>
 </div>
 </div>
-<div class="page">
+<div class="gpage">
 <div class="hero">
 <span class="gringotts-title" data-text="GRINGOTTS">GRINGOTTS</span>
 <div class="hstats">
@@ -105,7 +103,7 @@
     <span class="pg-jump-label"><span class="zh">跳至</span><span class="en">GO TO</span></span>
     <div class="pg-jump-wrap">
       <button class="pg-spin-btn" id="pg-minus">−</button>
-      <input id="pg-jump" min="1" placeholder="—" type="number"/>
+      <input id="pg-jump" min="1" type="number"/>
       <button class="pg-spin-btn" id="pg-plus">+</button>
     </div>
     <button class="pg-edge" id="pg-go"><span class="zh">跳转</span><span class="en">Go</span></button>
@@ -117,7 +115,6 @@
 </div>
 <div class="ov" id="ov" onclick="closeOv(event)">
 <div class="modal">
-<button class="mclose" onclick="closeModal()">✕ <span class="zh">关闭</span><span class="en">Close</span></button>
 <div class="mhead-row">
 <div class="modal-cover" id="modal-cover">
 <div class="modal-cover-placeholder"><svg fill="none" height="32" opacity=".4" stroke="currentColor" stroke-width="1.2" viewbox="0 0 24 24" width="32"><rect height="18" rx="2" width="18" x="3" y="3"></rect><path d="M9 3v18M3 9h6M3 15h6"></path><circle cx="15.5" cy="10.5" r="2.5"></circle></svg></div>
