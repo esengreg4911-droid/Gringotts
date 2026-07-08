@@ -76,142 +76,15 @@ document.getElementById("pg-jump").addEventListener("keydown",function(e){
 document.getElementById("pg-go").addEventListener("click",function(){doJump();});
 document.getElementById("srch").addEventListener("input",function(){curPage=1;render();});
 
-// ── TMDB dynamic cover loader ──
-var TMDB_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjMmY4NDY3ZTBkMDIxODg2MTlkMWUwNGIxNDI3NjEyOCIsIm5iZiI6MTc3NzI5MDg3OC4yMjcsInN1YiI6IjY5ZWY0ZTdlZTIxNDc3YTZmYTkzNmU5OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.X1rJdsAvRO57QZVrPnS99ATzrRVXeKuOlsG994KdLqo";
-var TMDB_IMG = "https://image.tmdb.org/t/p/w500";
-
-// Title overrides: when TMDB title differs from our stored title
-// key = our base title (lowercased), value = correct TMDB search title
-var TITLE_OVERRIDES = {
-  "all creatures great and small": "All Creatures Great & Small",
-  "schindler list": "Schindler's List",
-  "2001 a space odyssey": "2001: A Space Odyssey",
-  "la confidential": "L.A. Confidential",
-  "cien anos de soledad": "One Hundred Years of Solitude",
-  "war and peace": "War & Peace",
-  "война и мир": "War & Peace",
-  "请回答1988": "Reply 1988",
-  "灌篮高手": "Slam Dunk",
-  "a knight of the seven kingdoms": "A Knight of the Seven Kingdoms"
-};
-var _coverCache = {};    // item id -> final image url
-var _showIdCache = {};   // base show title -> tmdb show id
-var _fetchQueue = [];
-var _fetchRunning = 0;
-var FETCH_CONCURRENCY = 0;
-
-// Parse title: returns {base, season} e.g. "Breaking Bad S3" -> {base:"Breaking Bad", season:3}
-function parseTitle(d) {
-  if (d.type === 'film') return {base: d.title, season: null};
-  var m = d.title.match(/^(.+?)\s+S(\d+)$/);
-  if (m) return {base: m[1].trim(), season: parseInt(m[2])};
-  // Single-season series (no S# suffix)
-  return {base: d.title, season: 1};
-}
-
-function tmdbHeaders() {
-  return {headers: {'Authorization': 'Bearer ' + TMDB_TOKEN, 'accept': 'application/json'}};
-}
-
-function fetchPosterForItem(d) {
-  return new Promise(function(resolve) {
-    var parsed = parseTitle(d);
-
-    // Step 1: get TMDB show/movie ID
-    function getShowId() {
-      var key = (d.type === 'film' ? 'film:' : 'tv:') + parsed.base.toLowerCase();
-      if (_showIdCache[key] !== undefined) return Promise.resolve(_showIdCache[key]);
-      var searchTitle = TITLE_OVERRIDES[parsed.base.toLowerCase()] || parsed.base;
-      var url = d.type === 'film'
-        ? 'https://api.themoviedb.org/3/search/movie?query=' + encodeURIComponent(searchTitle) + '&year=' + d.year + '&language=en-US'
-        : 'https://api.themoviedb.org/3/search/tv?query=' + encodeURIComponent(searchTitle) + '&language=en-US';
-      return fetch(url, tmdbHeaders()).then(function(r){return r.json();}).then(function(data){
-        var results = data.results || [];
-        // Find best match
-        var best = null;
-        var qtLower = (TITLE_OVERRIDES[parsed.base.toLowerCase()] || parsed.base).toLowerCase();
-        for (var i = 0; i < results.length; i++) {
-          var r = results[i];
-          var rt = (r.title || r.name || '').toLowerCase();
-          if (rt === qtLower) { best = r; break; }
-          if (!best) best = r;
-        }
-        var id = best ? best.id : null;
-        _showIdCache[key] = id;
-        // For films, also store the poster directly
-        if (d.type === 'film' && best && best.poster_path) {
-          _showIdCache[key + ':poster'] = TMDB_IMG + best.poster_path;
-        }
-        return id;
-      });
-    }
-
-    if (d.type === 'film') {
-      var key = 'film:' + parsed.base.toLowerCase();
-      // Check if we already have poster from search
-      if (_showIdCache[key + ':poster']) { resolve(_showIdCache[key + ':poster']); return; }
-      getShowId().then(function(id) {
-        var poster = _showIdCache[key + ':poster'];
-        resolve(poster || null);
-      }).catch(function(){ resolve(null); });
-    } else {
-      // TV series: get show ID then fetch season poster
-      getShowId().then(function(showId) {
-        if (!showId) { resolve(null); return; }
-        var seasonNum = parsed.season || 1;
-        var seasonUrl = 'https://api.themoviedb.org/3/tv/' + showId + '/season/' + seasonNum + '?language=en-US';
-        return fetch(seasonUrl, tmdbHeaders()).then(function(r){return r.json();}).then(function(data){
-          if (data.poster_path) {
-            resolve(TMDB_IMG + data.poster_path);
-          } else {
-            // Fall back to show-level poster
-            var showUrl = 'https://api.themoviedb.org/3/tv/' + showId + '?language=en-US';
-            return fetch(showUrl, tmdbHeaders()).then(function(r){return r.json();}).then(function(show){
-              resolve(show.poster_path ? TMDB_IMG + show.poster_path : null);
-            });
-          }
-        });
-      }).catch(function(){ resolve(null); });
-    }
-  });
-}
-
-function enqueue(id) {
-  if (_coverCache[id] !== undefined || _fetchQueue.indexOf(id) !== -1) return;
-  _fetchQueue.push(id);
-  drainQueue();
-}
-
-function drainQueue() {
-  while (_fetchRunning < FETCH_CONCURRENCY && _fetchQueue.length > 0) {
-    var id = _fetchQueue.shift();
-    if (_coverCache[id] !== undefined) { drainQueue(); return; }
-    _fetchRunning++;
-    var d = DATA.find(function(x){ return x.id === id; });
-    if (!d) { _fetchRunning--; drainQueue(); continue; }
-    fetchPosterForItem(d).then(function(id){ return function(url) {
-      _coverCache[id] = url || '';
-      if (url) {
-        // Apply to cover element if on page
-        var el = document.querySelector('.mc-cover[data-id="' + id + '"]');
-        if (el) applyCover(el, url);
-        // Apply to modal if open for this id
-        var mc = document.getElementById('modal-cover');
-        if (mc && mc._currentId === id) applyCover(mc, url);
-      }
-      _fetchRunning--;
-      drainQueue();
-    };}(id)).catch(function(){ _fetchRunning--; drainQueue(); });
-  }
-}
+// ── Local cover loader ──
+var _coverCache = {};    // item id -> local image url
 
 function loadCovers() {
   setTimeout(function(){
     var els = document.querySelectorAll('.mc-cover[data-id]');
     els.forEach(function(cover){
       var id = parseInt(cover.getAttribute('data-id'));
-      if (_coverCache[id]) { applyCover(cover, _coverCache[id]); return; }
-      enqueue(id);
+      if (_coverCache[id]) applyCover(cover, _coverCache[id]);
     });
   }, 30);
 }
@@ -227,11 +100,6 @@ function applyCover(cover, url) {
   img.alt = '';
   cover.innerHTML = '';
   cover.appendChild(img);
-}
-
-function showPlaceholder(cover) {
-  if (!cover) return;
-  cover.style.background = 'linear-gradient(160deg,rgba(20,40,80,0.7) 0%,rgba(8,16,40,0.9) 100%)';
 }
 
 function renderPagination(total, tot) {
@@ -345,8 +213,7 @@ function render(){
       +'<span class="ct cttype">'+tl[d.type][curLang]+'</span>'
       +'</div></div>';
   }).join("");
-  // Async-load cover images after render
-  _coverQueue = [];
+  // Load local cover images after render
   loadCovers();
 }
 
@@ -365,11 +232,7 @@ function openM(id){
   if (mc) {
     mc.innerHTML = '<div class="modal-cover-placeholder"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" opacity=".4"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18M3 9h6M3 15h6"/><circle cx="15.5" cy="10.5" r="2.5"/></svg></div>';
     mc._currentId = d.id;
-    if (_coverCache[d.id]) {
-      applyCover(mc, _coverCache[d.id]);
-    } else {
-      enqueue(d.id);
-    }
+    if (_coverCache[d.id]) applyCover(mc, _coverCache[d.id]);
   }
   var imdbUrl = d.imdb_id ? "https://www.imdb.com/title/" + d.imdb_id + "/" : "https://www.imdb.com/find?q=" + encodeURIComponent(d.title);
   var doubanUrl = "https://search.douban.com/movie/subject_search?search_text=" + encodeURIComponent(d.zh||d.title);
