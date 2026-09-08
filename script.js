@@ -4,13 +4,28 @@ var filters = {genre:"all",type:"all",lang:"all"};
 var sortBy = "year";
 var sortDir = "desc";
 var curPage = 1;
-var PAGE_SIZE = 21;
-var ll = {en:"English",fr:"Français",it:"Italiano",hi:"Hindi",jp:"日本語",de:"Deutsch",ko:"한국어"};
+var PAGE_SIZE = 14;
+var sidebarToggle=document.getElementById('sidebar-toggle');
+var filterSidebar=document.getElementById('filter-sidebar');
+var filterContent=document.getElementById('filter-content');
+var narrowScreen=window.matchMedia('(max-width:759px)');
+function setSidebarOpen(open){
+  if(!open&&filterContent.contains(document.activeElement))sidebarToggle.focus();
+  filterContent.inert=!open;
+  filterContent.setAttribute('aria-hidden',String(!open));
+  document.body.classList.toggle('sidebar-collapsed',!open);
+  sidebarToggle.setAttribute('aria-expanded',String(open));
+}
+sidebarToggle.addEventListener('click',function(){setSidebarOpen(document.body.classList.contains('sidebar-collapsed'));});
+setSidebarOpen(!narrowScreen.matches);
+narrowScreen.addEventListener('change',function(e){setSidebarOpen(!e.matches);});
+var ll = {en:"English",fr:"Français",it:"Italiano",hi:"Hindi",jp:"日本語",de:"Deutsch",ko:"한국어",es:"Español",ru:"Русский"};
 var tl = {film:{zh:"电影",en:"Film"},series:{zh:"剧集",en:"Series"}};
 var gl = {"Feature":"Feature","Fantasy":"Fantasy","Documentary":"Documentary","Suspense":"Suspense","Science Fiction":"Sci-Fi"};
 
 function animN(id,n){
   var el=document.getElementById(id),v=0,s=Math.ceil(n/40);
+  if(!el)return;
   var iv=setInterval(function(){v=Math.min(v+s,n);el.textContent=v;if(v>=n)clearInterval(iv);},28);
 }
 
@@ -18,6 +33,7 @@ document.querySelectorAll(".fb[data-f]").forEach(function(b){
   b.addEventListener("click",function(){
     var f=this.dataset.f,v=this.dataset.v;
     filters[f]=v;
+    curPage=1;
     document.querySelectorAll(".fb[data-f='"+f+"']").forEach(function(x){x.classList.remove("on");});
     this.classList.add("on");
     render();
@@ -44,19 +60,25 @@ document.querySelectorAll(".fb[data-sort]").forEach(function(b){
   });
 });
 // Pagination controls
-document.getElementById("pg-first").addEventListener("click",function(){curPage=1;render();});
+function goToPage(page){
+  curPage=page;
+  render();
+  var toolbar=document.querySelector('.browse-toolbar');
+  if(toolbar.getBoundingClientRect().top<0)toolbar.scrollIntoView({block:'start',behavior:'instant'});
+}
+document.getElementById("pg-first").addEventListener("click",function(){goToPage(1);});
 document.getElementById("pg-last").addEventListener("click",function(){
-  var tot=Math.ceil(window._filteredLen/PAGE_SIZE)||1;curPage=tot;render();
+  var tot=Math.ceil(window._filteredLen/PAGE_SIZE)||1;goToPage(tot);
 });
-document.getElementById("pg-prev").addEventListener("click",function(){if(curPage>1){curPage--;render();}});
+document.getElementById("pg-prev").addEventListener("click",function(){if(curPage>1){goToPage(curPage-1);}});
 document.getElementById("pg-next").addEventListener("click",function(){
-  var tot=Math.ceil(window._filteredLen/PAGE_SIZE)||1;if(curPage<tot){curPage++;render();}
+  var tot=Math.ceil(window._filteredLen/PAGE_SIZE)||1;if(curPage<tot){goToPage(curPage+1);}
 });
 function doJump(){
   var el=document.getElementById("pg-jump");
   var tot=Math.ceil(window._filteredLen/PAGE_SIZE)||1;
   var v=parseInt(el.value);
-  if(!isNaN(v)){curPage=Math.max(1,Math.min(v,tot));render();el.value=curPage;}
+  if(!isNaN(v)){goToPage(Math.max(1,Math.min(v,tot)));el.value=curPage;}
 }
 document.getElementById("pg-minus").addEventListener("click",function(){
   var el=document.getElementById("pg-jump");
@@ -98,7 +120,7 @@ function applyCover(cover, url) {
   img.onerror = function(){ img.remove(); };
   img.src = url;
   img.alt = '';
-  cover.innerHTML = '';
+  cover.querySelectorAll('img,.mc-cover-placeholder,.modal-cover-placeholder').forEach(function(el){el.remove();});
   cover.appendChild(img);
 }
 
@@ -117,6 +139,8 @@ function renderPagination(total, tot) {
   if(pgLast) pgLast.disabled = (curPage >= tot);
 
   if(pgInfo) pgInfo.textContent = total > 0 ? curPage + " / " + tot : "";
+  document.getElementById('pg-jump').value=curPage;
+  document.getElementById('pg-jump').max=tot;
 
   if(!numsEl) return;
   numsEl.innerHTML = "";
@@ -126,14 +150,12 @@ function renderPagination(total, tot) {
   var pages = [];
   if(tot <= 7) {
     for(var i=1;i<=tot;i++) pages.push(i);
+  } else if(curPage <= 4) {
+    pages=[1,2,3,4,5,"…",tot];
+  } else if(curPage >= tot-3) {
+    pages=[1,"…",tot-4,tot-3,tot-2,tot-1,tot];
   } else {
-    var left = Math.max(2, curPage-1);
-    var right = Math.min(tot-1, curPage+1);
-    pages.push(1);
-    if(left > 2) pages.push("…");
-    for(var p=left;p<=right;p++) pages.push(p);
-    if(right < tot-1) pages.push("…");
-    pages.push(tot);
+    pages=[1,"…",curPage-1,curPage,curPage+1,"…",tot];
   }
 
   pages.forEach(function(p) {
@@ -147,7 +169,7 @@ function renderPagination(total, tot) {
       btn.className = "pg-num" + (p === curPage ? " on" : "");
       btn.textContent = p;
       btn.addEventListener("click", function(n){
-        return function(){curPage=n;render();};
+        return function(){goToPage(n);};
       }(p));
       numsEl.appendChild(btn);
     }
@@ -155,21 +177,15 @@ function renderPagination(total, tot) {
 }
 
 function render(){
-  var q=(document.getElementById("srch").value||"").toLowerCase();
+  var q=(document.getElementById("srch").value||"").trim().toLowerCase();
   var list=DATA.filter(function(d){
     if(filters.genre!=="all"&&d.genre!==filters.genre)return false;
     if(filters.type!=="all"&&d.type!==filters.type)return false;
-    if(filters.lang!=="all"&&d.lang!==filters.lang)return false;
-    if(q&&d.title.toLowerCase().indexOf(q)<0&&d.zh.indexOf(q)<0)return false;
+    if(q&&(d.title||"").toLowerCase().indexOf(q)<0&&(d.zh||"").toLowerCase().indexOf(q)<0)return false;
     return true;
-  });
-  // Sorting: year/imdb/douban all support asc/desc
-  list=list.slice().sort(function(a,b){
+  }).slice().sort(function(a,b){
     var dir=sortDir==="asc"?1:-1;
-    if(sortBy==="year") return dir*(a.year-b.year);
-    if(sortBy==="imdb") return dir*(a.imdb-b.imdb);
-    if(sortBy==="douban") return dir*(a.douban-b.douban);
-    return 0;
+    return dir*((a[sortBy]||0)-(b[sortBy]||0))||a.id-b.id;
   });
 
   var grid=document.getElementById("mgrid");
@@ -177,11 +193,12 @@ function render(){
   var cnt=document.getElementById("cnt");
   var pgInfo=document.getElementById("pg-info");
   nores.style.display=list.length===0?"block":"none";
-  cnt.textContent=list.length+(curLang==="zh"?" 部":" titles");
-  if(!list.length){grid.innerHTML="";renderPagination(0,1);if(pgInfo)pgInfo.textContent="";return;}
+  if(cnt)cnt.textContent=list.length+(curLang==="zh"?" 部":" titles");
+  window._filteredLen=list.length;
+  document.getElementById('pgrow').hidden=!list.length;
+  if(!list.length){curPage=1;grid.innerHTML="";renderPagination(0,1);if(pgInfo)pgInfo.textContent="";return;}
 
   // Pagination
-  window._filteredLen=list.length;
   var tot=Math.ceil(list.length/PAGE_SIZE)||1;
   if(curPage>tot)curPage=tot;
   var start=(curPage-1)*PAGE_SIZE;
@@ -191,40 +208,27 @@ function render(){
 
   grid.innerHTML=pageList.map(function(d){
     var nm=curLang==="zh"&&d.zh?d.zh:d.title;
-    var gl_zh={"Feature":"剧情","Fantasy":"奇幻","Documentary":"纪录片","Suspense":"侦探","Science Fiction":"科幻"};
     var coverHtml='<div class="mc-cover" data-id="'+d.id+'">'
       +'<div class="mc-cover-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18M3 9h6M3 15h6"/><circle cx="15.5" cy="10.5" r="2.5"/></svg></div>'
       +'</div>';
-    // 豆瓣保留搜索，IMDb 智能判断跳转：
-    var imdbUrl = d.imdb_id ? "https://www.imdb.com/title/" + d.imdb_id + "/" : "https://www.imdb.com/find?q=" + encodeURIComponent(d.title);
-    var doubanUrl = "https://search.douban.com/movie/subject_search?search_text=" + encodeURIComponent(d.zh||d.title);
-
-    return '<div class="mc" onclick="openM('+d.id+')">'
+    return '<article class="mc">'
+      +'<button class="mc-open" aria-labelledby="mc-title-'+d.id+'" aria-haspopup="dialog" onclick="openM('+d.id+',this)"></button>'
       +coverHtml
-      +'<div class="mc-g">'+(curLang==="zh"?gl_zh[d.genre]||d.genre:d.genre)+'</div>'
-      +'<div class="mc-t">'+nm+'</div>'
-      +'<div class="mc-m">'+d.year+(d.dir?' · '+d.dir.split(',')[0]:'')+'</div>'
-      +'<div class="mc-r">'
-      +'<a class="rp ri" href="'+imdbUrl+'" target="_blank" rel="noopener" onclick="event.stopPropagation()" title="IMDb"><span class="rp-plat">IMDb</span><span class="rp-score">'+d.imdb+'</span></a>'
-      +'<a class="rp rd" href="'+doubanUrl+'" target="_blank" rel="noopener" onclick="event.stopPropagation()" title="豆瓣"><span class="rp-plat">'+(curLang==="zh"?"豆瓣":"Douban")+'</span><span class="rp-score">'+d.douban+'</span></a>'
-      +'</div>'
-      +'<div class="mc-tags">'
-      +'<span class="ct ctlang">'+(ll[d.lang]||d.lang)+'</span>'
-      +'<span class="ct cttype">'+tl[d.type][curLang]+'</span>'
-      +'</div></div>';
+      +'<div class="mc-body"><div class="mc-t" id="mc-title-'+d.id+'">'+nm+'</div>'
+      +'</div></article>';
   }).join("");
   // Load local cover images after render
   loadCovers();
 }
 
-function openM(id){
+function openM(id,trigger){
   var d=DATA.find(function(x){return x.id===id;});
   if(!d)return;
   var zh=curLang==="zh";
   var nm=zh&&d.zh?d.zh:d.title;
   var orig=(zh&&d.zh)?d.title:(d.zh||"");
   var gl_zh2={"Feature":"剧情","Fantasy":"奇幻","Documentary":"纪录片","Suspense":"侦探","Science Fiction":"科幻"};
-  document.getElementById("mcat").textContent=(curLang==="zh"?gl_zh2[d.genre]||d.genre:d.genre)+" · "+tl[d.type][curLang];
+  document.getElementById("mcat").textContent=(curLang==="zh"?gl_zh2[d.genre]||d.genre:d.genre)+" · "+tl[d.type][curLang]+" · "+d.year;
   document.getElementById("mtitle").textContent=nm;
   document.getElementById("morig").textContent=orig;
   // Modal cover
@@ -239,22 +243,49 @@ function openM(id){
   document.getElementById("mrats").innerHTML=
     '<a class="mrat im" href="'+imdbUrl+'" target="_blank" rel="noopener" title="Search on IMDb" style="text-decoration:none;cursor:pointer"><div class="mrn">'+d.imdb+'</div><div class="mrl">IMDb ↗</div></a>'
     +'<a class="mrat db" href="'+doubanUrl+'" target="_blank" rel="noopener" title="在豆瓣搜索" style="text-decoration:none;cursor:pointer"><div class="mrn">'+d.douban+'</div><div class="mrl">'+(zh?"豆瓣评分":"Douban")+' ↗</div></a>';
-  var yl=zh?"年份":"Year",dl=zh?"导演":"Director",ll2=zh?"语言":"Language",cl=zh?"国家":"Country";
-  document.getElementById("minfo").innerHTML=
-    '<div class="miitem"><div class="milbl">'+yl+'</div><div class="mival">'+d.year+'</div></div>'
-    +'<div class="miitem"><div class="milbl">'+dl+'</div><div class="mival">'+(d.dir||"—")+'</div></div>'
-    +'<div class="miitem"><div class="milbl">'+ll2+'</div><div class="mival">'+(ll[d.lang]||d.lang)+'</div></div>'
-    +'<div class="miitem"><div class="milbl">'+cl+'</div><div class="mival">'+(d.country||"—")+'</div></div>';
-  document.getElementById("mdesc").textContent=zh?d.desc_zh:d.desc_en;
-  document.getElementById("ov").classList.add("open");
+  showDialog(document.getElementById('ov'),trigger);
 }
 function closeOv(e){if(e.target===document.getElementById("ov"))closeModal();}
-function closeModal(){document.getElementById("ov").classList.remove("open");}
-document.addEventListener("keydown",function(e){if(e.key==="Escape")closeModal();});
+function closeModal(){document.getElementById("ov").close();}
+
+// Native dialogs make the background inert; retain the page position on mobile too.
+function showDialog(dialog,trigger){
+  if(dialog.open)return;
+  var previous=document.querySelector('dialog[open]');
+  if(previous)return;
+  dialog._returnFocus=trigger||document.activeElement;
+  dialog._scrollPosition={x:window.scrollX,y:window.scrollY};
+  document.body.style.setProperty('--dialog-scroll-top',-window.scrollY+'px');
+  document.body.classList.add('dialog-open');
+  dialog.showModal();
+  dialog.querySelector('.modal,.about-modal').scrollTop=0;
+  dialog.querySelector('.dialog-close').focus({preventScroll:true});
+}
+
+document.querySelectorAll('dialog').forEach(function(dialog){
+  dialog.addEventListener('close',function(){
+    document.body.classList.remove('dialog-open');
+    document.body.style.removeProperty('--dialog-scroll-top');
+    var position=dialog._scrollPosition;
+    if(position)window.scrollTo(position.x,position.y);
+    if(dialog._returnFocus&&dialog._returnFocus.isConnected){
+      dialog._returnFocus.focus({preventScroll:true});
+    }
+  });
+  dialog.addEventListener('keydown',function(e){
+    if(e.key!=='Tab')return;
+    var focusable=Array.from(dialog.querySelectorAll('button,a[href],input,[tabindex="0"]')).filter(function(el){return !el.disabled&&el.getClientRects().length>0;});
+    var first=focusable[0],last=focusable[focusable.length-1];
+    if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}
+    else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}
+  });
+});
 
 function toggleLang(){
   curLang=curLang==="zh"?"en":"zh";
-  document.body.className=curLang+" dark";
+  document.body.classList.remove('zh','en');
+  document.body.classList.add(curLang);
+  document.documentElement.lang=curLang;
   document.getElementById("lb").textContent=curLang==="zh"?"EN":"中文";
   render();
 }
@@ -271,10 +302,9 @@ if(defBtn){defBtn.classList.add("on");}
   Object.keys(LOCAL).forEach(function(id){_coverCache[parseInt(id)]=LOCAL[id];});
 })();
 
-function openAbout(){document.getElementById("about-ov").classList.add("open");}
-function closeAbout(){document.getElementById("about-ov").classList.remove("open");}
+function openAbout(){showDialog(document.getElementById("about-ov"),document.querySelector('.aboutbtn'));}
+function closeAbout(){document.getElementById("about-ov").close();}
 function closeAboutOv(e){if(e.target===document.getElementById("about-ov"))closeAbout();}
-document.addEventListener("keydown",function(e){if(e.key==="Escape")closeAbout();});
 
 
 render();

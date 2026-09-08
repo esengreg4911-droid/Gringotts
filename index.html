@@ -6,53 +6,71 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <title>GRINGOTTS</title>
-<link href="https://fonts.font.im/css2?family=Rajdhani:wght@500;600;700&amp;family=Share+Tech+Mono&amp;family=Cinzel+Decorative:wght@700;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.font.im/css2?family=Cinzel+Decorative:wght@700;900&amp;display=swap" rel="stylesheet"/>
 
 <link href="style.css" rel="stylesheet"/></head>
 <body class="zh dark">
+<!-- About Modal -->
+<dialog class="about-ov" id="about-ov" aria-labelledby="about-title" onclick="closeAboutOv(event)">
+<div class="about-modal" id="about-modal">
+<div class="dialog-toolbar"><button class="dialog-close" onclick="closeAbout()" aria-label="关闭 / Close" autofocus><span aria-hidden="true">×</span></button></div>
+<div class="about-deco"></div>
+<div class="about-label"><span class="zh">关于本站</span><span class="en">ABOUT</span></div>
+<div class="about-title" id="about-title"><span class="zh">GRINGOTTS 影视库</span><span class="en">GRINGOTTS Collection</span></div>
+<div class="about-body">
+<span class="zh">如有任何问题或意见，欢迎通过以下邮箱与我联系：<br/><br/>
+<a href="mailto:maox_115@163.com">maox_115@163.com</a>
+</span>
+<span class="en">For any questions or feedback, feel free to reach out:<br/><br/>
+<a href="mailto:maox_115@163.com">maox_115@163.com</a>
+</span>
+</div>
+</div>
+</dialog>
+<div class="gpage">
+<header class="site-header">
+<h1 class="gringotts-title">GRINGOTTS</h1>
+<div class="srow">
+<label class="sr-only" for="srch"><span class="zh">搜索作品</span><span class="en">Search titles</span></label>
+<input id="srch" placeholder="搜索片名 / Search titles" type="search"/>
+</div>
 <div class="topbtns">
 <button class="aboutbtn" onclick="openAbout()"><span class="zh">关于</span><span class="en">About</span></button>
 <button class="langbtn" id="lb" onclick="toggleLang()">EN</button>
 </div>
-<!-- About Modal -->
-<div class="about-ov" id="about-ov" onclick="closeAboutOv(event)">
-<div class="about-modal" id="about-modal">
-<div class="about-deco"></div>
-<div class="about-label"><span class="zh">关于本站</span><span class="en">ABOUT</span></div>
-<div class="about-title"><span class="zh">GRINGOTTS 影视库</span><span class="en">GRINGOTTS Collection</span></div>
-<div class="about-body">
-<span class="zh">如有任何问题或意见，欢迎通过以下邮箱与我联系：<br/><br/>
-<a href="mailto:13661764524@163.com">13661764524@163.com</a>
-</span>
-<span class="en">For any questions or feedback, feel free to reach out:<br/><br/>
-<a href="mailto:13661764524@163.com">13661764524@163.com</a>
-</span>
+</header>
+<div class="browse-toolbar">
+<nav class="pgwrap" id="pgrow" aria-label="分页 / Pagination">
+  <div class="pg-nav-row">
+    <button class="pg-edge" id="pg-first"><span class="zh">首页</span><span class="en">First</span></button>
+    <button class="pg-arrow" id="pg-prev"><span class="zh">上一页</span><span class="en">Prev</span></button>
+    <div class="pg-nums" id="pg-nums"></div>
+    <button class="pg-arrow" id="pg-next"><span class="zh">下一页</span><span class="en">Next</span></button>
+    <button class="pg-edge" id="pg-last"><span class="zh">尾页</span><span class="en">Last</span></button>
+    <span id="pg-info"></span>
+  </div>
+  <div class="pg-jump-row">
+    <label class="pg-jump-label" for="pg-jump"><span class="zh">跳至</span><span class="en">GO TO</span></label>
+    <div class="pg-jump-wrap">
+      <button class="pg-spin-btn" id="pg-minus" aria-label="减少页码 / Decrease page">−</button>
+      <input id="pg-jump" min="1" type="number"/>
+      <button class="pg-spin-btn" id="pg-plus" aria-label="增加页码 / Increase page">+</button>
+    </div>
+    <button class="pg-edge" id="pg-go"><span class="zh">跳转</span><span class="en">Go</span></button>
+  </div>
+</nav>
 </div>
-</div>
-</div>
-<div class="gpage">
-<div class="hero">
-<span class="gringotts-title" data-text="GRINGOTTS">GRINGOTTS</span>
-<div class="hstats">
-<div class="hstat"><div class="hsn" id="sf">0</div><div class="hsl"><span class="zh">电影</span><span class="en">FILMS</span></div></div>
-<div class="hstat"><div class="hsn" id="ss">0</div><div class="hsl"><span class="zh">剧集</span><span class="en">SERIES</span></div></div>
-<div class="hstat"><div class="hsn">5</div><div class="hsl"><span class="zh">类别</span><span class="en">GENRES</span></div></div>
-</div>
-</div>
-<div class="sec" id="films">
-<div class="sechd">
-<span class="secicon">▶</span>
-<span class="sectitle"><span class="zh">影视收藏</span><span class="en">Film &amp; Series</span></span>
-<div class="secline"></div>
-<span class="seccount" id="cnt"></span>
-</div>
-<p class="secdesc"><span class="zh">点击任意作品查看详情、双语简介及评分。</span><span class="en">Click any title for bilingual synopsis, ratings and details.</span></p>
-<div class="srow">
-<span class="slbl"><span class="zh">搜索</span><span class="en">SEARCH</span></span>
-<input id="srch" placeholder="Search / 搜索..." type="text"/>
-</div>
+<div class="catalog-layout">
+<aside class="filter-sidebar" id="filter-sidebar" aria-labelledby="filter-heading">
+<button class="sidebar-toggle" id="sidebar-toggle" aria-controls="filter-content" aria-expanded="true" title="展开或收起筛选 / Show or hide filters">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M9 4v16"/></svg>
+<span class="toggle-hide"><span class="zh">收起筛选</span><span class="en">Hide filters</span></span>
+<span class="toggle-show"><span class="zh">展开筛选</span><span class="en">Show filters</span></span>
+</button>
+<div class="filter-content" id="filter-content">
+<h2 id="filter-heading"><span class="zh">筛选作品</span><span class="en">Filter collection</span></h2>
 <div class="fgroup">
-<div class="frow">
+<div class="frow genre-filter">
 <span class="flbl"><span class="zh">类型</span><span class="en">GENRE</span></span>
 <button class="fb on" data-f="genre" data-v="all"><span class="zh">全部</span><span class="en">All</span></button>
 <button class="fb" data-f="genre" data-v="Feature"><span class="zh">剧情</span><span class="en">Feature</span></button>
@@ -68,53 +86,23 @@
 <button class="fb" data-f="type" data-v="series"><span class="zh">剧集</span><span class="en">Series</span></button>
 </div>
 <div class="frow">
-<span class="flbl"><span class="zh">语言</span><span class="en">LANG</span></span>
-<button class="fb on" data-f="lang" data-v="all"><span class="zh">全部</span><span class="en">All</span></button>
-<button class="fb" data-f="lang" data-v="en"><span class="zh">英语</span><span class="en">English</span></button>
-<button class="fb" data-f="lang" data-v="fr"><span class="zh">法语</span><span class="en">French</span></button>
-<button class="fb" data-f="lang" data-v="it"><span class="zh">意大利语</span><span class="en">Italian</span></button>
-<button class="fb" data-f="lang" data-v="hi"><span class="zh">印地语</span><span class="en">Hindi</span></button>
-<button class="fb" data-f="lang" data-v="jp"><span class="zh">日语</span><span class="en">Japanese</span></button>
-<button class="fb" data-f="lang" data-v="de"><span class="zh">德语</span><span class="en">German</span></button>
-<button class="fb" data-f="lang" data-v="ko"><span class="zh">韩语</span><span class="en">Korean</span></button>
-<button class="fb" data-f="lang" data-v="es"><span class="zh">西班牙语</span><span class="en">Spanish</span></button>
-<button class="fb" data-f="lang" data-v="ru"><span class="zh">俄语</span><span class="en">Russian</span></button>
-</div>
-<div class="frow">
 <span class="flbl"><span class="zh">排序</span><span class="en">SORT</span></span>
 <button class="fb" data-dir="desc" data-sort="year" id="sb-year"><span class="zh">年份</span><span class="en">Year</span> <span class="sdir">↓</span></button>
 <button class="fb" data-dir="desc" data-sort="imdb" id="sb-imdb">IMDb <span class="sdir">↓</span></button>
 <button class="fb" data-dir="desc" data-sort="douban" id="sb-douban"><span class="zh">豆瓣</span><span class="en">Douban</span> <span class="sdir">↓</span></button>
 </div>
 </div>
-<div class="pgwrap" id="pgrow">
-  <!-- Top row: nav + page numbers -->
-  <div class="pg-nav-row">
-    <span class="pg-nav-label"><span class="zh">分页</span><span class="en">PAGE</span></span>
-    <button class="pg-edge" id="pg-first"><span class="zh">首页</span><span class="en">First</span></button>
-    <button class="pg-arrow" id="pg-prev">‹</button>
-    <div class="pg-nums" id="pg-nums"></div>
-    <button class="pg-arrow" id="pg-next">›</button>
-    <button class="pg-edge" id="pg-last"><span class="zh">尾页</span><span class="en">Last</span></button>
-    <span id="pg-info"></span>
-  </div>
-  <!-- Bottom row: jump controls -->
-  <div class="pg-jump-row">
-    <span class="pg-jump-label"><span class="zh">跳至</span><span class="en">GO TO</span></span>
-    <div class="pg-jump-wrap">
-      <button class="pg-spin-btn" id="pg-minus">−</button>
-      <input id="pg-jump" min="1" type="number"/>
-      <button class="pg-spin-btn" id="pg-plus">+</button>
-    </div>
-    <button class="pg-edge" id="pg-go"><span class="zh">跳转</span><span class="en">Go</span></button>
-  </div>
 </div>
+</aside>
+<main class="sec" id="films" aria-label="影视收藏 / Film collection">
 <div class="mgrid" id="mgrid"></div>
 <div id="nores"><span class="zh">没有找到匹配的作品</span><span class="en">No titles found</span></div>
+</main>
 </div>
 </div>
-<div class="ov" id="ov" onclick="closeOv(event)">
+<dialog class="ov" id="ov" aria-labelledby="mtitle" onclick="closeOv(event)">
 <div class="modal">
+<div class="dialog-toolbar"><button class="dialog-close" onclick="closeModal()" aria-label="关闭 / Close" autofocus><span aria-hidden="true">×</span></button></div>
 <div class="mhead-row">
 <div class="modal-cover" id="modal-cover">
 <div class="modal-cover-placeholder"><svg fill="none" height="32" opacity=".4" stroke="currentColor" stroke-width="1.2" viewbox="0 0 24 24" width="32"><rect height="18" rx="2" width="18" x="3" y="3"></rect><path d="M9 3v18M3 9h6M3 15h6"></path><circle cx="15.5" cy="10.5" r="2.5"></circle></svg></div>
@@ -126,10 +114,8 @@
 <div class="mrats" id="mrats"></div>
 </div>
 </div>
-<div class="migrid" id="minfo"></div>
-<div class="mdesc" id="mdesc"></div>
 </div>
-</div>
+</dialog>
 
 <script src="data.js"></script>
 <script src="script.js"></script></body>
