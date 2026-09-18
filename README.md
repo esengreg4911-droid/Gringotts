@@ -41,7 +41,5 @@ GRINGOTTS 是一个纯静态的双语影视收藏站，以本地海报为主的�
 ---
 
 <div align="center">
-  <a href="https://www.gringotts04.cc/">gringotts04.cc</a>
-  <br><br>
   联系：<a href="mailto:maox_115@163.com">maox_115@163.com</a>
 </div>
