@@ -36,6 +36,6 @@ python -m http.server 8000
 
 ## 更新作品
 
-在 `data.js` 添加作品数据，并将对应海报放入 `covers/`；随后在 `script.js` 的 `LOCAL` 映射中登记作品 ID 与海报路径。
+在 `data.js` 添加作品数据，并将对应海报放入 `covers/`。四位以下的作品 ID 需在文件名左侧补零至四位，例如 ID `36` 对应 `covers/0036.jpg`；更长的 ID 直接作为文件名。
 
 联系：maox_115@163.com

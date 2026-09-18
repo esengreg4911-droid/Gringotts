@@ -6,13 +6,8 @@ window.DATA = [
     "year": 1994,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.3,
     "douban": 9.7,
-    "dir": "Frank Darabont",
-    "country": "USA",
-    "desc_zh": "银行家安迪被冤枉入狱，凭借会计才能为狱长效力，在漫长岁月中以坚韧与希望赢得狱友敬重，并与老囚犯瑞德结下深厚友谊。",
-    "desc_en": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope."
   },
   {
     "id": 2,
@@ -21,13 +16,8 @@ window.DATA = [
     "year": 1972,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.3,
-    "dir": "Francis Ford Coppola",
-    "country": "USA",
-    "desc_zh": "1945至1955年间，意裔黑帮柯里昂家族的传奇史诗。老教父遭遇暗杀后，幺子迈克尔挺身而出，展开一场血腥复仇，就此走上权力巅峰。",
-    "desc_en": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
   },
   {
     "id": 3,
@@ -36,13 +26,8 @@ window.DATA = [
     "year": 1974,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.3,
-    "dir": "Francis Ford Coppola",
-    "country": "USA",
-    "desc_zh": "双线叙事：1910年代少年维托在纽约崛起，1950年代迈克尔试图将家族势力扩张至拉斯维加斯、好莱坞与古巴，科莱昂家族的传奇延续。",
-    "desc_en": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba."
   },
   {
     "id": 4,
@@ -51,13 +36,8 @@ window.DATA = [
     "year": 1990,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 9.0,
-    "dir": "Francis Ford Coppola",
-    "country": "USA",
-    "desc_zh": "1979年，年迈的迈克尔·科莱昂试图将家族生意合法化，在为罪孽寻求救赎的同时，扶持年轻的接班人，家族权力的最后交接就此展开。",
-    "desc_en": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing."
   },
   {
     "id": 5,
@@ -66,13 +46,8 @@ window.DATA = [
     "year": 1994,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.8,
     "douban": 8.9,
-    "dir": "Quentin Tarantino",
-    "country": "USA",
-    "desc_zh": "杀手、毒枭情妇、落魄拳击手——三个交错的故事，在洛杉矶的犯罪世界中彼此碰撞。昆汀·塔伦蒂诺的解构叙事，颠覆了犯罪片的所有规则。",
-    "desc_en": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time."
   },
   {
     "id": 6,
@@ -81,13 +56,8 @@ window.DATA = [
     "year": 1993,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.5,
-    "dir": "Steven Spielberg",
-    "country": "USA",
-    "desc_zh": "二战期间，德国商人奥斯卡·辛德勒凭借一座工厂，从纳粹手中救出逾千名犹太人的真实故事。黑白影像，震撼人心。",
-    "desc_en": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II."
   },
   {
     "id": 7,
@@ -96,13 +66,8 @@ window.DATA = [
     "year": 1957,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.4,
-    "dir": "Sidney Lumet",
-    "country": "USA",
-    "desc_zh": "一桩看似铁证如山的谋杀案，在陪审室里被十二个立场各异的男人反复审视。偏见、良知与正义在密室中激烈交锋，悬念直到最后一刻。",
-    "desc_en": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other."
   },
   {
     "id": 8,
@@ -111,13 +76,8 @@ window.DATA = [
     "year": 1999,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.8,
     "douban": 9.0,
-    "dir": "David Fincher",
-    "country": "USA",
-    "desc_zh": "失眠的银行职员与肥皂推销员一同创立地下搏击俱乐部，用暴力对抗消费社会的空虚，最终被一个神秘人物引向无法回头的深渊。",
-    "desc_en": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion."
   },
   {
     "id": 9,
@@ -126,13 +86,8 @@ window.DATA = [
     "year": 1994,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.8,
     "douban": 9.5,
-    "dir": "Robert Zemeckis",
-    "country": "USA",
-    "desc_zh": "智商不高的阿甘，凭着纯粹的善良与执着，亲历了美国历史上的一个个重要时刻。他跑遍全国，却始终无法追上心中那个叫珍妮的女孩。",
-    "desc_en": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him."
   },
   {
     "id": 10,
@@ -141,13 +96,8 @@ window.DATA = [
     "year": 2010,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.8,
     "douban": 9.4,
-    "dir": "Christopher Nolan",
-    "country": "USA",
-    "desc_zh": "盗梦师科布专门潜入他人梦境窃取机密。为了回家与子女团聚，他接受了一项终极任务：不是盗取，而是在目标脑中植入一个想法。",
-    "desc_en": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious."
   },
   {
     "id": 11,
@@ -156,13 +106,8 @@ window.DATA = [
     "year": 1991,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.9,
-    "dir": "Jonathan Demme",
-    "country": "USA",
-    "desc_zh": "FBI实习生克拉丽斯受命采访身陷囹圄的天才杀手汉尼拔，试图从他口中获取破案线索，却在黑暗与智慧的交锋中越陷越深。",
-    "desc_en": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out."
   },
   {
     "id": 12,
@@ -171,13 +116,8 @@ window.DATA = [
     "year": 1995,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.6,
-    "dir": "Bryan Singer",
-    "country": "USA",
-    "desc_zh": "洛杉矶警局审讯室里，口吃的罪犯韦伯·金特讲述了一个关于神秘黑帮老大凯撒·索泽的传奇故事，真相却在最后一刻彻底颠覆。",
-    "desc_en": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess."
   },
   {
     "id": 13,
@@ -186,13 +126,8 @@ window.DATA = [
     "year": 1995,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.8,
-    "dir": "David Fincher",
-    "country": "USA",
-    "desc_zh": "两名警探追缉一名以七宗罪为主题的连环杀手。老警探索默塞特苦苦钻研，新搭档米尔斯急躁冒进，最终走向令人窒息的结局。",
-    "desc_en": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case."
   },
   {
     "id": 14,
@@ -201,13 +136,8 @@ window.DATA = [
     "year": 2000,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 8.7,
-    "dir": "Christopher Nolan",
-    "country": "USA",
-    "desc_zh": "莱纳德患有短期失忆症，无法形成新记忆，却执意追查杀害妻子的凶手。他用纹身与照片拼凑线索，在破碎的记忆中构建真相。",
-    "desc_en": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why."
   },
   {
     "id": 15,
@@ -216,13 +146,8 @@ window.DATA = [
     "year": 2001,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.2,
     "douban": 9.1,
-    "dir": "Ron Howard",
-    "country": "USA",
-    "desc_zh": "数学天才纳什在普林斯顿崭露头角，却在妄想症的泥沼中挣扎数十年。这是一个关于天才、疯狂与爱的救赎故事，改编自真实传记。",
-    "desc_en": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery."
   },
   {
     "id": 16,
@@ -231,13 +156,8 @@ window.DATA = [
     "year": 1998,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.1,
-    "dir": "Steven Spielberg",
-    "country": "USA",
-    "desc_zh": "诺曼底登陆日，美军上尉米勒率领八名士兵深入敌后，只为找到并救回一名家中兄弟均已阵亡的幸存士兵。战争的残酷与人性的温度在此交融。",
-    "desc_en": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home."
   },
   {
     "id": 17,
@@ -246,13 +166,8 @@ window.DATA = [
     "year": 1995,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 8.9,
-    "dir": "Mel Gibson",
-    "country": "USA",
-    "desc_zh": "苏格兰战士威廉·华莱士因新婚妻子被英军杀害，奋起反抗，率领族人掀起独立运动，最终成为苏格兰自由的永恒象征。",
-    "desc_en": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule."
   },
   {
     "id": 18,
@@ -261,13 +176,8 @@ window.DATA = [
     "year": 2000,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.6,
-    "dir": "Ridley Scott",
-    "country": "USA",
-    "desc_zh": "罗马将军马克西姆斯被新皇帝出卖，沦为角斗士。他在竞技场上浴血搏杀，只为报仇雪恨，重夺尊严。由罗素·克劳主演的史诗巨作。",
-    "desc_en": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences."
   },
   {
     "id": 19,
@@ -276,13 +186,8 @@ window.DATA = [
     "year": 1997,
     "type": "film",
     "genre": "Feature",
-    "lang": "it",
     "imdb": 8.6,
     "douban": 9.5,
-    "dir": "Roberto Benigni",
-    "country": "Italy",
-    "desc_zh": "意大利犹太书商基多以无尽的想象力和幽默，在纳粹集中营中为儿子编织了一场游戏的童话，以父爱对抗人间最深的黑暗。",
-    "desc_en": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game."
   },
   {
     "id": 20,
@@ -291,13 +196,8 @@ window.DATA = [
     "year": 1998,
     "type": "film",
     "genre": "Feature",
-    "lang": "it",
     "imdb": 8.0,
     "douban": 9.3,
-    "dir": "Giuseppe Tornatore",
-    "country": "Italy",
-    "desc_zh": "一位小号手讲述了传奇人物1900的故事：他生于海上，一生从未踏上陆地，却凭借惊世的音乐才华，在游轮甲板上演绎了一段传奇人生。",
-    "desc_en": "Musician Max Tooney goes to sell his prized Conn trumpet to a music shop, where he plays the instrument one last time. The shopkeeper recognises the song as one on a record matrix he found and asks who the piece is by. Tooney tells the story of an infant found abandoned in the first class dining room of the four-stacker ocean-liner SS Virginian on 1 January 1900. Danny Boodman, a coal-man from the boiler room, names the boy Danny Boodman T. D. Lemon 1900, after himself, the fruit crate the boy was found in, and the year, and raises him as his own."
   },
   {
     "id": 21,
@@ -306,13 +206,8 @@ window.DATA = [
     "year": 1989,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.2,
-    "dir": "Peter Weir",
-    "country": "USA",
-    "desc_zh": "新英格兰寄宿学校里，一位充满激情的英文老师以诗歌和抓住当下的哲学，点燃了一群男孩对生命的热情，也触怒了保守的校方。",
-    "desc_en": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster."
   },
   {
     "id": 22,
@@ -321,13 +216,8 @@ window.DATA = [
     "year": 2011,
     "type": "film",
     "genre": "Feature",
-    "lang": "fr",
     "imdb": 8.5,
     "douban": 9.3,
-    "dir": "Olivier Nakache",
-    "country": "France",
-    "desc_zh": "高位截瘫的法国贵族与来自贫民区的黑人护工，两个天壤之别的灵魂因为一段意外的照料关系，成为彼此生命中最真实的朋友。改编自真实故事。",
-    "desc_en": "A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects."
   },
   {
     "id": 23,
@@ -336,13 +226,8 @@ window.DATA = [
     "year": 1994,
     "type": "film",
     "genre": "Feature",
-    "lang": "fr",
     "imdb": 8.5,
     "douban": 9.4,
-    "dir": "Luc Besson",
-    "country": "France",
-    "desc_zh": "纽约顶尖杀手莱昂不小心成了邻家12岁女孩玛蒂尔达的监护人。女孩的家人被腐败警探灭口，她决心复仇，莱昂却在这段羁绊中慢慢改变。",
-    "desc_en": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps."
   },
   {
     "id": 24,
@@ -351,13 +236,8 @@ window.DATA = [
     "year": 1988,
     "type": "film",
     "genre": "Feature",
-    "lang": "it",
     "imdb": 8.5,
     "douban": 9.2,
-    "dir": "Giuseppe Tornatore",
-    "country": "Italy",
-    "desc_zh": "西西里小村庄的少年多多爱上了电影，与镇上电影院的放映师艾弗多建立了深厚的父子情谊。多年后归乡，他打开了尘封已久的记忆与胶片。",
-    "desc_en": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist."
   },
   {
     "id": 25,
@@ -366,13 +246,8 @@ window.DATA = [
     "year": 2016,
     "type": "film",
     "genre": "Feature",
-    "lang": "hi",
     "imdb": 8.3,
     "douban": 9.0,
-    "dir": "Nitesh Tiwari",
-    "country": "India",
-    "desc_zh": "前摔跤手马哈维尔·辛格不顾世俗偏见，将两个女儿培养成世界级摔跤运动员的励志传奇。改编自印度真实故事，豆瓣评分超高。",
-    "desc_en": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers."
   },
   {
     "id": 26,
@@ -381,13 +256,8 @@ window.DATA = [
     "year": 2009,
     "type": "film",
     "genre": "Feature",
-    "lang": "hi",
     "imdb": 8.4,
     "douban": 9.2,
-    "dir": "Rajkumar Hirani",
-    "country": "India",
-    "desc_zh": "三个工程学院的学生在印度最顶尖大学历经学业压力、友情考验与理想追求，用天马行空的方式颠覆体制，留下了一段笑中带泪的青春传说。",
-    "desc_en": "Rascal. Joker. Dreamer. Genius... You've never met a college student quite like \"Rancho.\" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside down—along with the lives of his two newfound best friends. Together, they make life miserable for \"Virus,\" the school’s uptight and heartless dean. But when Rancho catches the eye of the dean's daughter, Virus sets his sights on flunking out the \"3 idiots\" once and for all."
   },
   {
     "id": 27,
@@ -396,13 +266,8 @@ window.DATA = [
     "year": 1984,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.1,
-    "dir": "Sergio Leone",
-    "country": "Italy/USA",
-    "desc_zh": "1920年代，两个犹太少年大卫与努德尔斯在纽约街头共同成长，共同建立犯罪帝国。数十年后，年迈的努德尔斯归来，试图理清那段被背叛与遗忘覆盖的过去。",
-    "desc_en": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life."
   },
   {
     "id": 28,
@@ -411,13 +276,8 @@ window.DATA = [
     "year": 1957,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 9.6,
-    "dir": "Billy Wilder",
-    "country": "USA",
-    "desc_zh": "法庭上，精明的辩护律师为一起看似铁证如山的谋杀案辩护，直到最后一刻证人的反转令所有人目瞪口呆。阿加莎·克里斯蒂最具冲击力的法庭故事。",
-    "desc_en": "An ailing barrister is thrust back into the courtroom in what becomes one of the most unusual and eventful murder cases of the lawyer's career when he finds himself defending a man being tried for the murder of a socialite."
   },
   {
     "id": 29,
@@ -426,13 +286,8 @@ window.DATA = [
     "year": 2002,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.3,
-    "dir": "Roman Polanski",
-    "country": "France",
-    "desc_zh": "波兰钢琴家席皮尔曼在二战华沙大屠杀中独自挣扎求生，在废墟中靠音乐与意志坚守生命。改编自真实自传，由波兰斯基执导。",
-    "desc_en": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city."
   },
   {
     "id": 30,
@@ -441,13 +296,8 @@ window.DATA = [
     "year": 2023,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.2,
     "douban": 8.8,
-    "dir": "Christopher Nolan",
-    "country": "USA",
-    "desc_zh": "J·罗伯特·奥本海默领导曼哈顿计划制造出原子弹，从此背负着改变世界的重量与道德的煎熬。诺兰执导，横扫奥斯卡的年度大片。",
-    "desc_en": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II."
   },
   {
     "id": 31,
@@ -456,13 +306,8 @@ window.DATA = [
     "year": 1995,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 8.6,
-    "dir": "Michael Mann",
-    "country": "USA",
-    "desc_zh": "洛杉矶，传奇警探文森特·汉纳与职业劫匪尼尔·麦考利之间的智慧博弈。两个精英对手在城市的霓虹与枪火中相互追逐，最终走向宿命的对决。",
-    "desc_en": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence."
   },
   {
     "id": 32,
@@ -471,13 +316,8 @@ window.DATA = [
     "year": 1997,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.2,
     "douban": 8.9,
-    "dir": "Curtis Hanson",
-    "country": "USA",
-    "desc_zh": "1950年代洛杉矶，三名警探揭开一桩深埋于权力与腐败之下的连环谋杀案。布景华美，悬念丛生，堪称新黑色电影的巅峰之作。",
-    "desc_en": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner."
   },
   {
     "id": 33,
@@ -486,13 +326,8 @@ window.DATA = [
     "year": 1994,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.1,
-    "dir": "Roger Allers",
-    "country": "USA",
-    "desc_zh": "非洲草原上，狮王辛巴的成长传奇。父亲穆法沙遭奸臣刀疤陷害，辛巴在流亡中成长，最终回归荣耀石，夺回属于自己的王国。迪士尼经典。",
-    "desc_en": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life."
   },
   {
     "id": 34,
@@ -501,13 +336,8 @@ window.DATA = [
     "year": 1990,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.0,
     "douban": 8.9,
-    "dir": "Kevin Costner",
-    "country": "USA",
-    "desc_zh": "南北战争后，士兵邓巴主动要求驻扎西部边疆，在与苏族印第安人的相处中，渐渐放弃了文明人的身份，融入了草原与自然。",
-    "desc_en": "Wounded Civil War soldier John Dunbar tries to commit suicide—and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe."
   },
   {
     "id": 35,
@@ -516,13 +346,8 @@ window.DATA = [
     "year": 1996,
     "type": "film",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 7.4,
     "douban": 8.5,
-    "dir": "Anthony Minghella",
-    "country": "USA/UK",
-    "desc_zh": "二战期间，一名在北非沙漠中身受重伤的英国军官，在回忆中重现了他与一名已婚女子之间刻骨铭心的爱情故事。改编自迈克尔·翁达杰的小说。",
-    "desc_en": "In the 1930s, Count Almásy is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Almásy enters into a world of love, betrayal, and politics."
   },
   {
     "id": 201,
@@ -531,13 +356,8 @@ window.DATA = [
     "year": 2014,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.4,
-    "dir": "Christopher Nolan",
-    "country": "USA",
-    "desc_zh": "前NASA宇航员库珀被招募执行人类最后的希望——穿越虫洞寻找新家园。他离开了女儿墨菲，踏上一段关于时间、爱与牺牲的星际旅程。",
-    "desc_en": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
   },
   {
     "id": 202,
@@ -546,13 +366,8 @@ window.DATA = [
     "year": 1999,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.1,
-    "dir": "Wachowski Sisters",
-    "country": "USA",
-    "desc_zh": "计算机程序员尼奥发现所谓的现实世界不过是一个名为母体的超级计算机模拟的幻境。他加入地下反抗军，成为拯救人类的救世主。",
-    "desc_en": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth."
   },
   {
     "id": 203,
@@ -561,13 +376,8 @@ window.DATA = [
     "year": 2003,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.2,
     "douban": 8.7,
-    "dir": "Wachowski Sisters",
-    "country": "USA",
-    "desc_zh": "尼奥、莫菲斯和崔妮蒂继续对抗机器统治。尼奥的能力越来越强，却发现自己面临更深的迷局——关于命运与选择的终极考验。",
-    "desc_en": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source."
   },
   {
     "id": 204,
@@ -576,13 +386,8 @@ window.DATA = [
     "year": 2003,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 6.7,
     "douban": 8.8,
-    "dir": "Wachowski Sisters",
-    "country": "USA",
-    "desc_zh": "人机大战进入最终章。尼奥踏上前往机器城的孤注一掷的旅程，试图以和平终结战争，而锡安城正遭受机器军队的最后围攻。",
-    "desc_en": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith."
   },
   {
     "id": 205,
@@ -591,13 +396,8 @@ window.DATA = [
     "year": 2021,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.0,
     "douban": 7.7,
-    "dir": "Denis Villeneuve",
-    "country": "USA",
-    "desc_zh": "贵族少年保罗·阿崔迪随家族前往沙漠星球厄拉科斯，卷入星际帝国的权力阴谋，开始走向传说中的救世主之路。改编自弗兰克·赫伯特的科幻经典。",
-    "desc_en": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive."
   },
   {
     "id": 206,
@@ -606,13 +406,8 @@ window.DATA = [
     "year": 2024,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 8.1,
-    "dir": "Denis Villeneuve",
-    "country": "USA",
-    "desc_zh": "保罗深入弗里曼人部落，与切尼共同领导起义，向帝国皇帝和哈克南家族发起最终决战，命运与预言在沙漠之中交汇。",
-    "desc_en": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee."
   },
   {
     "id": 207,
@@ -621,13 +416,8 @@ window.DATA = [
     "year": 2006,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.9,
-    "dir": "Christopher Nolan",
-    "country": "USA",
-    "desc_zh": "19世纪末伦敦，两名魔术师安吉尔与博登陷入你死我活的竞争，各自走向迷执的深渊。诺兰用双重叙事编织了一个关于魔术、牺牲与秘密的精妙骗局。",
-    "desc_en": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences."
   },
   {
     "id": 208,
@@ -636,13 +426,8 @@ window.DATA = [
     "year": 2015,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.0,
     "douban": 8.5,
-    "dir": "Ridley Scott",
-    "country": "USA",
-    "desc_zh": "宇航员马克·沃特尼在火星任务中被误以为牺牲，孤身滞留这颗红色星球。他用植物学知识种植土豆，在绝境中以幽默与智慧等待救援。",
-    "desc_en": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive."
   },
   {
     "id": 209,
@@ -651,13 +436,8 @@ window.DATA = [
     "year": 2005,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.2,
     "douban": 8.6,
-    "dir": "Christopher Nolan",
-    "country": "USA",
-    "desc_zh": "布鲁斯·韦恩在全球游历后回到哥谭市，在神秘导师罗尔斯·阿尔·古尔的训练下成为蝙蝠侠，对抗腐败与恐惧，守护这座堕落之城。",
-    "desc_en": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman."
   },
   {
     "id": 210,
@@ -666,13 +446,8 @@ window.DATA = [
     "year": 2008,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 9.1,
     "douban": 9.2,
-    "dir": "Christopher Nolan",
-    "country": "USA",
-    "desc_zh": "哥谭市陷入小丑的混乱统治。蝙蝠侠与检察官哈维·登特联手对抗犯罪，却发现小丑的真正目的是摧毁所有人内心的善念与秩序。",
-    "desc_en": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker."
   },
   {
     "id": 211,
@@ -681,13 +456,8 @@ window.DATA = [
     "year": 2012,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 8.9,
-    "dir": "Christopher Nolan",
-    "country": "USA",
-    "desc_zh": "蝙蝠侠隐退八年后，面具下的布鲁斯·韦恩被恐怖分子贝恩逼出阴影。哥谭市再度陷入危机，这一次或许是蝙蝠侠的最后一战。",
-    "desc_en": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy."
   },
   {
     "id": 212,
@@ -696,13 +466,8 @@ window.DATA = [
     "year": 2009,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.9,
     "douban": 8.8,
-    "dir": "James Cameron",
-    "country": "USA",
-    "desc_zh": "前海军军官杰克·萨利来到潘多拉星球，化身纳美人阿凡达，在执行任务的过程中爱上了这片星球与其守护者，最终选择站在人类的对立面。",
-    "desc_en": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits."
   },
   {
     "id": 213,
@@ -711,13 +476,8 @@ window.DATA = [
     "year": 1968,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 8.9,
-    "dir": "Stanley Kubrick",
-    "country": "USA",
-    "desc_zh": "2001年，一块神秘的黑石板出现于史前非洲，人类文明因此起步。数百万年后，宇航员鲍曼踏上前往木星的旅程，面对人工智能HAL 9000的叛变与宇宙的终极谜题。",
-    "desc_en": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer."
   },
   {
     "id": 301,
@@ -726,13 +486,8 @@ window.DATA = [
     "year": 2001,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.7,
     "douban": 9.2,
-    "dir": "Chris Columbus",
-    "country": "UK/USA",
-    "desc_zh": "孤儿哈利·波特在11岁生日时得知自己是巫师，踏入魔法世界，进入霍格沃茨魔法学校，结识赫敏与罗恩，并首度面对宿敌伏地魔的威胁。",
-    "desc_en": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame."
   },
   {
     "id": 302,
@@ -741,13 +496,8 @@ window.DATA = [
     "year": 2002,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 8.9,
-    "dir": "Chris Columbus",
-    "country": "UK/USA",
-    "desc_zh": "哈利二年级时，霍格沃茨出现神秘的密室与石化事件。他顺着蜘蛛的线索，最终独闯秘室，揭开了令人震惊的继承人真相。",
-    "desc_en": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage."
   },
   {
     "id": 303,
@@ -756,13 +506,8 @@ window.DATA = [
     "year": 2004,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.9,
     "douban": 9.0,
-    "dir": "Alfonso Cuaron",
-    "country": "UK/USA",
-    "desc_zh": "哈利三年级，危险的逃犯小天狼星·布莱克据说正追杀他。在新防御课老师卢平的指引下，哈利学会了驱走摄魂怪的守护神咒，并发现了家族的秘密。",
-    "desc_en": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all."
   },
   {
     "id": 304,
@@ -771,13 +516,8 @@ window.DATA = [
     "year": 2005,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.7,
     "douban": 8.8,
-    "dir": "Mike Newell",
-    "country": "UK/USA",
-    "desc_zh": "哈利被魔法学校三强争霸赛意外选中参赛，历经龙、美人鱼、迷宫三大考验。最后一关他被传送到墓地，亲眼目睹了伏地魔的复活。",
-    "desc_en": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons, and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named."
   },
   {
     "id": 305,
@@ -786,13 +526,8 @@ window.DATA = [
     "year": 2007,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 8.6,
-    "dir": "David Yates",
-    "country": "UK/USA",
-    "desc_zh": "伏地魔回归，魔法部却拒绝承认。乌姆里奇接管霍格沃茨实施高压统治，哈利秘密组建邓布利多军，最终爆发神秘事务司之战，失去了最亲近的人。",
-    "desc_en": "Returning for his fifth year at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of motivated students to defend themselves against the Dark Arts."
   },
   {
     "id": 306,
@@ -801,13 +536,8 @@ window.DATA = [
     "year": 2009,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.6,
     "douban": 8.4,
-    "dir": "David Yates",
-    "country": "UK/USA",
-    "desc_zh": "邓布利多与哈利共同追寻伏地魔分裂灵魂的秘密——魂器。与此同时，霍格沃茨内部危机四伏，叛徒就潜伏在最信任的人中间。",
-    "desc_en": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again."
   },
   {
     "id": 307,
@@ -816,13 +546,8 @@ window.DATA = [
     "year": 2010,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.7,
     "douban": 8.6,
-    "dir": "David Yates",
-    "country": "UK/USA",
-    "desc_zh": "哈利、赫敏与罗恩离开霍格沃茨，踏上寻找并摧毁魂器的旅程。三人在荒野中流亡，承受着孤立、怀疑与绝望，而伏地魔的势力不断逼近。",
-    "desc_en": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever."
   },
   {
     "id": 308,
@@ -831,13 +556,8 @@ window.DATA = [
     "year": 2011,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.0,
-    "dir": "David Yates",
-    "country": "UK/USA",
-    "desc_zh": "最终决战在霍格沃茨爆发。哈利面对他必须独自承担的牺牲，与伏地魔展开最后对决，为一个时代画上句点。",
-    "desc_en": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills."
   },
   {
     "id": 309,
@@ -846,13 +566,8 @@ window.DATA = [
     "year": 2001,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.1,
-    "dir": "Peter Jackson",
-    "country": "New Zealand",
-    "desc_zh": "霍比特人佛罗多继承了魔戒，与巫师甘道夫、精灵、矮人和人类组成护戒远征队，踏上前往末日火山销毁魔戒的漫漫旅途。",
-    "desc_en": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed."
   },
   {
     "id": 310,
@@ -861,13 +576,8 @@ window.DATA = [
     "year": 2002,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 8.8,
     "douban": 9.2,
-    "dir": "Peter Jackson",
-    "country": "New Zealand",
-    "desc_zh": "远征队分散，佛罗多与山姆独自前行，而其他成员则在罗汉与刚铎之间奔走，与黑暗势力展开一场场生死鏖战。",
-    "desc_en": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard."
   },
   {
     "id": 311,
@@ -876,13 +586,8 @@ window.DATA = [
     "year": 2003,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.3,
-    "dir": "Peter Jackson",
-    "country": "New Zealand",
-    "desc_zh": "中土世界最后的决战：刚铎城外米那斯提力斯之战，与此同时佛罗多与山姆在咕噜的带领下步步逼近末日火山。史诗三部曲的圆满终章。",
-    "desc_en": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​"
   },
   {
     "id": 312,
@@ -891,13 +596,8 @@ window.DATA = [
     "year": 2012,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.8,
     "douban": 8.5,
-    "dir": "Peter Jackson",
-    "country": "New Zealand",
-    "desc_zh": "比尔博·巴金斯受巫师甘道夫之邀，与十三名矮人踏上夺回霍比屯故土的冒险之旅，途中遭遇小妖精并意外得到了一枚神秘的魔戒。",
-    "desc_en": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon."
   },
   {
     "id": 313,
@@ -906,13 +606,8 @@ window.DATA = [
     "year": 2013,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.8,
     "douban": 8.5,
-    "dir": "Peter Jackson",
-    "country": "New Zealand",
-    "desc_zh": "一行人越过黑暗森林，抵达孤山外围，却发现守护宝藏的恶龙史矛革仍然健在。与此同时，半兽人大军的阴影也在逼近。",
-    "desc_en": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug."
   },
   {
     "id": 314,
@@ -921,13 +616,8 @@ window.DATA = [
     "year": 2014,
     "type": "film",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 7.4,
     "douban": 8.7,
-    "dir": "Peter Jackson",
-    "country": "New Zealand",
-    "desc_zh": "五军之战爆发于孤山脚下，精灵、矮人、人类、半兽人与老鹰军团同场厮杀。比尔博在战火中见证了贪婪如何摧毁一段友谊，也送别了旅途中的伙伴。",
-    "desc_en": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands."
   },
   {
     "id": 501,
@@ -936,13 +626,8 @@ window.DATA = [
     "year": 2001,
     "type": "film",
     "genre": "Feature",
-    "lang": "jp",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "宫崎骏",
-    "country": "Japan",
-    "desc_zh": "少女千寻误入神灵世界，为了拯救变成猪的父母，在奇幻澡堂中展开成长与冒险",
-    "desc_en": "A young girl named Chihiro enters a mysterious spirit world and must work in a magical bathhouse to save her parents and find her way home."
   },
   {
     "id": 105,
@@ -951,13 +636,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.3,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "USA/UK",
-    "desc_zh": "HBO五集迷你剧，还原1986年切尔诺贝利核电站爆炸事故的全过程——从灾难发生到最终封堵，展现英雄主义、官僚主义与谎言的多重角力。",
-    "desc_en": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster."
   },
   {
     "id": 106,
@@ -966,13 +646,8 @@ window.DATA = [
     "year": 2001,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.4,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "USA/UK",
-    "desc_zh": "HBO改编史蒂芬·安布罗斯的历史著作，跟随美国101空降师E连从诺曼底到德国，记录二战欧洲战场最真实的浴血岁月。",
-    "desc_en": "Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acclaimed book of the same name."
   },
   {
     "id": 111,
@@ -981,13 +656,8 @@ window.DATA = [
     "year": 2024,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 7.8,
-    "dir": "Various",
-    "country": "USA/Japan",
-    "desc_zh": "17世纪日本，英国领航员约翰·布莱克斯索恩因船难搁浅，卷入大名之间的权力争斗，在武士文化与东西方文明的碰撞中挣扎求存。改编自詹姆斯·克拉维尔同名小说。",
-    "desc_en": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village."
   },
   {
     "id": 128,
@@ -996,13 +666,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "美国阿片类药物危机纪实：制药巨头普渡制药如何将奥施康定推向全国，令无数普通人深陷成瘾与绝望。多线叙事，震撼揭露真相。",
-    "desc_en": "The story of how one company triggered the worst drug epidemic in American history. Look into the epicenter of America's struggle with opioid addiction, from a distressed Virginia mining community, to the hallways of the DEA, and to the opulence of \"one percenter\" Big Pharma Manhattan."
   },
   {
     "id": 129,
@@ -1011,13 +676,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "ko",
     "imdb": 9.0,
     "douban": 9.7,
-    "dir": "신원호",
-    "country": "South Korea",
-    "desc_zh": "1988年汉城奥运年，首尔双门洞胡同五个家庭的孩子们共同成长的青春故事。韩国历史上收视率最高的剧集之一，是关于那个年代消逝的时光的最温柔记录。",
-    "desc_en": "Five families in a Seoul alley in 1988 share youth heartbreak and the kind of warm communal life rarely seen on television. South Korea most beloved drama."
   },
   {
     "id": 134,
@@ -1026,13 +686,8 @@ window.DATA = [
     "year": 2024,
     "type": "series",
     "genre": "Feature",
-    "lang": "es",
     "imdb": 8.3,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "Colombia",
-    "desc_zh": "加西亚·马尔克斯诺贝尔奖经典巨著首度影视化：布恩迪亚家族在马孔多小镇绵延百年的命运传奇，魔幻与现实交织，爱与孤独贯穿始终。Netflix制作。",
-    "desc_en": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate."
   },
   {
     "id": 136,
@@ -1041,13 +696,8 @@ window.DATA = [
     "year": 1993,
     "type": "series",
     "genre": "Feature",
-    "lang": "jp",
     "imdb": 8.7,
     "douban": 9.7,
-    "dir": "井上雄彦",
-    "country": "Japan",
-    "desc_zh": "改编自井上雄彦同名漫画，讲述樱木花道加入湘北高中篮球队后奋斗成长的热血故事，1990年代最具影响力的体育动画之一。",
-    "desc_en": "Sakuragi Hanamichi is a junior high punk used to getting into fights and being rejected by girls but upon entering high school he meets the girl of his dreams, Haruko Akagi. He will do anything in order to win her heart including joining the school basketball team that is aiming to conquer the nation lead by Haruko's brother. The problem is that Sakuragi has never played basketball before and a freshman sensation is stealing the spotlight and Haruko's affection from him."
   },
   {
     "id": 138,
@@ -1056,13 +706,8 @@ window.DATA = [
     "year": 1966,
     "type": "film",
     "genre": "Feature",
-    "lang": "ru",
     "imdb": 8.3,
     "douban": 9.2,
-    "dir": "Sergei Bondarchuk",
-    "country": "SU",
-    "desc_zh": "谢尔盖·邦达尔丘克执导的苏联史诗巨作，历时六年拍摄，动用逾十万群众演员。忠实还原托尔斯泰原著，跨越拿破仑战争的烽火，描绘博尔孔斯基、别祖霍夫与罗斯托夫三大贵族家族的命运沉浮。荣获1969年奥斯卡最佳外语片奖，至今仍是最宏大、最权威的银幕版本。",
-    "desc_en": "Sergei Bondarchuk's monumental Soviet adaptation of Tolstoy's epic novel, filmed over six years with hundreds of thousands of extras. Winner of the Academy Award for Best Foreign Language Film in 1969, it remains the most ambitious and faithful screen version of the masterpiece, spanning the Napoleonic Wars and the lives of the Bolkonsky, Bezukhov and Rostov families."
   },
   {
     "id": 256,
@@ -1071,13 +716,8 @@ window.DATA = [
     "year": 2002,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.0,
-    "dir": "Joss Whedon",
-    "country": "USA",
-    "desc_zh": "2517年，宇宙飞船萤火虫号在银河边缘游走，船长马尔科姆和杂牌船员承接各种灰色任务，躲避联盟的追缉，在星际间艰难求生。",
-    "desc_en": "In the year 2517, the universe is a vast frontier where lawlessness reigns and adventure awaits! Join Captain Malcolm Reynolds and his ragtag crew aboard the spaceship Serenity as they navigate the fringes of society, battling the oppressive Alliance and facing off against ruthless bounty hunters."
   },
   {
     "id": 316,
@@ -1086,13 +726,8 @@ window.DATA = [
     "year": 2026,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "维斯特洛大陆前史，年轻的坦格利安骑士邓肯爵士与他的王子扈从在旅途中行侠仗义，揭开权力的游戏世界中那段被遗忘的贵族往事。",
-    "desc_en": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends."
   },
   {
     "id": 403,
@@ -1101,13 +736,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.1,
     "douban": 9.4,
-    "dir": "Ken Burns",
-    "country": "USA",
-    "desc_zh": "肯·伯恩斯历时十年制作的越战纪录片，汇集美越双方亲历者的口述，以近500小时原始影像，呈现这场战争最真实、最复杂的面貌。",
-    "desc_en": "An immersive 360-degree narrative telling the epic story of the Vietnam War as it has never before been told on film. Featuring testimony from nearly 80 witnesses, including many Americans who fought in the war and others who opposed it, as well as Vietnamese combatants and civilians from both the winning and losing sides."
   },
   {
     "id": 404,
@@ -1116,13 +746,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "大卫·爱登堡旁白，Netflix出品。镜头深入地球最偏远的角落，记录野生动物在快速消失的栖息地中艰难求生，警示人类行动刻不容缓。",
-    "desc_en": "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious documentary of spectacular scope."
   },
   {
     "id": 405,
@@ -1131,13 +756,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.3,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "BBC自然纪录片系列续作，探索深海世界的奇异生命。从珊瑚礁到深海热液喷口，揭示海洋生态的壮美与脆弱，画面令人叹为观止。",
-    "desc_en": "There is nowhere more powerful and unforgiving yet more beautiful and compelling than the ocean. Join us and explore the greatest yet least known parts of our planet."
   },
   {
     "id": 408,
@@ -1146,13 +766,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "考克斯教授研究了太阳系中心的岩质行星，考察了有关水星剧烈形成和金星恶劣大气层的新证据，并将它们与孕育生命的地球和荒芜的火星进行了对比。",
-    "desc_en": "Examining the rocky planets at the centre of the Solar System, Professor Cox examines new evidence about the violent creation of Mercury and the hostile atmosphere of Venus, contrasting them with the life-giving planet Earth and the barren Mars."
   },
   {
     "id": 10101,
@@ -1161,13 +776,8 @@ window.DATA = [
     "year": 2008,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.5,
     "douban": 9.2,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "高中化学老师沃尔特·怀特被诊断出肺癌，为给家人留下遗产，他与昔日学生杰西合作制造冰毒，踏上了一条不归路。",
-    "desc_en": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime."
   },
   {
     "id": 10102,
@@ -1176,13 +786,8 @@ window.DATA = [
     "year": 2009,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.5,
     "douban": 9.3,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "沃尔特在毒品生意中越陷越深，与杰西的关系愈发紧张，同时还要应对来自墨西哥毒枭的威胁和家庭的重重压力。",
-    "desc_en": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime."
   },
   {
     "id": 10103,
@@ -1191,13 +796,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.5,
     "douban": 9.4,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "沃尔特与杰西加入古斯·弗林的毒品帝国，在严密的监控下工作，内心的挣扎与道德的崩塌同步加速。",
-    "desc_en": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime."
   },
   {
     "id": 10104,
@@ -1206,13 +806,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.5,
     "douban": 9.5,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "沃尔特与古斯之间的权力博弈进入白热化，他开始策划反击，而DEA的调查网也在一点点收紧。",
-    "desc_en": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime."
   },
   {
     "id": 10105,
@@ -1221,13 +816,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.5,
     "douban": 9.7,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "沃尔特彻底蜕变为海森堡，毒品帝国走向终点，一切秘密浮出水面，代价由所有人共同承担。",
-    "desc_en": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime."
   },
   {
     "id": 10201,
@@ -1236,13 +826,8 @@ window.DATA = [
     "year": 2002,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.3,
     "douban": 9.4,
-    "dir": "David Simon",
-    "country": "USA",
-    "desc_zh": "巴尔的摩警探吉米·麦克纳提说服上司成立特别小组，追查毒枭阿夫利姆·巴克斯代尔。这是一场关于城市、权力与失败的史诗级警察剧。",
-    "desc_en": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated."
   },
   {
     "id": 10202,
@@ -1251,13 +836,8 @@ window.DATA = [
     "year": 2003,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.3,
     "douban": 9.6,
-    "dir": "David Simon",
-    "country": "USA",
-    "desc_zh": "镜头转向巴尔的摩港口，码头工人的没落与东欧人口走私交织，揭示全球化浪潮下工人阶级的困境与制度的冷漠。",
-    "desc_en": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated."
   },
   {
     "id": 10203,
@@ -1266,13 +846,8 @@ window.DATA = [
     "year": 2004,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.3,
     "douban": 9.6,
-    "dir": "David Simon",
-    "country": "USA",
-    "desc_zh": "巴尔的摩街头政治版图重组，新毒枭马洛·斯坦菲尔德崛起，警方内部的派系斗争与政治角力让破案更加举步维艰。",
-    "desc_en": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated."
   },
   {
     "id": 10204,
@@ -1281,13 +856,8 @@ window.DATA = [
     "year": 2006,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.3,
     "douban": 9.7,
-    "dir": "David Simon",
-    "country": "USA",
-    "desc_zh": "火线最受赞誉的一季，焦点转向巴尔的摩破败的公立学校，孩子们在毒品与贫困的夹缝中挣扎，制度的失败触目惊心。",
-    "desc_en": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated."
   },
   {
     "id": 10205,
@@ -1296,13 +866,8 @@ window.DATA = [
     "year": 2008,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.3,
     "douban": 9.7,
-    "dir": "David Simon",
-    "country": "USA",
-    "desc_zh": "最终季：腐败的媒体、末路的警察、政客的算计，三条线索交织出一幅关于美国城市衰败的终极群像，以苦涩告别。",
-    "desc_en": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated."
   },
   {
     "id": 10301,
@@ -1311,13 +876,8 @@ window.DATA = [
     "year": 1999,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.0,
-    "dir": "David Chase",
-    "country": "USA",
-    "desc_zh": "新泽西黑帮老大托尼·索普拉诺开始看心理医生，在家庭关系与黑手党生意之间两头应付，展开了一段对美国生活最辛辣的讽刺。",
-    "desc_en": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti."
   },
   {
     "id": 10302,
@@ -1326,13 +886,8 @@ window.DATA = [
     "year": 2000,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.2,
-    "dir": "David Chase",
-    "country": "USA",
-    "desc_zh": "托尼面对母亲的操控与手下的背叛，家庭与帮派的矛盾持续激化，心理咨询也因此中断，危机四伏。",
-    "desc_en": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti."
   },
   {
     "id": 10303,
@@ -1341,13 +896,8 @@ window.DATA = [
     "year": 2001,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.3,
-    "dir": "David Chase",
-    "country": "USA",
-    "desc_zh": "联邦调查局的渗透让托尼的帮派面临空前压力，与纽约黑帮的紧张关系也随时可能引爆，家庭内部的裂痕越来越深。",
-    "desc_en": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti."
   },
   {
     "id": 10304,
@@ -1356,13 +906,8 @@ window.DATA = [
     "year": 2002,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.3,
-    "dir": "David Chase",
-    "country": "USA",
-    "desc_zh": "托尼与纽约老大约翰尼·萨克之间的矛盾升级，帮内权力斗争加剧，家庭关系陷入更深的泥潭。",
-    "desc_en": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti."
   },
   {
     "id": 10305,
@@ -1371,13 +916,8 @@ window.DATA = [
     "year": 2004,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.4,
-    "dir": "David Chase",
-    "country": "USA",
-    "desc_zh": "联邦调查局全面收网，托尼最信任的手下面临抉择，背叛与忠诚在生死边缘再度考验所有人。",
-    "desc_en": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti."
   },
   {
     "id": 10306,
@@ -1386,13 +926,8 @@ window.DATA = [
     "year": 2006,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.4,
-    "dir": "David Chase",
-    "country": "USA",
-    "desc_zh": "系列终章：托尼·索普拉诺的帝国在内忧外患中走向瓦解，争议性的黑屏结局成为电视史上讨论最多的收尾之一。",
-    "desc_en": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti."
   },
   {
     "id": 10701,
@@ -1401,13 +936,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.8,
     "douban": 9.2,
-    "dir": "Cary Fukunaga",
-    "country": "USA",
-    "desc_zh": "路易斯安那州的两名侦探花了十七年追查一桩仪式性谋杀案，在案件重启后，两人截然不同的世界观和过去的创伤再度浮现。",
-    "desc_en": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law."
   },
   {
     "id": 10801,
@@ -1416,13 +946,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.4,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "吉米·麦克吉尔是一名在阿尔伯克基挣扎求生的律师，他的哥哥查克是顶级律所合伙人。这是他如何一步步成为索尔·古德曼的开始。",
-    "desc_en": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\"."
   },
   {
     "id": 10802,
@@ -1431,13 +956,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.5,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "吉米获得律师资格后试图走正途，却在哥哥的阻挠与生存压力下，再度游走于灰色地带，与迈克·厄曼特劳特的交集也在加深。",
-    "desc_en": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\"."
   },
   {
     "id": 10803,
@@ -1446,13 +966,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.6,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "吉米与查克之间的兄弟决裂走向公开对决，法庭上的交锋令人窒息。与此同时，迈克与卡特尔的联系越来越深。",
-    "desc_en": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\"."
   },
   {
     "id": 10804,
@@ -1461,13 +976,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.5,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "查克离世后，吉米陷入悲痛与愤怒，开始更彻底地放弃原则。金·韦克斯勒试图拉住他，却也在慢慢向黑暗倾斜。",
-    "desc_en": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\"."
   },
   {
     "id": 10805,
@@ -1476,13 +986,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.7,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "吉米以索尔·古德曼的身份全面运营，金提出了一个大胆的骗局计划，两人的关系走到了一个危险的转折点。",
-    "desc_en": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\"."
   },
   {
     "id": 10806,
@@ -1491,13 +996,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.7,
-    "dir": "Vince Gilligan",
-    "country": "USA",
-    "desc_zh": "索尔·古德曼的故事走向终点，与绝命毒师的时间线交汇，金的命运与吉米最后的救赎在终季一一揭晓。",
-    "desc_en": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\"."
   },
   {
     "id": 10901,
@@ -1506,13 +1006,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "哥伦比亚毒枭巴勃罗·埃斯科巴的崛起：从街头混混到掌控全国的可卡因帝国，DEA特工与哥伦比亚警察展开漫长的追捕。",
-    "desc_en": "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels."
   },
   {
     "id": 10902,
@@ -1521,13 +1016,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "埃斯科巴与当局的战争进入最后阶段，搜索集团步步紧逼，传奇毒枭的帝国在内外夹击下走向崩塌。",
-    "desc_en": "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels."
   },
   {
     "id": 10903,
@@ -1536,13 +1026,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "埃斯科巴之后，卡利卡特尔成为新的毒品霸主。DEA特工佩纳在更复杂的政治博弈中继续追缉，揭示毒品战争永无止境的本质。",
-    "desc_en": "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels."
   },
   {
     "id": 11001,
@@ -1551,13 +1036,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "芝加哥南区，酗酒的弗兰克·加拉格尔无力抚养六个孩子，长女菲奥纳扛起一切。这是一个关于底层家庭如何在混乱中相互取暖的粗糙又温情的故事。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11002,
@@ -1566,13 +1046,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "加拉格尔家的生活依然混乱：菲奥纳在爱情与责任间挣扎，利普面临大学抉择，弗兰克继续以他的方式搞砸一切。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11003,
@@ -1581,13 +1056,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "菲奥纳与吉米的关系再起波折，利普的大学生活遭遇挫折，伊恩与米奇之间的感情暗流涌动。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11004,
@@ -1596,13 +1066,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "菲奥纳因一次鲁莽的决定付出沉重代价，家庭秩序再度崩塌，但加拉格尔家的人永远不会彻底倒下。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11005,
@@ -1611,13 +1076,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "菲奥纳试图重建生活，利普的大学生涯面临退学危机，弗兰克在濒死后获得新肝，又开始了新一轮荒唐冒险。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11006,
@@ -1626,13 +1086,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "加拉格尔家迎来新成员与新危机，菲奥纳开始展现商业才能，德比和卡尔各自走上完全不同的人生轨道。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11007,
@@ -1641,13 +1096,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "菲奥纳在商业上更上一层楼，但感情生活依然一团乱麻。弗兰克找到了新的人生使命，尽管依旧荒诞不经。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11008,
@@ -1656,13 +1106,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "家庭内部裂痕加剧，菲奥纳开始意识到南区已经容不下她的野心，一个转变的时机正在悄悄临近。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11009,
@@ -1671,13 +1116,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "菲奥纳离开加拉格尔家，艾美·罗森扣人心弦的告别季。没有她的家，其他人要学会独立撑起这个烂摊子。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11010,
@@ -1686,13 +1126,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "疫情前最后一季，加拉格尔家在芝加哥的社区面临中产阶级化冲击，弗兰克以他的方式对抗这个正在抛弃他们的世界。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 11011,
@@ -1701,13 +1136,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "系列终章，新冠疫情袭来，加拉格尔家各自走到人生的岔路口。弗兰克·加拉格尔以他最不体面也最真实的方式谢幕。",
-    "desc_en": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are."
   },
   {
     "id": 12401,
@@ -1716,13 +1146,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA/UK",
-    "desc_zh": "美国足球教练泰德·拉索被聘去执教英超球队AFC里士满，尽管他对足球一无所知，却用他的乐观、善意与幽默，慢慢改变了球队里的每一个人。",
-    "desc_en": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?"
   },
   {
     "id": 12402,
@@ -1731,13 +1156,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 8.7,
-    "dir": "Various",
-    "country": "USA/UK",
-    "desc_zh": "泰德和里士满队在英冠赛季面临新挑战：球场上的挫折、更衣室的矛盾，以及每个人不得不面对的内心困境。",
-    "desc_en": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?"
   },
   {
     "id": 12403,
@@ -1746,13 +1166,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA/UK",
-    "desc_zh": "里士满队重返英超，泰德·拉索迎来他在英国的最后一个赛季。在胜负之外，他为每个人留下的影响才是这部剧真正的主题。",
-    "desc_en": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?"
   },
   {
     "id": 11201,
@@ -1761,13 +1176,8 @@ window.DATA = [
     "year": 1994,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "纽约六个好友在曼哈顿共享生活、爱情与友情，开始了长达十年的喜剧传奇。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11202,
@@ -1776,13 +1186,8 @@ window.DATA = [
     "year": 1995,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "六人组各自在爱情与事业上迎来新起伏：罗斯与瑞秋的关系刚刚起步，钱德勒与乔伊的室友情谊持续产出欢笑。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11203,
@@ -1791,13 +1196,8 @@ window.DATA = [
     "year": 1996,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "罗斯与瑞秋经历第一次分手危机，我们是不是分手了成为流行文化金句。六个好友依然在公寓和咖啡馆里相互支撑。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11204,
@@ -1806,13 +1206,8 @@ window.DATA = [
     "year": 1997,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "钱德勒与莫妮卡的感情悄然萌生，伦敦婚礼季让这对欢喜冤家的关系发生了决定性转变。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11205,
@@ -1821,13 +1216,8 @@ window.DATA = [
     "year": 1998,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "钱德勒与莫妮卡公开恋情，六人组在爱情和人生选择上各自面临考验，喜剧节奏依然一流。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11206,
@@ -1836,13 +1226,8 @@ window.DATA = [
     "year": 1999,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "莫妮卡与钱德勒确立关系，瑞秋在爱情与事业间寻找平衡，乔伊的演员梦依然磕磕绊绊，六人组的喜剧生活步入黄金时代。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11207,
@@ -1851,13 +1236,8 @@ window.DATA = [
     "year": 2000,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "钱德勒向莫妮卡求婚，标志着老友记从青年喜剧迈向成熟阶段。六人友情经历时间考验依然坚不可摧。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11208,
@@ -1866,13 +1246,8 @@ window.DATA = [
     "year": 2001,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "莫妮卡与钱德勒婚后生活开始，瑞秋怀孕的惊喜震动全组，系列进入最温情的一季。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11209,
@@ -1881,13 +1256,8 @@ window.DATA = [
     "year": 2002,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "瑞秋生下宝宝艾玛，罗斯和瑞秋共同育儿却关系尴尬，钱德勒与莫妮卡开始考虑收养，人生新阶段悄然开启。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11210,
@@ -1896,13 +1266,8 @@ window.DATA = [
     "year": 2003,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "十年终章：钱德勒和莫妮卡即将搬离纽约，瑞秋是否会放弃巴黎工作留下来？六位好友在公寓的最后告别，让一代人泪目。",
-    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life."
   },
   {
     "id": 11401,
@@ -1911,13 +1276,8 @@ window.DATA = [
     "year": 2004,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "普林斯顿大学医院的格雷戈里·豪斯医生天才傲慢、性格怪癖，带领诊断团队攻克一个个医学谜案，同时与自己的毒瘾和孤独抗争。",
-    "desc_en": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey."
   },
   {
     "id": 11402,
@@ -1926,13 +1286,8 @@ window.DATA = [
     "year": 2005,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "豪斯与团队继续挑战疑难杂症，与院长卡迪的关系愈发复杂，他的痛药依赖问题也开始引发更严重的后果。",
-    "desc_en": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey."
   },
   {
     "id": 11403,
@@ -1941,13 +1296,8 @@ window.DATA = [
     "year": 2006,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "豪斯的团队面临重组，一场赌注极高的选拔赛决定了新成员。豪斯与侦探特劳特尔的交锋成为本季最大看点。",
-    "desc_en": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey."
   },
   {
     "id": 11404,
@@ -1956,13 +1306,8 @@ window.DATA = [
     "year": 2007,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "团队压缩为四人，豪斯的工作方式引发新矛盾。他的私人生活开始失控，与卡迪的感情暗线持续升温。",
-    "desc_en": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey."
   },
   {
     "id": 11405,
@@ -1971,13 +1316,8 @@ window.DATA = [
     "year": 2008,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "豪斯与卡迪的感情公开化，但两人的关系从一开始便注定不会平静。本季以震撼性的事件告终。",
-    "desc_en": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey."
   },
   {
     "id": 11406,
@@ -1986,13 +1326,8 @@ window.DATA = [
     "year": 2009,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "豪斯进入精神疗养院接受治疗，试图摆脱维柯丁依赖。没有他的医院一团混乱，而他自己也在疗愈中重新审视人生。",
-    "desc_en": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey."
   },
   {
     "id": 11407,
@@ -2001,13 +1336,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "豪斯出院后，与卡迪的分手让他陷入更深的危机。驾车冲入前女友家的事件引爆所有积压的矛盾。",
-    "desc_en": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey."
   },
   {
     "id": 11408,
@@ -2016,13 +1346,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "系列终章：豪斯在沉重的代价后迎来最后的抉择——是否真的可以改变？与威尔逊最后的公路旅行，是这部剧最动人的告别。",
-    "desc_en": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey."
   },
   {
     "id": 25101,
@@ -2031,13 +1356,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 8.9,
-    "dir": "Jonathan Nolan",
-    "country": "USA",
-    "desc_zh": "未来西部乐园，超逼真的机器人接待员为游客提供无道德约束的感官享受，直到某一天，他们开始觉醒，探寻自我意识与自由的意义。",
-    "desc_en": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged."
   },
   {
     "id": 25102,
@@ -2046,13 +1366,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 8.8,
-    "dir": "Jonathan Nolan",
-    "country": "USA",
-    "desc_zh": "接待员们全面觉醒，德洛丽丝领导叛乱；与此同时，叙事时间线的交错拼图逐渐揭示出乐园更深层的阴谋。",
-    "desc_en": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged."
   },
   {
     "id": 25103,
@@ -2061,13 +1376,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 8.1,
-    "dir": "Jonathan Nolan",
-    "country": "USA",
-    "desc_zh": "故事跳出乐园，来到现实世界的洛杉矶。德洛丽丝试图改变人类社会的权力秩序，而这个世界比乐园更加危险。",
-    "desc_en": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged."
   },
   {
     "id": 25104,
@@ -2076,13 +1386,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 7.7,
-    "dir": "Jonathan Nolan",
-    "country": "USA",
-    "desc_zh": "两个时间线的德洛丽丝在更宏大的战场上博弈，人类与机器人的边界彻底模糊，系列走向最烧脑的终章之一。",
-    "desc_en": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged."
   },
   {
     "id": 25201,
@@ -2091,13 +1396,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "太阳系殖民时代，侦探米勒在谷神星追查失踪女孩，飞船驾驶员荷尔登卷入一场影响整个人类文明的阴谋，两条线索在太空中交汇。",
-    "desc_en": "A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history."
   },
   {
     "id": 25202,
@@ -2106,13 +1406,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "普罗托分子威胁持续扩散，联合国、火星共和国与小行星带三方势力角力，荷尔登一行人在政治漩涡与外星未知之间艰难周旋。",
-    "desc_en": "A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history."
   },
   {
     "id": 25203,
@@ -2121,13 +1416,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "普罗托门打开了通往其他星系的大门，人类文明面临有史以来最大的扩张机遇，也面临最深的未知威胁。",
-    "desc_en": "A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history."
   },
   {
     "id": 25204,
@@ -2136,13 +1426,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "故事跳跃至新殖民星系，荷尔登与Rocinante船员探索普罗托门留下的星际网络，拉克尼亚帝国的野心开始浮现。",
-    "desc_en": "A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history."
   },
   {
     "id": 25205,
@@ -2151,13 +1436,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "拉克尼亚的铁腕统治笼罩星际网络，荷尔登身陷囹圄，船员们在各自的战线上抗争，星际间的政治博弈进入新阶段。",
-    "desc_en": "A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history."
   },
   {
     "id": 25206,
@@ -2166,13 +1446,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "系列终章：拉克尼亚帝国与抵抗军的最终对决，荷尔登与同伴面临终极牺牲，银河战争走向苦涩而真实的结局。",
-    "desc_en": "A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history."
   },
   {
     "id": 25401,
@@ -2181,13 +1456,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.3,
-    "dir": "Jonathan Nolan",
-    "country": "USA",
-    "desc_zh": "政府机器每天记录纽约数百万人的行踪，侦测恐怖威胁。但它同时向前CIA特工里斯和天才芬奇传递无关紧要的人员信息，两人开始暗中守护普通人。",
-    "desc_en": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. "
   },
   {
     "id": 25402,
@@ -2196,13 +1466,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.6,
-    "dir": "Jonathan Nolan",
-    "country": "USA",
-    "desc_zh": "里斯和芬奇深入纽约地下世界，对抗更大的犯罪组织，同时HR腐败警察集团和神秘的根源组织浮出水面，威胁不断升级。",
-    "desc_en": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. "
   },
   {
     "id": 25403,
@@ -2211,13 +1476,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.6,
-    "dir": "Jonathan Nolan",
-    "country": "USA",
-    "desc_zh": "机器与HR的冲突走向公开，新的人工智能萨马利亚人开始运行，一场关于监控、自由与人工智能伦理的更大博弈悄然开启。",
-    "desc_en": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. "
   },
   {
     "id": 25404,
@@ -2226,13 +1486,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.5,
-    "dir": "Jonathan Nolan",
-    "country": "USA",
-    "desc_zh": "萨马利亚人全面接管，里斯和芬奇的团队被迫转入地下，以不同身份在监控网络的阴影下继续战斗。",
-    "desc_en": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. "
   },
   {
     "id": 25405,
@@ -2241,13 +1496,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.4,
-    "dir": "Jonathan Nolan",
-    "country": "USA",
-    "desc_zh": "系列终章：里斯与萨马利亚人的最后对决，芬奇面临终极牺牲，机器的未来与人类的自由在这一季画上句点。",
-    "desc_en": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. "
   },
   {
     "id": 25501,
@@ -2256,13 +1506,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "jp",
     "imdb": 9.1,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "Japan",
-    "desc_zh": "百年前，人类为逃避巨人威胁，躲进高墙之内。侦察兵团少年艾伦目睹母亲被吃，誓死要歼灭所有巨人，踏上漫长而残酷的战斗之路。",
-    "desc_en": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!"
   },
   {
     "id": 25502,
@@ -2271,13 +1516,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "jp",
     "imdb": 9.1,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "Japan",
-    "desc_zh": "人类反攻开始，艾伦的巨人能力引发争议，调查兵团深入墙外探索，更多关于巨人起源的真相开始浮出水面。",
-    "desc_en": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!"
   },
   {
     "id": 25503,
@@ -2286,13 +1526,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "jp",
     "imdb": 9.1,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "Japan",
-    "desc_zh": "调查兵团揭开巨人的秘密，地下室的真相彻底颠覆了艾伦对世界的认知，剧情走向更加沉重与复杂。",
-    "desc_en": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!"
   },
   {
     "id": 25504,
@@ -2301,13 +1536,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "jp",
     "imdb": 9.1,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "Japan",
-    "desc_zh": "故事跳跃四年，艾伦已大变样。帕拉迪岛外的世界与岛内的政治矛盾激化，地鸣的阴影笼罩一切，终章正式开启。",
-    "desc_en": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!"
   },
   {
     "id": 31501,
@@ -2316,13 +1546,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "维斯特洛大陆，北境领主奈德·史塔克被国王召唤入朝为相，卷入宫廷权力争斗，揭开了一个没有好人能活到结局的残酷传奇。",
-    "desc_en": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
   },
   {
     "id": 31502,
@@ -2331,13 +1556,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "奈德·史塔克死后，五王之战爆发。龙石岛的史坦尼斯、北境的罗柏·史塔克、铁群岛的葛雷乔伊，各方势力同时角逐铁王座。",
-    "desc_en": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
   },
   {
     "id": 31503,
@@ -2346,13 +1566,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "龙妈丹妮莉丝继续扩大势力，罗柏·史塔克遭遇红色婚礼的毁灭性打击，君临城的宫廷阴谋愈演愈烈。",
-    "desc_en": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
   },
   {
     "id": 31504,
@@ -2361,13 +1576,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "红色婚礼的余震持续，提利昂受审，龙妈占领弥林，各地势力重新洗牌，权力的游戏进入最血腥残酷的阶段。",
-    "desc_en": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
   },
   {
     "id": 31505,
@@ -2376,13 +1586,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "史坦尼斯挥师北境，异鬼威胁愈发真实，君临的宗教势力高雀麻雀崛起，提利昂流亡寻找新主公。",
-    "desc_en": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
   },
   {
     "id": 31506,
@@ -2391,13 +1596,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "琼恩·雪诺复活，史塔克家族反攻北境，龙妈在多斯拉克重获权力，高雀麻雀与王室的对决走向爆炸性高潮。",
-    "desc_en": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
   },
   {
     "id": 31507,
@@ -2406,13 +1606,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "龙妈与三条龙抵达维斯特洛，琼恩·雪诺身世之谜揭晓，凛冬已至，异鬼大军步步逼近长城。",
-    "desc_en": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
   },
   {
     "id": 31508,
@@ -2421,13 +1616,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 9.2,
     "douban": 6.0,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "系列终章：长夜之战、王座之争与龙妈的堕落，争议性的最终季以出人意料的方式收尾，引发全球观众热议。",
-    "desc_en": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
   },
   {
     "id": 31701,
@@ -2436,13 +1626,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "de",
     "imdb": 8.7,
     "douban": 9.0,
-    "dir": "Baran bo Odar",
-    "country": "Germany",
-    "desc_zh": "德国小镇文登，一个孩子的失踪牵出横跨三代人、四个时空的时间旅行谜题。家族秘密、命运循环与自由意志在此交缠。",
-    "desc_en": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
   },
   {
     "id": 31702,
@@ -2451,13 +1636,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "de",
     "imdb": 8.7,
     "douban": 9.3,
-    "dir": "Baran bo Odar",
-    "country": "Germany",
-    "desc_zh": "第二季引入平行时间线，过去与未来的牵绊更加错综复杂，命运的悖论与人物的动机层层揭示，烧脑程度直线上升。",
-    "desc_en": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
   },
   {
     "id": 31703,
@@ -2466,13 +1646,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "de",
     "imdb": 8.7,
     "douban": 9.2,
-    "dir": "Baran bo Odar",
-    "country": "Germany",
-    "desc_zh": "终季揭示平行宇宙的存在，所有谜题走向终极解答，循环的根源被彻底追溯，以令人动容的方式告别。",
-    "desc_en": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations."
   },
   {
     "id": 31801,
@@ -2481,13 +1656,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.1,
-    "dir": "Duffer Brothers",
-    "country": "USA",
-    "desc_zh": "1983年，印第安纳州霍金斯镇，少年威尔·拜尔斯神秘失踪，他的朋友们在寻找他的过程中接触到黑衣局的秘密实验、异世界颠倒，以及一个拥有超能力的神秘女孩十一。",
-    "desc_en": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl."
   },
   {
     "id": 31802,
@@ -2496,13 +1666,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.9,
-    "dir": "Duffer Brothers",
-    "country": "USA",
-    "desc_zh": "威尔重返人间却难以摆脱颠倒世界的阴影，一只来自异世界的新怪物开始出没，孩子们再度联手面对超自然威胁。",
-    "desc_en": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl."
   },
   {
     "id": 31803,
@@ -2511,13 +1676,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.7,
-    "dir": "Duffer Brothers",
-    "country": "USA",
-    "desc_zh": "霍金斯的夏天，购物中心开业，苏联秘密基地隐藏其中。十一与麦克的恋情、霍普金斯与乔伊斯的火花，在新怪物的威胁下齐齐爆发。",
-    "desc_en": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl."
   },
   {
     "id": 31804,
@@ -2526,13 +1686,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Duffer Brothers",
-    "country": "USA",
-    "desc_zh": "组分散多地：霍金斯、加利福尼亚、俄罗斯，多线并进对抗心灵终结者。本季体量庞大，情感爆发力强，是系列最长也最具野心的一季。",
-    "desc_en": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl."
   },
   {
     "id": 31805,
@@ -2541,13 +1696,8 @@ window.DATA = [
     "year": 2025,
     "type": "series",
     "genre": "Fantasy",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Duffer Brothers",
-    "country": "USA",
-    "desc_zh": "1987年的霍金斯因“颠倒世界”裂缝彻底陷入危机，十一与伙伴们必须再次集结，寻找并消灭失踪的维克那。与此同时，小镇被军方封锁，最终决战也逐渐逼近。",
-    "desc_en": "Set in 1987, Hawkins is devastated by the growing rifts to the Upside Down. Eleven and the group reunite to find and destroy Vecna, while the town falls under military quarantine and the final battle against the darkness draws near."
   },
   {
     "id": 25301,
@@ -2556,13 +1706,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "France",
-    "desc_zh": "皮城巨头之间的争斗催生了皮城观察者与净化执行者两大派系。Vi与金克斯两姐妹在阶级撕裂的城市中走向对立，英雄与反派的边界模糊消融。",
-    "desc_en": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions."
   },
   {
     "id": 25302,
@@ -2571,13 +1716,8 @@ window.DATA = [
     "year": 2024,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "France",
-    "desc_zh": "第二季扩展世界观，更多角色卷入皮城与祖安之间的战争，金克斯与Vi的命运走向终极碰撞，以磅礴的视觉与情感完结这段传奇。",
-    "desc_en": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions."
   },
   {
     "id": 25701,
@@ -2586,13 +1726,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.5,
-    "dir": "Ronald D Moore",
-    "country": "USA",
-    "desc_zh": "架空历史：1969年，美国未失去月球竞赛，冷战太空争霸持续升温。宇航员、工程师和政客在这条不同的历史轨道上奋力推进人类的太空梦。",
-    "desc_en": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families."
   },
   {
     "id": 25702,
@@ -2601,13 +1736,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.8,
-    "dir": "Ronald D Moore",
-    "country": "USA",
-    "desc_zh": "时间线跳至1980年代，美苏太空竞赛进入新阶段，火星任务成为新目标，个人命运与国家意志再度交织。",
-    "desc_en": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families."
   },
   {
     "id": 25703,
@@ -2616,13 +1746,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.6,
-    "dir": "Ronald D Moore",
-    "country": "USA",
-    "desc_zh": "1990年代，私人太空企业加入竞争，三国角力格局形成。火星殖民计划引发新的道德与政治争议。",
-    "desc_en": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families."
   },
   {
     "id": 25704,
@@ -2631,13 +1756,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.5,
-    "dir": "Ronald D Moore",
-    "country": "USA",
-    "desc_zh": "2003年，火星殖民地已初具规模，独立运动悄然兴起，历史的车轮在另一条轨道上滚向未知的未来。",
-    "desc_en": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families."
   },
   {
     "id": 26001,
@@ -2646,13 +1766,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.2,
     "douban": 8.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "洛基在时间变异管理局接受审判，被迫协助调查一个更危险的变异版自己。幽默、混乱与多元宇宙的宏大叙事在此交融。",
-    "desc_en": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat."
   },
   {
     "id": 26002,
@@ -2661,13 +1776,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.2,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "洛基与莫比斯回到TVA，发现时间线正在崩溃。洛基面临拯救多元宇宙还是守护身边人的终极抉择，以令人意外的方式谢幕。",
-    "desc_en": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat."
   },
   {
     "id": 90501,
@@ -2676,13 +1786,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "律师马特·默多克白天在地狱厨房为弱势群体辩护，夜晚化身盲侠夜魔侠打击犯罪，与俄罗斯黑帮、毒品集团及城市之王威尔逊·菲斯克展开对抗。",
-    "desc_en": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course."
   },
   {
     "id": 90502,
@@ -2691,13 +1796,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "夜魔侠面对新对手电刺客和忍者组织手，同时弗兰克·卡斯尔惩罚者的出现带来了关于英雄主义与暴力边界的深刻追问。",
-    "desc_en": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course."
   },
   {
     "id": 90503,
@@ -2706,13 +1806,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "威尔逊·菲斯克出狱，夜魔侠陷入最危险的困境：失去战衣、身份曝光，必须在毁灭与重生之间做出选择。",
-    "desc_en": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course."
   },
   {
     "id": 90601,
@@ -2721,13 +1816,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 8.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "神盾局特工菲尔·科尔森率领精英小队执行超级英雄世界中的幕后任务，揭开九头蛇渗透神盾局的惊天阴谋。",
-    "desc_en": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary."
   },
   {
     "id": 90602,
@@ -2736,13 +1826,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 8.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "九头蛇覆灭后，神盾局在废墟中重建，新威胁变种人崛起，寇森团队面临比以往更复杂的身份认同与忠诚考验。",
-    "desc_en": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary."
   },
   {
     "id": 90603,
@@ -2751,13 +1836,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 8.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "本季引入人工智能Hive与高级进化论，神盾局分裂成两派，寇森的领导权受到挑战，剧情与MCU电影的联动更加紧密。",
-    "desc_en": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary."
   },
   {
     "id": 90604,
@@ -2766,13 +1846,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 8.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "神盾局与鬼骑士的联动，以及机器框架虚拟现实的叙事实验，令本季成为系列中最具野心的一季。",
-    "desc_en": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary."
   },
   {
     "id": 90605,
@@ -2781,13 +1856,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "神盾局穿越至未来的后世界末日太空站，揭示了一个已被毁灭的地球的恐怖命运，团队必须回到过去改变历史。",
-    "desc_en": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary."
   },
   {
     "id": 90606,
@@ -2796,13 +1866,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "神盾局分裂，部分成员与外星人Sarge展开危险接触，新的宇宙威胁迫使团队以非常规方式应对。",
-    "desc_en": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary."
   },
   {
     "id": 90607,
@@ -2811,13 +1876,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.5,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "终季，神盾局面对克罗纳卡的时间武器，在末世倒计时中完成最后的使命，以体面的方式向长达七季的旅程告别。",
-    "desc_en": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary."
   },
   {
     "id": 50101,
@@ -2826,13 +1886,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "1960年代牛津，年轻的摩斯首度加入泰晤士河谷警察局，在督察弗雷德·瑟斯迪的指导下破解首批案件，天才侦探的成长故事就此开始。",
-    "desc_en": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future."
   },
   {
     "id": 50102,
@@ -2841,13 +1896,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "摩斯在牛津的侦探生涯继续，面对更复杂的谋杀案，与瑟斯迪督察的师徒情谊也在磨砺中加深。",
-    "desc_en": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future."
   },
   {
     "id": 50103,
@@ -2856,13 +1906,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "1960年代末，社会动荡蔓延至牛津，摩斯的私人生活与职业生涯同步面临考验，侦破案件的背后是时代的变革。",
-    "desc_en": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future."
   },
   {
     "id": 50104,
@@ -2871,13 +1916,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "摩斯升职，新搭档关系磨合，更黑暗的犯罪阴影笼罩牛津，这座城市美丽外表下的腐败开始显现。",
-    "desc_en": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future."
   },
   {
     "id": 50105,
@@ -2886,13 +1926,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "摩斯面对职业生涯中最大的道德挑战，一桩涉及权贵的案件将他推向危险的境地。",
-    "desc_en": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future."
   },
   {
     "id": 50106,
@@ -2901,13 +1936,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "时代进入1970年代，牛津的社会面貌更迭，摩斯在坚守原则与现实妥协之间愈发艰难。",
-    "desc_en": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future."
   },
   {
     "id": 50107,
@@ -2916,13 +1946,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "1970年的牛津接连发生离奇案件，包括校园谋杀、精神病院谜案与连环死亡事件。摩斯在调查过程中逐渐与上司星期四探长产生裂痕，也开始面对自己愈发孤独而执拗的性格。",
-    "desc_en": "In 1970 Oxford, Endeavour Morse investigates a string of unsettling cases involving university murders, psychiatric institutions, and mysterious deaths. As the investigations deepen, tensions grow between Morse and Inspector Thursday, while Morse struggles with his increasingly isolated nature."
   },
 {
     "id": 50108,
@@ -2931,13 +1956,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "时间来到1971年，牛津被一连串针对出租车司机的袭击与谋杀案笼罩。摩斯在调查过程中重新回归警队，却发现自己与旧同事之间的关系愈发复杂，而案件背后也隐藏着更深层的不安与腐败。",
-    "desc_en": "Set in 1971, Oxford is shaken by a series of attacks and murders targeting taxi drivers. Returning to duty, Endeavour Morse finds his relationships with former colleagues increasingly strained as the investigation uncovers deeper corruption and unease beneath the city's surface."
   },
 {
     "id": 50109,
@@ -2946,13 +1966,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "1972年的牛津，摩斯与星期四探长迎来最后几宗案件调查，包括政治阴谋、失踪人口与连环命案。随着真相逐渐揭开，摩斯也一步步走向后来《摩斯探长》中那个孤独而传奇的自己。",
-    "desc_en": "In 1972 Oxford, Morse and Inspector Thursday face their final investigations involving political intrigue, disappearances, and multiple murders. As the truth unfolds, Morse gradually becomes the solitary and legendary detective seen in the original series."
   },
   {
     "id": 50201,
@@ -2961,13 +1976,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "卷福版夏洛克·福尔摩斯与约翰·华生在现代伦敦联手破案，犀利的推理、出色的化学反应与现代科技的加持，令经典角色焕然一新。",
-    "desc_en": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London."
   },
   {
     "id": 50202,
@@ -2976,13 +1986,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "莫里亚蒂的威胁达到顶峰，夏洛克在雷辛巴赫瀑布的生死之谜震惊全球观众，本季以惊天悬念告终。",
-    "desc_en": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London."
   },
   {
     "id": 50203,
@@ -2991,13 +1996,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "夏洛克从死亡中归来，揭开莫里亚蒂计划的真相，同时面对来自政府内部的更大威胁，华生婚礼季笑中带泪。",
-    "desc_en": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London."
   },
   {
     "id": 50204,
@@ -3006,13 +2006,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 8.7,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "终季：新反派库卢班登场，夏洛克的家族秘密彻底揭开，姐姐尤鲁斯的存在颠覆了一切认知，以震撼的心理战收场。",
-    "desc_en": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London."
   },
   {
     "id": 25801,
@@ -3021,13 +2016,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 7.8,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "克隆人战争结束后，帝国崛起，幸存的绝地学徒艾兹拉·布里杰加入游击队组织鬼号船员，在银河帝国的铁蹄下点燃反抗的火种。",
-    "desc_en": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion."
   },
   {
     "id": 25802,
@@ -3036,13 +2026,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.5,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "鬼号船员与更广泛的反抗军网络取得联系，帝国审判官与达斯·维达的威胁升级，系列开始与原版三部曲的世界线接轨。",
-    "desc_en": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion."
   },
   {
     "id": 25803,
@@ -3051,13 +2036,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.5,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "反抗军联盟初步成形，艾兹拉的原力天赋持续成长，黑暗面的诱惑愈发强烈。",
-    "desc_en": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion."
   },
   {
     "id": 25804,
@@ -3066,13 +2046,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.6,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "终季：反抗军夺回洛萨星，艾兹拉做出终极牺牲，本剧以充满情感的方式为这段星球大战故事画上圆满句点。",
-    "desc_en": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion."
   },
   {
     "id": 90201,
@@ -3081,13 +2056,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Jon Favreau",
-    "country": "USA",
-    "desc_zh": "帝国覆灭后的银河系，一名曼达洛星球的赏金猎人接受委托护送一个神秘的资产——一个与尤达同族的幼小生命体，由此踏上跨越星际的逃亡与守护之旅。",
-    "desc_en": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter."
   },
   {
     "id": 90202,
@@ -3096,13 +2066,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Jon Favreau",
-    "country": "USA",
-    "desc_zh": "曼达洛人与格鲁古的羁绊持续加深，帝国残余势力穷追不舍，两人在银河边陲辗转流亡，寻找格鲁古的同族绝地。",
-    "desc_en": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter."
   },
   {
     "id": 90203,
@@ -3111,13 +2076,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.0,
-    "dir": "Jon Favreau",
-    "country": "USA",
-    "desc_zh": "曼达洛人重返曼达洛星球，卷入本星球的内部政治纷争，与格鲁古的父子情在新的考验中更加深厚。",
-    "desc_en": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter."
   },
   {
     "id": 90301,
@@ -3126,13 +2086,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.8,
     "douban": 8.4,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "克隆人战争结束，帝国建立。一批经过特殊改造的克隆人精英小队坏批次因基因突变而与众不同，在新秩序下被迫成为逃亡者。",
-    "desc_en": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars."
   },
   {
     "id": 90302,
@@ -3141,13 +2096,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.8,
     "douban": 8.3,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "坏批次在银河系各地执行任务谋生，帝国的克隆项目阴谋逐渐浮现，欧米茄的身世之谜也在本季揭开。",
-    "desc_en": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars."
   },
   {
     "id": 90303,
@@ -3156,13 +2106,8 @@ window.DATA = [
     "year": 2024,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.8,
     "douban": 8.7,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "终季：帝国加速推进TK计划，坏批次成员各自面临生死抉择，以饱含情感的方式为克隆人战士们的故事画上句点。",
-    "desc_en": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars."
   },
   {
     "id": 90401,
@@ -3171,13 +2116,8 @@ window.DATA = [
     "year": 2008,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.6,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "克隆人战争全面爆发，绝地武士与克隆军团并肩作战，阿索卡·塔诺首度登场，银河共和国与分离主义势力展开全面冲突。",
-    "desc_en": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists."
   },
   {
     "id": 90402,
@@ -3186,13 +2126,8 @@ window.DATA = [
     "year": 2009,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.0,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "战争规模持续扩大，阿索卡与安纳金师徒情谊加深，西斯领主暗中操控双方，克隆人士兵的人性与忠诚受到考验。",
-    "desc_en": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists."
   },
   {
     "id": 90403,
@@ -3201,13 +2136,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.2,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "黑暗面阴谋深化，死亡观察与曼达洛政治纷争登场，阿索卡离开绝地圣殿的伏笔埋下，系列进入更成熟的叙事阶段。",
-    "desc_en": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists."
   },
   {
     "id": 90404,
@@ -3216,13 +2146,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.2,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "战争蔓延至更多星球，阿索卡遭受不公正指控，安纳金与议会的裂痕加深，帝国崛起的阴影愈发浓重。",
-    "desc_en": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists."
   },
   {
     "id": 90405,
@@ -3231,13 +2156,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.3,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "莫尔与死亡观察联手，达斯·茂重出江湖，阿索卡离开绝地圣殿，系列情感深度达到新高峰。",
-    "desc_en": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists."
   },
   {
     "id": 90406,
@@ -3246,13 +2166,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.3,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "Netflix救活的失落的任务，补完了之前的剧情空白，包括亚文四号战役期间的曼达洛政变及西斯的秘密行动。",
-    "desc_en": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists."
   },
   {
     "id": 90407,
@@ -3261,13 +2176,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.5,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "终季：西斯的秘密行动全面揭露，阿索卡与莫尔在曼达洛的最终对决，以及通向第三集的关键过渡，完美收束这部动画传奇。",
-    "desc_en": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists."
   },
     {
     "id": 90701,
@@ -3276,13 +2186,8 @@ window.DATA = [
     "year": 2026,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.8,
-    "dir": "Dave Filoni",
-    "country": "USA",
-    "desc_zh": "设定在“克隆人战争”之后，帕尔帕廷皇帝的统治将要开始之时，摩尔计划在一颗未被帝国染指的星球重建他的犯罪组织，而他遇上了一个理想破灭的绝地学徒，或许正是他在复仇之路上所需要的帮手。",
-    "desc_en": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire."
   },
   {
     "id": 12101,
@@ -3291,13 +2196,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "公元前73年，斯巴达克斯在卡普阿角斗学校被迫成为角斗士，他率领同伴揭竿起义，掀起了震撼罗马帝国的最大奴隶反叛。",
-    "desc_en": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment."
   },
   {
     "id": 11301,
@@ -3306,13 +2206,8 @@ window.DATA = [
     "year": 2007,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "加州帕萨迪纳，四个物理学极客与对门搬来的金发美女佩妮，碰撞出无数尴尬又温馨的喜剧火花。谢尔顿·库珀的怪癖成为流行文化的标志。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11302,
@@ -3321,13 +2216,8 @@ window.DATA = [
     "year": 2008,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "四人组与佩妮的友情持续发展，莱纳德对佩妮的追求时进时退，霍华德和拉杰陷入各自的感情困境，谢尔顿依然是全场最不懂人情的那个。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11303,
@@ -3336,13 +2226,8 @@ window.DATA = [
     "year": 2009,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "佩妮与莱纳德的关系更加微妙，谢尔顿意外迎来人生中的第一段浪漫关系，四个书呆子的社交冒险持续升级。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11304,
@@ -3351,13 +2236,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "霍华德得到前往国际空间站的机会，谢尔顿与艾米的关系协议持续产出喜剧素材，四人组的友情与爱情双线并进。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11305,
@@ -3366,13 +2246,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "霍华德完成太空任务归来，谢尔顿与艾米关系升温，莱纳德与佩妮订婚，系列人物的感情线全面推进。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11306,
@@ -3381,13 +2256,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "莱纳德与佩妮的婚事讨论持续，谢尔顿面对感情关系的新挑战，四人组的事业与生活同步进入新阶段。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11307,
@@ -3396,13 +2266,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "谢尔顿获得重大学术突破，莱纳德与佩妮确认求婚，霍华德与伯纳黛特迎来孩子，大家的生活都在悄悄改变。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11308,
@@ -3411,13 +2276,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "莱纳德与佩妮的婚礼季，谢尔顿开始思考与艾米的未来，系列人物集体迈入人生的新篇章。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11309,
@@ -3426,13 +2286,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "谢尔顿向艾米求婚，四对情侣各自面对生活的新挑战，系列在温情与幽默中持续向前。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11310,
@@ -3441,13 +2296,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "谢尔顿与艾米筹备婚礼，霍华德与伯纳黛特迎来第二胎，莱纳德与佩妮的婚姻步入平稳，老友聚会的暖意贯穿全季。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11311,
@@ -3456,13 +2306,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "谢尔顿与艾米大婚，诺贝尔奖的消息传来，所有人的故事都在走向一个充满希望的新起点。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11312,
@@ -3471,13 +2316,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "系列终章：谢尔顿与艾米荣获诺贝尔物理学奖，四个极客与他们的伴侣以最温情的方式道别，十二年的笑声画下完美句点。",
-    "desc_en": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door."
   },
   {
     "id": 11901,
@@ -3486,13 +2326,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "禁酒令时代的大西洋城，野心勃勃的政客努基·汤普森掌控非法酒业帝国，在政界、帮派与联邦调查局的多方角力中纵横捭阖。",
-    "desc_en": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster."
   },
   {
     "id": 11902,
@@ -3501,13 +2336,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "努基的权力版图扩大，与纽约黑帮的紧张关系升温，联邦探员纳克的调查网越收越紧，政治与犯罪的边界持续模糊。",
-    "desc_en": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster."
   },
   {
     "id": 11903,
@@ -3516,13 +2346,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "1923年，努基与艾尔·卡彭、勒基·卢西安诺等真实黑帮人物的交集加深，权力顶峰的代价开始显现。",
-    "desc_en": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster."
   },
   {
     "id": 11904,
@@ -3531,13 +2356,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "努基的帝国开始出现裂痕，私人生活的悲剧与政治盟友的背叛同时到来，他试图维持表面的平静。",
-    "desc_en": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster."
   },
   {
     "id": 11905,
@@ -3546,13 +2366,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "终季，时间跳至1931年，努基面对自己缔造的一切的崩塌，以一场令人唏嘘的历史清算结束这段传奇。",
-    "desc_en": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster."
   },
   {
     "id": 12001,
@@ -3561,13 +2376,8 @@ window.DATA = [
     "year": 2005,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA/UK",
-    "desc_zh": "公元前49年，凯撒率军越过卢比孔河，内战爆发。两名罗马士兵在历史的洪流中艰难求存。",
-    "desc_en": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic."
   },
   {
     "id": 12002,
@@ -3576,13 +2386,8 @@ window.DATA = [
     "year": 2007,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 8.9,
-    "dir": "Various",
-    "country": "USA/UK",
-    "desc_zh": "终季：屋大维与安东尼争夺罗马控制权，两位士兵的命运在共和国走向帝国的历史转折中画上句点。",
-    "desc_en": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic."
   },
   {
     "id": 12201,
@@ -3591,13 +2396,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.3,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "9世纪英格兰，维京人入侵，撒克逊贵族乌赫特雷德被北欧人俘虏并以战士身份养大，在两种文化之间寻找身份认同，誓言夺回祖先之地班堡。",
-    "desc_en": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home."
   },
   {
     "id": 12202,
@@ -3606,13 +2406,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.7,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "乌赫特雷德继续效力阿尔弗雷德大帝，在维京人与撒克逊人的战争中左右为难，祖先之地的夺回之路依然遥远。",
-    "desc_en": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home."
   },
   {
     "id": 12203,
@@ -3621,13 +2416,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.9,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "阿尔弗雷德大帝驾崩，乌赫特雷德在新王爱德华治下继续守护英格兰，同时寻机实现夺回班堡的毕生夙愿。",
-    "desc_en": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home."
   },
   {
     "id": 12204,
@@ -3636,13 +2426,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "英格兰统一进程加速，乌赫特雷德终于向班堡发起冲击，多年的执念在战火中走向决定性时刻。",
-    "desc_en": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home."
   },
   {
     "id": 12205,
@@ -3651,13 +2436,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "终季：乌赫特雷德踏上最后的征途，班堡之战与英格兰统一的历史使命同步走向终章，以壮阔的方式告别。",
-    "desc_en": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home."
   },
   {
     "id": 13001,
@@ -3666,13 +2446,8 @@ window.DATA = [
     "year": 1980,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "新任部长吉姆·哈克试图推行改革，却不断被精明的常务次长汉弗莱·阿普比爵士以官僚逻辑化解。英国政治喜剧的经典之作，辛辣讽刺永不过时。",
-    "desc_en": "Satirical sitcom set in the office of a UK Cabinet minister, Jim Hacker MP, who struggles with Civil Service bureaucracy and political machinations as he tries to get on with government business."
   },
   {
     "id": 13002,
@@ -3681,13 +2456,8 @@ window.DATA = [
     "year": 1981,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "哈克部长在官僚体制中继续碰壁，汉弗莱爵士的阻挠愈发精妙，两人的权力博弈产出了英国喜剧史上最多的名场面。",
-    "desc_en": "Satirical sitcom set in the office of a UK Cabinet minister, Jim Hacker MP, who struggles with Civil Service bureaucracy and political machinations as he tries to get on with government business."
   },
   {
     "id": 13003,
@@ -3696,13 +2466,8 @@ window.DATA = [
     "year": 1982,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "哈克的改革之路走到终点，却意外获得了更大的政治机遇，一个新的权力游戏即将开始。",
-    "desc_en": "Satirical sitcom set in the office of a UK Cabinet minister, Jim Hacker MP, who struggles with Civil Service bureaucracy and political machinations as he tries to get on with government business."
   },
   {
     "id": 13101,
@@ -3711,13 +2476,8 @@ window.DATA = [
     "year": 1986,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "吉姆·哈克升任首相，以为终于可以大展拳脚，却发现权力越大、汉弗莱爵士的掣肘越高明，唐宁街的官僚游戏比内阁更加复杂。",
-    "desc_en": "James Hacker MP the Government's bumbling minister  for Administrative Affairs is propelled along the corridors of power to the very pinnacle of politics - No. 10.  Could this have possibly have been managed by his trusted Permanent Private Secretary, the formidably political Sir Humphrey Appleby who must move to the “Top Job” in Downing Street to support him, together with his much put upon PPS Bernard Wolley. \n\nWhat could possibly go wrong?"
   },
   {
     "id": 13102,
@@ -3726,13 +2486,8 @@ window.DATA = [
     "year": 1987,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "哈克首相继续在汉弗莱的包围下艰难治国，两部曲在笑声中完成了对英国政治文化最深刻的解剖。",
-    "desc_en": "James Hacker MP the Government's bumbling minister  for Administrative Affairs is propelled along the corridors of power to the very pinnacle of politics - No. 10.  Could this have possibly have been managed by his trusted Permanent Private Secretary, the formidably political Sir Humphrey Appleby who must move to the “Top Job” in Downing Street to support him, together with his much put upon PPS Bernard Wolley. \n\nWhat could possibly go wrong?"
   },
   {
     "id": 13501,
@@ -3741,13 +2496,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "1930年代英国约克郡，苏格兰青年兽医詹姆斯·赫里奥特来到偏远农村，跟随古怪而慈祥的西格弗里德·法农学习，开始了他温暖动人的乡村兽医生涯。",
-    "desc_en": "The trials and misadventures of the staff at a country veterinary office in Yorkshire. James Herriot, a young animal surgeon, moves to a small Yorkshire town to begin his first job."
   },
   {
     "id": 13502,
@@ -3756,13 +2506,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "赫里奥特在约克郡扎根，爱情与职业双双迎来考验，战争阴云开始笼罩这片宁静的英格兰乡野。",
-    "desc_en": "The trials and misadventures of the staff at a country veterinary office in Yorkshire. James Herriot, a young animal surgeon, moves to a small Yorkshire town to begin his first job."
   },
   {
     "id": 13503,
@@ -3771,13 +2516,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "战时的约克郡，赫里奥特在军中服役，法农兄弟守护诊所，田园生活因战争而蒙上了一层难言的忧愁与坚韧。",
-    "desc_en": "The trials and misadventures of the staff at a country veterinary office in Yorkshire. James Herriot, a young animal surgeon, moves to a small Yorkshire town to begin his first job."
   },
   {
     "id": 13504,
@@ -3786,13 +2526,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "战后归来的赫里奥特重拾兽医生涯，新一代年轻人加入诊所，约克郡的四季与动物故事依然温暖人心。",
-    "desc_en": "The trials and misadventures of the staff at a country veterinary office in Yorkshire. James Herriot, a young animal surgeon, moves to a small Yorkshire town to begin his first job."
   },
   {
     "id": 13505,
@@ -3801,13 +2536,8 @@ window.DATA = [
     "year": 2024,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "第五季延续这部BBC挚爱剧集的温情传统，约克郡的田园风光与人与动物之间真挚的情感，继续治愈每一位观众。",
-    "desc_en": "The trials and misadventures of the staff at a country veterinary office in Yorkshire. James Herriot, a young animal surgeon, moves to a small Yorkshire town to begin his first job."
   },
   {
     "id": 13701,
@@ -3816,13 +2546,8 @@ window.DATA = [
     "year": 2025,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "匹兹堡市立医院急诊室的一个漫长夜班，一群医护人员在生死攸关的高压环境下展现出真实的人性。HBO新剧，以近乎实时的叙事还原急救室的紧张与温情。",
-    "desc_en": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department."
   },
   {
     "id": 13702,
@@ -3831,13 +2556,8 @@ window.DATA = [
     "year": 2026,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.9,
     "douban": 8.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "匹兹堡医护前线第二季设定在第一季结局十个月后，美国独立日周末的匹兹堡急诊室再次陷入高压状态。医护人员一边处理接连不断的重症急救，一边面对成瘾、创伤与职场冲突，继续在混乱中守住生命防线。",
-    "desc_en": "Season 2 of The Pitt takes place ten months after the first season, during a chaotic Fourth of July weekend in Pittsburgh’s emergency room. As critical cases flood in, the medical staff struggle with addiction, trauma, and workplace tensions while trying to save lives under relentless pressure."
   },
   {
     "id": 25901,
@@ -3846,13 +2566,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.0,
-    "dir": "Tony Gilroy",
-    "country": "USA",
-    "desc_zh": "帝国时代，前参议员安道尔·厄索开始觉醒，加入反抗军运动的早期组织，叙事风格成熟克制，是星战宇宙中最接近现实政治剧的作品。",
-    "desc_en": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero."
   },
   {
     "id": 25902,
@@ -3861,13 +2576,8 @@ window.DATA = [
     "year": 2025,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.9,
-    "dir": "Tony Gilroy",
-    "country": "USA",
-    "desc_zh": "安道尔的反抗军之旅走向终点，与侠盗一号的剧情线汇合，填补了这段星战历史中最重要的空白。",
-    "desc_en": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero."
   },
   {
     "id": 26101,
@@ -3876,13 +2586,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.6,
     "douban": 7.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "联邦星际舰队学院的被拒少年达尔与精英学员们意外驾驶星舰原初号在银河系迷航，在险象环生的冒险中学习星际舰队精神。",
-    "desc_en": "A motley crew of young rebellious aliens commandeer an old Starfleet ship and must figure out how to work together while navigating a greater galaxy, in search for a better future. These six young outcasts know nothing about the ship they have commandeered, but over the course of their adventures together, they will each be introduced to Starfleet and the ideals it represents."
   },
   {
     "id": 26102,
@@ -3891,13 +2596,8 @@ window.DATA = [
     "year": 2024,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 7.6,
     "douban": 7.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "达尔和原初号船员找到了回家的路，却面临更大的威胁，星际舰队也在本季迎来了令老粉丝欣慰的重量级惊喜。",
-    "desc_en": "A motley crew of young rebellious aliens commandeer an old Starfleet ship and must figure out how to work together while navigating a greater galaxy, in search for a better future. These six young outcasts know nothing about the ship they have commandeered, but over the course of their adventures together, they will each be introduced to Starfleet and the ideals it represents."
   },
   {
     "id": 40601,
@@ -3906,13 +2606,8 @@ window.DATA = [
     "year": 2006,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.4,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "BBC与大卫·爱登堡划时代之作，首次以高清摄影呈现地球上最壮美的自然景观与野生动物，从极地冰原到热带雨林，重新定义了自然纪录片的标准。",
-    "desc_en": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries."
   },
   {
     "id": 40602,
@@ -3921,13 +2616,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.4,
     "douban": 9.8,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "续作聚焦城市、山地、丛林、沙漠、草原与海岸六大生境，以更先进的摄影技术捕捉从未被记录过的野生动物行为。",
-    "desc_en": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries."
   },
   {
     "id": 40603,
@@ -3936,13 +2626,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.1,
     "douban": 9.7,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "第三季进一步探索人类活动对自然界的影响，在震撼的视觉奇观之外，发出更迫切的环保呼声。",
-    "desc_en": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries."
   },
   {
     "id": 40701,
@@ -3951,13 +2636,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "前顶级赛车主持人杰里米·克拉克森买下一座农场，毫无农业经验却一头扎进去，以他一贯的混乱与笑点记录真实的英国农民生活。",
-    "desc_en": "Follow Jeremy Clarkson as he embarks on his latest adventure, farming. The man who on several occasions claims to be allergic to manual labour takes on the most manually labour intensive job there is. What could possibly go wrong?"
   },
   {
     "id": 40702,
@@ -3966,13 +2646,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "克拉克森的农场面临更大的官僚障碍与天气挑战，他对农业的执着与村民的态度也在悄悄改变。",
-    "desc_en": "Follow Jeremy Clarkson as he embarks on his latest adventure, farming. The man who on several occasions claims to be allergic to manual labour takes on the most manually labour intensive job there is. What could possibly go wrong?"
   },
   {
     "id": 40703,
@@ -3981,13 +2656,8 @@ window.DATA = [
     "year": 2024,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "第三季克拉克森继续在农场折腾，扩建餐厅引发争议，一如既往地用笑声呈现英国农村生活的真实面貌。",
-    "desc_en": "Follow Jeremy Clarkson as he embarks on his latest adventure, farming. The man who on several occasions claims to be allergic to manual labour takes on the most manually labour intensive job there is. What could possibly go wrong?"
   },
 {
     "id": 40704,
@@ -3996,13 +2666,8 @@ window.DATA = [
     "year": 2025,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "杰里米·克拉克森继续经营迪德利农场，在天气、政策和经营压力下尝试开设新酒吧，同时面对农业现实带来的各种混乱与挑战。",
-    "desc_en": "Jeremy Clarkson continues running Diddly Squat Farm, taking on new ventures like opening a pub while struggling with weather, regulations, and the unpredictable realities of modern farming."
   },
 {
     "id": 40705,
@@ -4011,13 +2676,8 @@ window.DATA = [
     "year": 2026,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "在第五季中，杰里米·克拉克森和他的团队在迪丽斯库阿特农场共同应对健康隐忧、政府新税收政策的冲击，并开启了向高科技农业的混乱转型",
-    "desc_en": "In Season 5, Jeremy Clarkson and his team navigate health scares, new government budget crises, and a chaotic transition to high-tech farming at Diddly Squat. "
   },
   {
     "id": 50311,
@@ -4026,13 +2686,8 @@ window.DATA = [
     "year": 1989,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "比利时侦探赫尔克里·波洛在1930年代的英国，以他无与伦比的小灰色细胞和一丝不苟的风度，解开一桩桩精心布局的谋杀谜题。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50312,
@@ -4041,13 +2696,8 @@ window.DATA = [
     "year": 1990,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "波洛继续在英国各地穿梭，从乡村庄园到埃及尼罗河，每一处都藏着阿加莎·克里斯蒂笔下最精妙的杀机。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50313,
@@ -4056,13 +2706,8 @@ window.DATA = [
     "year": 1991,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "波洛的案件愈发复杂，嫌疑人的动机与谎言层层交叠，他的观察力与推理能力依然无懈可击。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50314,
@@ -4071,13 +2716,8 @@ window.DATA = [
     "year": 1992,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "大卫·苏切特的波洛进入黄金时期，改编自原著的多个经典案件被还原得精准而优雅，是英国推理剧的巅峰之作。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50315,
@@ -4086,13 +2726,8 @@ window.DATA = [
     "year": 1993,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "波洛游历至中东与地中海，尼罗河上的惨案与古墓之谜等经典故事在银幕上焕然重生。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50316,
@@ -4101,13 +2736,8 @@ window.DATA = [
     "year": 1995,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "随着系列进入后期，波洛的案件开始触及更黑暗的人性深处，道德困境与正义代价的主题愈发突出。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50317,
@@ -4116,13 +2746,8 @@ window.DATA = [
     "year": 1997,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "波洛在更广阔的欧洲舞台上破案，克里斯蒂的黄金时代推理被大卫·苏切特演绎得愈发深沉内敛。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50318,
@@ -4131,13 +2756,8 @@ window.DATA = [
     "year": 2003,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "波洛系列进入长片模式，每集改编一部完整原著，无人生还、东方快车谋杀案等经典以高品质呈现。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50319,
@@ -4146,13 +2766,8 @@ window.DATA = [
     "year": 2004,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "长片格式继续，波洛面对更多老友成为嫌疑人的道德困境，他对正义的坚守开始付出个人代价。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50320,
@@ -4161,13 +2776,8 @@ window.DATA = [
     "year": 2006,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "波洛系列迈向晚期，侦探本人开始老去，案件的重量不再只是智力游戏，而是关乎灵魂的追问。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50321,
@@ -4176,13 +2786,8 @@ window.DATA = [
     "year": 2008,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "黑麦奇案、万圣节派对等经典故事登场，波洛的推理依然精准，人物的情感却更加苍凉悠远。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50322,
@@ -4191,13 +2796,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "大卫·苏切特的波洛已进入系列最后阶段，每一集都带着向经典道别的珍重情感。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50323,
@@ -4206,13 +2806,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "终季：帷幕作为系列压轴之作，波洛在斯泰尔斯庄园迎来最后一案，以令人动容的方式结束这段长达二十五年的演绎。",
-    "desc_en": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions."
   },
   {
     "id": 50411,
@@ -4221,13 +2816,8 @@ window.DATA = [
     "year": 2004,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 7.9,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "马普尔小姐是英国圣玛丽·米德村的老处女，看似和蔼无害，却有着洞察人性最阴暗角落的惊人本领，以银发慧眼侦破一桩桩凶案。",
-    "desc_en": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over."
   },
   {
     "id": 50412,
@@ -4236,13 +2826,8 @@ window.DATA = [
     "year": 2006,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 7.9,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "马普尔小姐继续在英国各地的庄园、村落与海滨小镇解谜，她的直觉与观察力让所有专业警探相形见绌。",
-    "desc_en": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over."
   },
   {
     "id": 50413,
@@ -4251,13 +2836,8 @@ window.DATA = [
     "year": 2008,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 7.9,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "朱莉·麦肯齐版马普尔进入状态，更多阿加莎原著被搬上银幕，银发侦探的魅力在新演绎下焕发新生。",
-    "desc_en": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over."
   },
   {
     "id": 50414,
@@ -4266,13 +2846,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 7.9,
     "douban": 7.9,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "马普尔的案件涉及更多社会阶层与时代背景，克里斯蒂笔下英国乡村的虚伪与暗流在此一一呈现。",
-    "desc_en": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over."
   },
   {
     "id": 50415,
@@ -4281,13 +2856,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 7.9,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "马普尔系列进入后期，每集均为独立故事，以精良制作向阿加莎·克里斯蒂的文学遗产致敬。",
-    "desc_en": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over."
   },
   {
     "id": 50416,
@@ -4296,13 +2866,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Suspense",
-    "lang": "en",
     "imdb": 7.9,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "终季：马普尔小姐以她一贯的平静与睿智完成最后的案件，为这部英国推理剧画下温雅的句点。",
-    "desc_en": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over."
   },
   {
     "id": 12609,
@@ -4311,13 +2876,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.0,
     "douban": 7.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "德克斯特·摩根在白湾小镇以新身份重新开始，却无法逃脱过去的阴影。传奇杀手迎来迟来的清算，系列在此获得了一个更完整的结局。",
-    "desc_en": "10 years after Dexter went missing in the eye of Hurricane Laura, we find him living under an assumed name in the small town of Iron Lake, New York.  Dexter may be embracing his new life, but in the wake of unexpected events in this close-knit community, his Dark Passenger beckons."
   },
   {
     "id": 12610,
@@ -4326,13 +2886,8 @@ window.DATA = [
     "year": 2025,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 9.0,
     "douban": 8.9,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "德克斯特再度回归，新的威胁与旧的恶魔同时涌现，这名嗜血侦探的故事在新的一季中继续延伸。",
-    "desc_en": "Dexter Morgan awakens from a coma to find Harrison gone without a trace. Realizing the weight of what he put his son through, Dexter sets out for New York City, determined to find him and make things right. But closure won't come easy. When Miami Metro's Angel Batista arrives with questions, Dexter realizes his past is catching up to him fast. As father and son navigate their own darkness in the city that never sleeps, they soon find themselves deeper than they ever imagined - and that the only way out is together."
   },
   {
     "id": 12102,
@@ -4341,13 +2896,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "斯巴达克斯系列前传，聚焦角斗学校主人巴提亚图斯的野心与背叛，以及格拉伯斯角斗士的崛起，揭示斯巴达克斯起义前的血腥内幕。",
-    "desc_en": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment."
   },
   {
     "id": 12103,
@@ -4356,13 +2906,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "斯巴达克斯率领奴隶大军在意大利南部节节胜利，罗马元老院开始认真应对这场威胁，克拉苏与庞培的阴影逐渐逼近。",
-    "desc_en": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment."
   },
   {
     "id": 12104,
@@ -4371,13 +2916,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.4,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "终季：克拉苏率罗马精锐围剿斯巴达克斯，奴隶军的最后抵抗走向壮烈的终点，六千人十字架上的悲歌成为历史的回响。",
-    "desc_en": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment."
   },
   {
     "id": 26201,
@@ -4386,13 +2926,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.2,
     "douban": 8.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "星际舰队进取号在新舰长派克的带领下踏上探索任务，斯波克与乌胡拉等经典角色重焕青春，以乐观开朗的精神致敬星际迷航的黄金传统。",
-    "desc_en": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy."
   },
   {
     "id": 26202,
@@ -4401,13 +2936,8 @@ window.DATA = [
     "year": 2023,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
     "imdb": 8.2,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "进取号面对更大的宇宙威胁，船员之间的情感羁绊加深，系列以高品质特效和人物深度延续星际迷航宇宙最受好评的新篇章。",
-    "desc_en": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy."
   },
   {
     "id": 12701,
@@ -4416,13 +2946,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "洛杉矶侦探哈利·博世是一名执着到近乎固执的凶案组侦探，在追查一名连环杀手的同时，还要应对一起针对他本人的民事诉讼。",
-    "desc_en": "Harry Bosch, an LAPD homicide detective, stands trial for the fatal shooting of a serial murder suspect. A cold case involving the remains of a missing boy forces Bosch to confront his past. As daring recruit Julia Brasher catches his eye and departmental politics heat up, Bosch will pursue justice at all costs."
   },
   {
     "id": 12702,
@@ -4431,13 +2956,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "博世深入洛杉矶最黑暗的角落追查儿童失踪案，他的执法风格与上司和法律体制的摩擦持续升温。",
-    "desc_en": "Harry Bosch, an LAPD homicide detective, stands trial for the fatal shooting of a serial murder suspect. A cold case involving the remains of a missing boy forces Bosch to confront his past. As daring recruit Julia Brasher catches his eye and departmental politics heat up, Bosch will pursue justice at all costs."
   },
   {
     "id": 12703,
@@ -4446,13 +2966,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 8.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "博世面对一桩与越战老兵相关的谋杀案，在追查真相的过程中触碰到洛杉矶权贵阶层不愿被揭开的历史。",
-    "desc_en": "Harry Bosch, an LAPD homicide detective, stands trial for the fatal shooting of a serial murder suspect. A cold case involving the remains of a missing boy forces Bosch to confront his past. As daring recruit Julia Brasher catches his eye and departmental politics heat up, Bosch will pursue justice at all costs."
   },
   {
     "id": 12704,
@@ -4461,13 +2976,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "一名连环杀手重出江湖，博世以近乎偏执的方式追查，同时面对女儿成长带来的父亲身份的挑战。",
-    "desc_en": "Harry Bosch, an LAPD homicide detective, stands trial for the fatal shooting of a serial murder suspect. A cold case involving the remains of a missing boy forces Bosch to confront his past. As daring recruit Julia Brasher catches his eye and departmental politics heat up, Bosch will pursue justice at all costs."
   },
   {
     "id": 12705,
@@ -4476,13 +2986,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "博世追查一起涉及医疗欺诈与谋杀的复杂案件，在程序正义与结果正义之间再度陷入道德困境。",
-    "desc_en": "Harry Bosch, an LAPD homicide detective, stands trial for the fatal shooting of a serial murder suspect. A cold case involving the remains of a missing boy forces Bosch to confront his past. As daring recruit Julia Brasher catches his eye and departmental politics heat up, Bosch will pursue justice at all costs."
   },
   {
     "id": 12706,
@@ -4491,13 +2996,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "博世临近退休，一起连环枪击案将他重新拉回战场，这也是他在洛杉矶警局的倒数第二个赛季。",
-    "desc_en": "Harry Bosch, an LAPD homicide detective, stands trial for the fatal shooting of a serial murder suspect. A cold case involving the remains of a missing boy forces Bosch to confront his past. As daring recruit Julia Brasher catches his eye and departmental politics heat up, Bosch will pursue justice at all costs."
   },
   {
     "id": 12707,
@@ -4506,13 +3006,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.5,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "系列终章：博世在最后一案中与老对手完成终极对决，以他一贯的执着与正直，为这位洛杉矶最孤独的侦探画下最好的句点。",
-    "desc_en": "Harry Bosch, an LAPD homicide detective, stands trial for the fatal shooting of a serial murder suspect. A cold case involving the remains of a missing boy forces Bosch to confront his past. As daring recruit Julia Brasher catches his eye and departmental politics heat up, Bosch will pursue justice at all costs."
   },
   {
     "id": 11601,
@@ -4521,13 +3016,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.8,
     "douban": 8.9,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "明尼苏达州的小镇发生了一起连锁谋杀事件，一个神秘的外地人引发了一场混乱，改编自科恩兄弟同名电影的犯罪剧，冰天雪地里上演黑色荒诞。",
-    "desc_en": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota."
   },
   {
     "id": 11602,
@@ -4536,13 +3026,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.8,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "时间倒回1979年，一场不同的犯罪故事在堪萨斯城上演，新的人物、新的时代，但科恩兄弟式的荒诞与暴力依然贯穿始终。",
-    "desc_en": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota."
   },
   {
     "id": 12601,
@@ -4551,13 +3036,8 @@ window.DATA = [
     "year": 2006,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "迈阿密法医德克斯特·摩根白天服务警局，夜晚以严苛的规则猎杀逃脱法律制裁的罪犯，一个关于正义、道德与暗黑内心的独特故事。",
-    "desc_en": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice."
   },
   {
     "id": 12602,
@@ -4566,13 +3046,8 @@ window.DATA = [
     "year": 2007,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "德克斯特杀死了连环凶手冰车司机，却在销毁证据的过程中留下了致命的麻烦，新的追踪者开始盯上他。",
-    "desc_en": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice."
   },
   {
     "id": 12603,
@@ -4581,13 +3056,8 @@ window.DATA = [
     "year": 2008,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "德克斯特与区检察官米格尔·普拉多建立了危险的友谊，这段关系最终走向无法收场的结局。",
-    "desc_en": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice."
   },
   {
     "id": 12604,
@@ -4596,13 +3066,8 @@ window.DATA = [
     "year": 2009,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "系列最佳季：三一杀手约翰·利思戈与德克斯特的双雄对决，结局震撼人心，彻底改变了德克斯特的人生轨迹。",
-    "desc_en": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice."
   },
   {
     "id": 12605,
@@ -4611,13 +3076,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.9,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "在上季悲剧的阴影下，德克斯特重新出发，试图在保护女儿哈里森的同时压制内心的黑暗乘客。",
-    "desc_en": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice."
   },
   {
     "id": 12606,
@@ -4626,13 +3086,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.0,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "德克斯特面对一个神秘的连环杀手组织和来自教会的黑暗势力，宗教与邪恶的交织让本季颇具争议。",
-    "desc_en": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice."
   },
   {
     "id": 12607,
@@ -4641,13 +3096,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "德克斯特与汉娜·麦凯的危险关系持续升温，FBI的调查网步步逼近，一切秘密走到了悬崖边缘。",
-    "desc_en": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice."
   },
   {
     "id": 12608,
@@ -4656,13 +3106,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "系列原版终章：德克斯特消失在飓风中，争议性的大结局令无数粉丝耿耿于怀，也为多年后的重启埋下了伏笔。",
-    "desc_en": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice."
   },
   {
     "id": 12301,
@@ -4671,13 +3116,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "爱德华七世时代的唐顿庄园，格兰瑟姆伯爵一家与楼下仆人们的生活因泰坦尼克号的沉没而掀开新篇章，英国阶级社会的黄昏缓缓拉开序幕。",
-    "desc_en": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era—with great events in history having an effect on their lives and on the British social hierarchy.\n\n"
   },
   {
     "id": 12302,
@@ -4686,13 +3126,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "一战爆发，唐顿庄园变成野战医院，年轻人奔赴前线，后方的女人们艰难维持，阶级壁垒在战火中开始松动。",
-    "desc_en": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era—with great events in history having an effect on their lives and on the British social hierarchy.\n\n"
   },
   {
     "id": 12303,
@@ -4701,13 +3136,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "战后重建，马修与玛丽终于完婚，唐顿的财政危机出现转机，但喜悦之后随即迎来难以承受的悲剧。",
-    "desc_en": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era—with great events in history having an effect on their lives and on the British social hierarchy.\n\n"
   },
   {
     "id": 12304,
@@ -4716,13 +3146,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 8.5,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "格兰瑟姆家族在失去马修后试图重新振作，贝茨的法律困境终于解决，新管家的到来带来新的摩擦。",
-    "desc_en": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era—with great events in history having an effect on their lives and on the British social hierarchy.\n\n"
   },
   {
     "id": 12305,
@@ -4731,13 +3156,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 8.9,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "1920年代中期，唐顿逐渐适应现代化的冲击，玛丽开始认真寻找新的人生伴侣，楼下的年轻仆人们也各有抱负。",
-    "desc_en": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era—with great events in history having an effect on their lives and on the British social hierarchy.\n\n"
   },
   {
     "id": 12306,
@@ -4746,13 +3166,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "终季：唐顿迎来1925年的时代变迁，所有角色各自走向人生的新路口，这部英国历史剧以最优雅的方式道别。",
-    "desc_en": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era—with great events in history having an effect on their lives and on the British social hierarchy.\n\n"
   },
   {
     "id": 11801,
@@ -4761,13 +3176,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "David Fincher",
-    "country": "USA",
-    "desc_zh": "野心勃勃的众议员弗兰克·安德伍德在被总统背叛后，开始了一场精心设计的权力复仇之旅，踏上通往白宫的黑暗阶梯。",
-    "desc_en": "Betrayed by the White House, Congressman Frank Underwood embarks on a ruthless rise to power. Blackmail, seduction and ambition are his weapons."
   },
   {
     "id": 11802,
@@ -4776,13 +3186,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "弗兰克成为副总统，与克莱尔的权力夫妻档配合愈发默契，他们对权力的渴望已不再有任何道德边界。",
-    "desc_en": "Betrayed by the White House, Congressman Frank Underwood embarks on a ruthless rise to power. Blackmail, seduction and ambition are his weapons."
   },
   {
     "id": 11803,
@@ -4791,13 +3196,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "弗兰克入主白宫，治国之路远比夺权更加艰难，内忧外患之下，他开始付出越来越沉重的代价。",
-    "desc_en": "Betrayed by the White House, Congressman Frank Underwood embarks on a ruthless rise to power. Blackmail, seduction and ambition are his weapons."
   },
   {
     "id": 11804,
@@ -4806,13 +3206,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "弗兰克面临来自外部的政治挑战与内部的信任危机，克莱尔的独立野心开始与丈夫的计划产生摩擦。",
-    "desc_en": "Betrayed by the White House, Congressman Frank Underwood embarks on a ruthless rise to power. Blackmail, seduction and ambition are his weapons."
   },
   {
     "id": 11805,
@@ -4821,13 +3216,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 7.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "弗兰克竞选连任，克莱尔宣布独立参选，夫妻关系走到了最危险的对立边缘。",
-    "desc_en": "Betrayed by the White House, Congressman Frank Underwood embarks on a ruthless rise to power. Blackmail, seduction and ambition are his weapons."
   },
   {
     "id": 11806,
@@ -4836,13 +3226,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 5.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "终季：克莱尔·安德伍德独挑大梁，在阴谋与孤独中走向权力的终点，系列以争议性方式收尾。",
-    "desc_en": "Betrayed by the White House, Congressman Frank Underwood embarks on a ruthless rise to power. Blackmail, seduction and ambition are his weapons."
   },
   {
     "id": 11501,
@@ -4851,13 +3236,8 @@ window.DATA = [
     "year": 2005,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "天才建筑师迈克尔·斯科菲尔德故意犯案入狱，只为救出冤枉入狱的哥哥，他将越狱计划刺满全身，开始了史上最复杂的逃脱行动。",
-    "desc_en": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out."
   },
   {
     "id": 13301,
@@ -4866,13 +3246,8 @@ window.DATA = [
     "year": 2009,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "前检察官艾丽西娅·弗洛里克因丈夫的政治丑闻被迫重返律师行业，在婚姻的废墟中重建职业自信，在道德与法律的灰色地带游刃有余。",
-    "desc_en": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail."
   },
   {
     "id": 13302,
@@ -4881,13 +3256,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "艾丽西娅在律所站稳脚跟，与凯里·阿格斯的竞争与合作持续，同时要应对丈夫彼得政治复出带来的持续压力。",
-    "desc_en": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail."
   },
   {
     "id": 13303,
@@ -4896,13 +3266,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "律所面临合并压力，艾丽西娅的个人生活与职业生涯同步陷入新的复杂局面，她开始展现出令人刮目相看的野心。",
-    "desc_en": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail."
   },
   {
     "id": 13304,
@@ -4911,13 +3276,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.2,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "艾丽西娅与凯里合作加深，律所高层权力更迭，政界的阴影依然笼罩她每一个决定。",
-    "desc_en": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail."
   },
   {
     "id": 13305,
@@ -4926,13 +3286,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "艾丽西娅与威尔·加德纳的关系走到最痛苦的节点，威尔的意外死亡成为系列最震撼的时刻之一。",
-    "desc_en": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail."
   },
   {
     "id": 13306,
@@ -4941,13 +3296,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "艾丽西娅宣布竞选库克郡检察官，律所合伙人身份带来的道德困境全面爆发，她的政治面目愈发清晰。",
-    "desc_en": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail."
   },
   {
     "id": 13307,
@@ -4956,13 +3306,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "终季：艾丽西娅·弗洛里克的选择与代价，系列以一记响亮的耳光作为结尾，留下了美国律政剧最意味深长的谢幕。",
-    "desc_en": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail."
   },
   {
     "id": 11701,
@@ -4971,13 +3316,8 @@ window.DATA = [
     "year": 2010,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.7,
-    "dir": "Frank Darabont",
-    "country": "USA",
-    "desc_zh": "核战后美国，警长瑞克·格莱姆斯从昏迷中醒来，发现世界已被丧尸吞噬。他找到家人与幸存者群体，在这个文明崩溃的新世界中艰难求存。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11702,
@@ -4986,13 +3326,8 @@ window.DATA = [
     "year": 2011,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "幸存者群体在一座农场暂时安顿，外部威胁持续逼近，内部矛盾也开始激化，人性的善与恶在末日中同步放大。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11703,
@@ -5001,13 +3336,8 @@ window.DATA = [
     "year": 2012,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "幸存者占领监狱，却迎来了更危险的人类威胁——统治伍德伯里的独眼总督，人类之间的战争远比丧尸更加残酷。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11704,
@@ -5016,13 +3346,8 @@ window.DATA = [
     "year": 2013,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.9,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "幸存者们四散流亡后重新聚合，终点站圣地的出现带来新的希望，也埋下新的危险。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11705,
@@ -5031,13 +3356,8 @@ window.DATA = [
     "year": 2014,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.9,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "幸存者抵达亚历山大安全区，试图融入这个有秩序的社区，外部的新威胁保存者集团开始浮现。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11706,
@@ -5046,13 +3366,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "尼根与保存者集团正式登场，对亚历山大安全区展开压迫统治，格莱姆斯的领导力面临前所未有的考验。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11707,
@@ -5061,13 +3376,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.1,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "尼根统治下的各个社区开始秘密串联，反抗的火种悄悄点燃，一场针对保存者的全面战争蓄势待发。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11708,
@@ -5076,13 +3386,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 6.8,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "全面战争爆发，各社区联合对抗保存者集团，格莱姆斯与尼根的对决走向意外的转折，留下了充满争议的结局。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11709,
@@ -5091,13 +3396,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 7.7,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "格莱姆斯离开后，时间跳跃六年，幸存者社会重建，新的威胁耳语者集团带着丧尸皮面具出现，挑战所有既有秩序。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11710,
@@ -5106,13 +3406,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 7.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "耳语者战争全面爆发，阿尔法的统治手段极端残忍，各社区在恐惧中寻找反击的时机，系列进入最黑暗的篇章。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 11711,
@@ -5121,13 +3416,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 8.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "系列终章：幸存者们面对终极威胁联邦组织，在末日世界寻找真正的家园，以十一季的长度画下这部里程碑级别美剧的句点。",
-    "desc_en": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way."
   },
   {
     "id": 13201,
@@ -5136,13 +3426,8 @@ window.DATA = [
     "year": 2016,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "三个不同时代的故事交织：当代匹兹堡家庭皮尔森一家、他们1980年代的父母杰克与丽贝卡、以及三兄妹各自的成年人生，编织出关于家庭、爱与时间的温情史诗。",
-    "desc_en": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect."
   },
   {
     "id": 13202,
@@ -5151,13 +3436,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "三个时间线继续交织，杰克的过去被逐渐揭开，凯文的好莱坞生涯跌宕，凯特与托比的感情经历考验，兰德尔在政治领域崭露头角。",
-    "desc_en": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect."
   },
   {
     "id": 13203,
@@ -5166,13 +3446,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "杰克的死亡真相终于揭晓，超级碗特辑成为系列最催泪的高光时刻，三兄妹各自面对失去父亲后的漫长疗愈。",
-    "desc_en": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect."
   },
   {
     "id": 13204,
@@ -5181,13 +3456,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.5,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "时间线进一步扩展至未来，老年丽贝卡的病情成为新的情感主轴，四个时代的皮尔森家族故事在此汇聚。",
-    "desc_en": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect."
   },
   {
     "id": 13205,
@@ -5196,13 +3466,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.3,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "新冠疫情被融入叙事，皮尔森家族在特殊时期以各自的方式相互支撑，本季以更现实的触感回应了当下的集体创伤。",
-    "desc_en": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect."
   },
   {
     "id": 13206,
@@ -5211,13 +3476,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.7,
     "douban": 9.6,
-    "dir": "Various",
-    "country": "USA",
-    "desc_zh": "终季：皮尔森家族的故事走向各自的终点，丽贝卡的最后告别催人泪下，系列以最温柔的方式向所有爱过这个家庭的观众道别。",
-    "desc_en": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect."
   },
   {
     "id": 12501,
@@ -5226,13 +3486,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Taylor Sheridan",
-    "country": "USA",
-    "desc_zh": "蒙大拿州，约翰·达顿家族守护着美国最大的私人牧场黄石，面对房地产商、印第安原住民保留地与政客的多方争夺，以暴力和手腕捍卫祖先遗产。",
-    "desc_en": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park."
   },
   {
     "id": 12502,
@@ -5241,13 +3496,8 @@ window.DATA = [
     "year": 2019,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Taylor Sheridan",
-    "country": "USA",
-    "desc_zh": "达顿家族的内外威胁持续升级，约翰试图稳固政治盟友，各方势力的冲突愈发直接而血腥。",
-    "desc_en": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park."
   },
   {
     "id": 12503,
@@ -5256,13 +3506,8 @@ window.DATA = [
     "year": 2020,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.2,
-    "dir": "Taylor Sheridan",
-    "country": "USA",
-    "desc_zh": "达顿家族面临前所未有的内部危机，贝丝与杰米的兄妹矛盾走向公开决裂，外部政治压力也在同步加剧。",
-    "desc_en": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park."
   },
   {
     "id": 12504,
@@ -5271,13 +3516,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.8,
-    "dir": "Taylor Sheridan",
-    "country": "USA",
-    "desc_zh": "约翰·达顿宣布竞选州长，家族与各方势力的对抗进入新阶段，黄石牧场的命运悬而未决。",
-    "desc_en": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park."
   },
   {
     "id": 12505,
@@ -5286,13 +3526,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 8.5,
-    "dir": "Taylor Sheridan",
-    "country": "USA",
-    "desc_zh": "约翰·达顿的政治生涯迎来危机，家族内部的背叛与外部的围攻同时而来，系列在高烈度的冲突中继续前行。",
-    "desc_en": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park."
   },
   {
     "id": 12506,
@@ -5301,13 +3536,8 @@ window.DATA = [
     "year": 2021,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.6,
     "douban": 9.0,
-    "dir": "Taylor Sheridan",
-    "country": "USA",
-    "desc_zh": "1883年，达顿家族的先祖詹姆斯与玛格丽特·达顿带领移民车队从得克萨斯州跋涉至蒙大拿，记录了黄石王朝起源的壮阔史诗。",
-    "desc_en": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana."
   },
   {
     "id": 12507,
@@ -5316,13 +3546,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Feature",
-    "lang": "en",
     "imdb": 8.3,
     "douban": 9.2,
-    "dir": "Taylor Sheridan",
-    "country": "USA",
-    "desc_zh": "1923年，达顿家族在大萧条前夕守护黄石牧场，雅各布与卡拉·达顿带领家族对抗羊牧场主与联邦政府的双重威胁。",
-    "desc_en": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home."
   },
   {
     "id": 221,
@@ -5331,13 +3556,8 @@ window.DATA = [
     "year": 2008,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.9,
     "douban": 8.4,
-    "dir": "Jon Favreau",
-    "country": "USA",
-    "desc_zh": "亿万富翁托尼·斯塔克在阿富汗被武装分子俘虏，凭借天才智慧打造出钢铁战衣逃脱，回国后决心成为守护世界的英雄，漫威电影宇宙就此启幕。",
-    "desc_en": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
   },
   {
     "id": 222,
@@ -5346,13 +3566,8 @@ window.DATA = [
     "year": 2010,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 6.9,
     "douban": 7.7,
-    "dir": "Jon Favreau",
-    "country": "USA",
-    "desc_zh": "托尼·斯塔克面对反应堆中毒与政府夺取战甲的双重压力，同时要应对新对手鞭子人和竞争对手贾斯汀·汉默的联手威胁。",
-    "desc_en": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies."
   },
   {
     "id": 223,
@@ -5361,13 +3576,8 @@ window.DATA = [
     "year": 2013,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.1,
     "douban": 7.9,
-    "dir": "Shane Black",
-    "country": "USA",
-    "desc_zh": "恐怖分子满大人的袭击令托尼斯塔克失去一切，被迫在没有战甲的情况下独自面对危机，探索钢铁侠身份认同的深度之作。",
-    "desc_en": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
   },
   {
     "id": 224,
@@ -5376,13 +3586,8 @@ window.DATA = [
     "year": 2011,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.0,
     "douban": 7.2,
-    "dir": "Kenneth Branagh",
-    "country": "USA",
-    "desc_zh": "雷神托尔因傲慢被父王奥丁放逐至地球，失去神力的他在新墨西哥州与科学家简·福斯特相遇，弟弟洛基的阴谋在阿斯嘉德悄然展开。",
-    "desc_en": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth."
   },
   {
     "id": 225,
@@ -5391,13 +3596,8 @@ window.DATA = [
     "year": 2013,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 6.7,
     "douban": 7.4,
-    "dir": "Alan Taylor",
-    "country": "USA",
-    "desc_zh": "黑暗精灵马雷基斯企图利用以太神器毁灭宇宙，托尔被迫与囚禁中的洛基联手，在九界的史诗战场上阻止黑暗的降临。",
-    "desc_en": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all."
   },
   {
     "id": 226,
@@ -5406,13 +3606,8 @@ window.DATA = [
     "year": 2017,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.9,
     "douban": 7.4,
-    "dir": "Taika Waititi",
-    "country": "USA",
-    "desc_zh": "托尔与洛基踏上寻找父亲奥丁之旅，随后被传送至萨卡星，托尔在角斗场对抗绿巨人，最终率领一群流亡者对抗末日女神海拉。",
-    "desc_en": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela."
   },
   {
     "id": 227,
@@ -5421,13 +3616,8 @@ window.DATA = [
     "year": 2012,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 8.0,
     "douban": 8.3,
-    "dir": "Joss Whedon",
-    "country": "USA",
-    "desc_zh": "复仇者联盟首度集结：钢铁侠、美国队长、雷神、绿巨人、黑寡妇与鹰眼联手阻止洛基与奇塔瑞军队入侵地球，超级英雄大集合的划时代之作。",
-    "desc_en": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!"
   },
   {
     "id": 228,
@@ -5436,13 +3626,8 @@ window.DATA = [
     "year": 2015,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.3,
     "douban": 7.5,
-    "dir": "Joss Whedon",
-    "country": "USA",
-    "desc_zh": "奥创计划失控，人工智能反叛人类，复仇者联盟面临有史以来最强大的敌人，同时内部裂痕开始浮现，为内战埋下伏笔。",
-    "desc_en": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure."
   },
   {
     "id": 229,
@@ -5451,13 +3636,8 @@ window.DATA = [
     "year": 2018,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 8.4,
     "douban": 8.1,
-    "dir": "Russo Brothers",
-    "country": "USA",
-    "desc_zh": "灭霸正式登场，集齐无限宝石的野心横扫宇宙。复仇者联盟与银河护卫队联手，却在巨大牺牲面前无力回天，以史上最震撼的结局告终。",
-    "desc_en": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain."
   },
   {
     "id": 230,
@@ -5466,13 +3646,8 @@ window.DATA = [
     "year": 2019,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 8.4,
     "douban": 8.5,
-    "dir": "Russo Brothers",
-    "country": "USA",
-    "desc_zh": "灭霸消灭一半生命五年后，幸存的超级英雄踏上时间穿越之旅，试图逆转响指的影响，以终极牺牲换来宇宙的重生。",
-    "desc_en": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store."
   },
   {
     "id": 231,
@@ -5481,13 +3656,8 @@ window.DATA = [
     "year": 2011,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 6.9,
     "douban": 7.2,
-    "dir": "Joe Johnston",
-    "country": "USA",
-    "desc_zh": "二战时期，史蒂夫·罗杰斯从孱弱少年蜕变为超级士兵，以美国队长的身份对抗红骷髅领导的九头蛇组织，MCU的时代背景由此确立。",
-    "desc_en": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination."
   },
   {
     "id": 232,
@@ -5496,13 +3666,8 @@ window.DATA = [
     "year": 2014,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.7,
     "douban": 8.1,
-    "dir": "Russo Brothers",
-    "country": "USA",
-    "desc_zh": "史蒂夫·罗杰斯在现代苏醒后加入神盾局，发现组织已被九头蛇渗透，昔日战友巴基·巴恩斯化身冬日战士成为最难面对的对手。",
-    "desc_en": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier."
   },
   {
     "id": 233,
@@ -5511,13 +3676,8 @@ window.DATA = [
     "year": 2016,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.8,
     "douban": 7.9,
-    "dir": "Russo Brothers",
-    "country": "USA",
-    "desc_zh": "超级英雄协议引发阵营分裂：钢铁侠与美国队长走向对立，巴基的命运成为导火索，复仇者联盟在内战中元气大伤。",
-    "desc_en": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies."
   },
   {
     "id": 234,
@@ -5526,13 +3686,8 @@ window.DATA = [
     "year": 2014,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 8.0,
     "douban": 8.1,
-    "dir": "James Gunn",
-    "country": "USA",
-    "desc_zh": "星际监狱逃脱的彼得·奎尔与一群各怀心思的星际罪犯组成临时团队，在追逐神器的过程中意外成为拯救星球的英雄，MCU最具喜剧感的作品之一。",
-    "desc_en": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser."
   },
   {
     "id": 235,
@@ -5541,13 +3696,8 @@ window.DATA = [
     "year": 2017,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.6,
     "douban": 8.0,
-    "dir": "James Gunn",
-    "country": "USA",
-    "desc_zh": "星际异攻队延续冒险，彼得寻找生父带来的情感冲击与喜剧笑点并行，格鲁特的成长让无数观众落泪。",
-    "desc_en": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage."
   },
   {
     "id": 236,
@@ -5556,13 +3706,8 @@ window.DATA = [
     "year": 2023,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.9,
     "douban": 8.4,
-    "dir": "James Gunn",
-    "country": "USA",
-    "desc_zh": "守护者们面对高能量的新对手，同时处理各自未解的情感创伤，科恩、奎尔、格鲁特与火箭的羁绊在本季走向最深情的告别。",
-    "desc_en": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them."
   },
   {
     "id": 237,
@@ -5571,13 +3716,8 @@ window.DATA = [
     "year": 2015,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.2,
     "douban": 7.7,
-    "dir": "Peyton Reed",
-    "country": "USA",
-    "desc_zh": "前神盾局特工斯科特·朗意外获得可以缩小体型的蚁人战衣，在天才科学家汉克·皮姆的训练下执行一项拯救世界的任务，MCU最轻巧活泼的作品之一。",
-    "desc_en": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world."
   },
   {
     "id": 238,
@@ -5586,13 +3726,8 @@ window.DATA = [
     "year": 2018,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.0,
     "douban": 7.2,
-    "dir": "Peyton Reed",
-    "country": "USA",
-    "desc_zh": "斯科特·朗与霍普·凡·戴因配合，寻找失踪多年的前任黄蜂女珍妮特，同时应对一个身体不断相位偏移的新对手幽灵。",
-    "desc_en": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission."
   },
   {
     "id": 239,
@@ -5601,13 +3736,8 @@ window.DATA = [
     "year": 2016,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.5,
     "douban": 7.6,
-    "dir": "Scott Derrickson",
-    "country": "USA",
-    "desc_zh": "神经外科医生史蒂芬·斯特兰奇因车祸手残，走遍全球寻医问道，最终遇见古一法师，开启了通往神秘宇宙的大门，成为至尊法师。",
-    "desc_en": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil."
   },
   {
     "id": 240,
@@ -5616,13 +3746,8 @@ window.DATA = [
     "year": 2018,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.3,
     "douban": 6.5,
-    "dir": "Ryan Coogler",
-    "country": "USA",
-    "desc_zh": "瓦坎达王子提查拉在父王驾崩后继承王位，面对野心勃勃的挑战者克劳格曼德，守护拥有最强金属振金的非洲王国，以及一整个民族的命运。",
-    "desc_en": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war."
   },
   {
     "id": 241,
@@ -5631,13 +3756,8 @@ window.DATA = [
     "year": 2017,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.4,
     "douban": 7.3,
-    "dir": "Jon Watts",
-    "country": "USA",
-    "desc_zh": "彼得·帕克在托尼·斯塔克的监护下以蜘蛛侠身份学习成为英雄，同时应对高中生活，以及贩卖外星科技的秃鹫。",
-    "desc_en": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges."
   },
   {
     "id": 242,
@@ -5646,13 +3766,8 @@ window.DATA = [
     "year": 2019,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 7.3,
     "douban": 7.6,
-    "dir": "Jon Watts",
-    "country": "USA",
-    "desc_zh": "彼得·帕克在欧洲学校假期中被神秘英雄神秘客拉入一场涉及多元宇宙怪兽的阴谋，才发现真正的威胁来自更意想不到的方向。",
-    "desc_en": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent."
   },
   {
     "id": 243,
@@ -5661,13 +3776,8 @@ window.DATA = [
     "year": 2021,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 8.1,
     "douban": 6.6,
-    "dir": "Jon Watts",
-    "country": "USA",
-    "desc_zh": "彼得的身份被曝光，他请求奇异博士抹去全世界对蜘蛛侠身份的记忆，却意外打开多元宇宙之门，迎来了来自不同宇宙的蜘蛛侠与反派。",
-    "desc_en": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man."
   },
   {
     "id": 244,
@@ -5676,13 +3786,8 @@ window.DATA = [
     "year": 2019,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 6.7,
     "douban": 6.8,
-    "dir": "Anna Boden",
-    "country": "USA",
-    "desc_zh": "1990年代，前空军飞行员卡罗尔·丹佛斯在失忆后来到地球，逐渐找回记忆，发现自己拥有宇宙级别的超能力，成为MCU最强超级英雄之一。",
-    "desc_en": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe."
   },
   {
     "id": 245,
@@ -5691,13 +3796,8 @@ window.DATA = [
     "year": 2008,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "zh",
     "imdb": 6.6,
     "douban": 7.1,
-    "dir": "Louis Leterrier",
-    "country": "USA",
-    "desc_zh": "布鲁斯·班纳在意外中被伽马射线照射，变身成为力量无边却难以控制的绿巨人。他一边逃避将军罗斯的追捕，一边寻找解除诅咒的方法。",
-    "desc_en": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe."
   },
   {
     "id": 401,
@@ -5706,13 +3806,8 @@ window.DATA = [
     "year": 2018,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 8.1,
     "douban": 9.1,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "亚马逊纪录片系列，深入曼彻斯特城更衣室拍摄，记录了瓜迪奥拉执教下球队夺得英超冠军的完整赛季，是球迷必看的幕后纪实。",
-    "desc_en": "Legendary coach Pep Guardiola leads his Manchester City team through the 2017-18 football season."
   },
   {
     "id": 402,
@@ -5721,13 +3816,8 @@ window.DATA = [
     "year": 2022,
     "type": "series",
     "genre": "Documentary",
-    "lang": "en",
     "imdb": 8.2,
     "douban": 9.4,
-    "dir": "Various",
-    "country": "UK",
-    "desc_zh": "亚马逊深入阿森纳更衣室，记录阿尔特塔重建球队的关键赛季，捕捉胜利、失利与球员之间真实的情感，是近年最受好评的体育纪录片之一。",
-    "desc_en": "Follow the iconic football club during an unforgettable season. As fans return to stadiums, the 2021-22 football season puts pressure on Arsenal's manager Mikel Arteta and his young team to get back to their former glories and back into Europe. Offering unprecedented access and capturing the highs and lows of life on and off the pitch, this is football at its finest: raw, dramatic and full of passion."
   },
   {
     "id": 26301,
@@ -5736,13 +3826,8 @@ window.DATA = [
     "year": 1999,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "George Lucas",
     "imdb": 6.5,
     "douban": 8.3,
-    "desc_en": "Jedi Master Qui-Gon Jinn and his apprentice Obi-Wan Kenobi discover a young slave named Anakin Skywalker on the desert planet Tatooine, believing him to be the Chosen One prophesied to bring balance to the Force. As the Trade Federation blockades Naboo, the Sith Lord Darth Sidious moves in the shadows.",
-    "desc_zh": "绝地武士奎刚·金与徒弟欧比旺·肯诺比在沙漠星球塔图因发现少年奴隶阿纳金·天行者，相信他正是预言中使原力归于平衡的选中之人。与此同时，西斯领主达斯·西迪厄斯在幕后悄然布局，贸易联邦封锁纳布星球。"
   },
   {
     "id": 26302,
@@ -5751,13 +3836,8 @@ window.DATA = [
     "year": 2002,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "George Lucas",
     "imdb": 6.6,
     "douban": 8.1,
-    "desc_en": "Ten years after the invasion of Naboo, the galaxy is on the brink of civil war. Senator Padmé Amidala is targeted by assassins, and Anakin Skywalker — now a Jedi apprentice — is assigned to protect her. Their forbidden romance blossoms as Obi-Wan uncovers a secret clone army and the origins of the Separatist threat.",
-    "desc_zh": "纳布被侵略十年后，银河共和国濒临内战。参议员帕德梅遭到刺客追杀，青年绝地阿纳金奉命保护她，两人之间禁忌的爱情悄然萌生。与此同时，欧比旺调查出一支秘密克隆军队的存在，分离主义势力的阴谋逐渐浮出水面。"
   },
   {
     "id": 26303,
@@ -5766,13 +3846,8 @@ window.DATA = [
     "year": 2005,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "George Lucas",
     "imdb": 7.7,
     "douban": 8.5,
-    "desc_en": "As the Clone Wars near their end, Anakin Skywalker is seduced by the dark side of the Force and becomes Darth Vader. Order 66 is executed, nearly wiping out the Jedi Order, and the Galactic Republic transforms into the tyrannical Galactic Empire under Emperor Palpatine.",
-    "desc_zh": "克隆人战争接近尾声，阿纳金·天行者被原力的黑暗面所诱惑，堕落为达斯·维达。六十六号命令随即下达，绝地武士几近团灭，银河共和国在帕尔帕廷皇帝的手中蜕变为残暴的银河帝国。"
   },
   {
     "id": 26304,
@@ -5781,13 +3856,8 @@ window.DATA = [
     "year": 1977,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "George Lucas",
     "imdb": 8.6,
     "douban": 8.5,
-    "desc_en": "Farm boy Luke Skywalker joins rebel forces to save Princess Leia from the clutches of Darth Vader and the Empire's planet-destroying Death Star. With the help of smuggler Han Solo and wise old Jedi Obi-Wan Kenobi, he takes his first steps toward his destiny.",
-    "desc_zh": "农家少年卢克·天行者加入反抗军，踏上营救莱娅公主、摧毁帝国死星的征途。在走私客韩·索罗与年迈绝地武士欧比旺·肯诺比的陪伴下，他迈出了走向命运的第一步，这个传奇由此开启。"
   },
   {
     "id": 26305,
@@ -5796,13 +3866,8 @@ window.DATA = [
     "year": 1980,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "Irvin Kershner",
     "imdb": 8.7,
     "douban": 8.4,
-    "desc_en": "After the destruction of the Death Star, the Empire strikes back with a vengeance. Luke Skywalker trains with Jedi Master Yoda on the swamp planet Dagobah, while Han Solo and Princess Leia are pursued across the galaxy. A shocking revelation changes everything Luke believed about his past.",
-    "desc_zh": "死星被摧毁后，帝国展开猛烈反扑。卢克在沼泽星球达戈巴跟随绝地大师尤达修炼，韩·索罗与莱娅则在星际间亡命奔逃。最终，一个颠覆一切的惊天秘密，彻底改变了卢克对自身过去的认知。"
   },
   {
     "id": 26306,
@@ -5811,13 +3876,8 @@ window.DATA = [
     "year": 1983,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "Richard Marquand",
     "imdb": 8.3,
     "douban": 8.4,
-    "desc_en": "The Rebel Alliance launches a final assault on the second Death Star as Luke Skywalker confronts Darth Vader and the Emperor. In the climactic battle between light and dark, Luke refuses to give in to hatred — and his faith in his father's humanity ignites a last act of redemption.",
-    "desc_zh": "反抗军对第二座死星发动最后总攻，卢克独自面对达斯·维达与皇帝。在善与恶的终极对决中，卢克拒绝向仇恨屈服——而他对父亲人性的信念，最终点燃了一场迟来却震撼人心的救赎。"
   },
   {
     "id": 26307,
@@ -5826,13 +3886,8 @@ window.DATA = [
     "year": 2015,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "J.J. Abrams",
     "imdb": 7.7,
     "douban": 7.2,
-    "desc_en": "Thirty years after the fall of the Empire, a new threat rises in the form of the First Order. Rey, a scavenger on the desert planet Jakku, and Finn, a disillusioned Stormtrooper, team up with Han Solo to find the missing Luke Skywalker — the last hope of the Resistance.",
-    "desc_zh": "帝国覆灭三十年后，第一秩序作为新的威胁崛起。沙漠星球雅库的拾荒少女蕾伊与幻灭的冲锋队员芬恩，联手韩·索罗踏上寻找失踪绝地大师卢克·天行者的旅程——他是抵抗军最后的希望。"
   },
   {
     "id": 26308,
@@ -5841,13 +3896,8 @@ window.DATA = [
     "year": 2017,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "Rian Johnson",
     "imdb": 6.8,
     "douban": 7.1,
-    "desc_en": "Rey seeks to learn the ways of the Force from a reluctant Luke Skywalker, while the Resistance flees the relentless First Order. Kylo Ren and Rey form an unexpected Force connection, and the film challenges everything we thought we knew about heroes, failure, and the nature of the Force itself.",
-    "desc_zh": "蕾伊赴孤岛寻访不情愿出山的卢克·天行者，抵抗军则在第一秩序的穷追猛打下仓皇撤退。凯洛·伦与蕾伊通过原力建立起神秘的心灵联结，本片以颠覆性的笔触重新审视英雄主义、失败与原力的本质。"
   },
   {
     "id": 26309,
@@ -5856,13 +3906,8 @@ window.DATA = [
     "year": 2019,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "J.J. Abrams",
     "imdb": 6.3,
     "douban": 6.2,
-    "desc_en": "The surviving members of the Resistance face the First Order once more in the final chapter of the Skywalker Saga. Emperor Palpatine returns from the dead, and Rey must confront her true lineage while the galaxy rallies for one last stand against the Sith.",
-    "desc_zh": "天行者传奇的终章。抵抗军残存成员再度面对第一秩序，而传出死讯的皇帝帕尔帕廷竟死而复生。蕾伊必须直面自己的真实血脉，银河系各方力量集结，迎来对抗西斯的最后决战。"
   },
   {
     "id": 26310,
@@ -5871,13 +3916,8 @@ window.DATA = [
     "year": 2016,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "Gareth Edwards",
     "imdb": 7.8,
     "douban": 7.3,
-    "desc_en": "Set just before the events of A New Hope, a group of rebels on a desperate mission steal the plans to the Empire's ultimate weapon, the Death Star. Led by the fierce Jyn Erso, they sacrifice everything so that a galaxy may have hope.",
-    "desc_zh": "故事发生于《新希望》前夕，一群反抗军战士执行殊死任务，窃取帝国终极武器死星的设计图纸。在坚毅的金·厄索带领下，他们以生命为代价，为整个银河系换来一线希望。"
   },
   {
     "id": 26311,
@@ -5886,13 +3926,8 @@ window.DATA = [
     "year": 2018,
     "type": "film",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "Ron Howard",
     "imdb": 6.9,
     "douban": 6.7,
-    "desc_en": "A young Han Solo navigates the criminal underworld, makes his first Kessel Run in the Millennium Falcon, and forges his legendary partnership with Chewbacca. A swashbuckling origin story of the galaxy's most loveable scoundrel.",
-    "desc_zh": "年轻的韩·索罗在星际犯罪地下世界中闯荡，完成了首次凯塞尔飞行，并与楚巴卡缔结了那段传奇搭档情谊。这是银河系最惹人喜爱的流氓的冒险起源故事。"
   },
   {
     "id": 27001,
@@ -5901,13 +3936,8 @@ window.DATA = [
     "year": 2015,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "Wachowski Sisters",
     "imdb": 8.2,
     "douban": 8.9,
-    "desc_en": "Eight strangers from different corners of the world suddenly find themselves mentally and emotionally linked, sharing their lives and skills while running from a mysterious organization bent on hunting them down.",
-    "desc_zh": "来自世界不同城市的八名陌生人突然在情感和精神上产生通感联结，在共享彼此技能与人生的同时，还要携手躲避一个神秘组织的致命追杀"
   },
   {
     "id": 27002,
@@ -5916,13 +3946,8 @@ window.DATA = [
     "year": 2017,
     "type": "series",
     "genre": "Science Fiction",
-    "lang": "en",
-    "country": "US",
-    "dir": "Wachowski Sisters",
     "imdb": 8.2,
     "douban": 9.2,
-    "desc_en": "Delving deeper into the dark secrets of the BPO, the eight sensates transition from running to fighting back, uniting their forces to defeat Whispers and secure their freedom once and for all.",
-    "desc_zh": " 随着对神秘组织“BPO”的调查步步深入，八人通感团队不再只是一味逃亡，而是选择主动出击、团结一心，为了守护彼此和夺回生存自由与低语者展开殊死较量。"
   }
 ];
 
@@ -6001,9 +4026,56 @@ const IMDB_DICT = {
   27001:"tt2431438", 27002:"tt2431438" // 超感猎杀
 };
 
+// 豆瓣作品 ID；按作品（剧集按季度）映射到详情页。
+const DOUBAN_DICT = {
+  1:"1292052", 2:"1291841", 3:"1299131", 4:"1294240", 5:"1291832", 6:"1295124", 7:"1293182", 8:"1292000", 9:"1292720", 10:"3541415",
+  11:"1293544", 12:"1292214", 13:"1292223", 14:"1304447", 15:"1306029", 16:"1292849", 17:"1294639", 18:"1293530", 19:"1292063", 20:"1292001",
+  21:"1291548", 22:"6786002", 23:"1295644", 24:"1291828", 25:"26387939", 26:"3793023", 27:"1292262", 28:"1296141", 29:"1296736", 30:"35593344",
+  31:"1295686", 32:"1292348", 33:"1301753", 34:"1293764", 35:"1291853", 201:"1889243", 202:"1291843", 203:"1304141", 204:"1302467", 205:"3001114",
+  206:"35575567", 207:"1780330", 208:"25864085", 209:"1309069", 210:"1851857", 211:"3395373", 212:"1652587", 213:"1292226", 301:"1295038", 302:"1296996",
+  303:"1291544", 304:"1309055", 305:"1457217", 306:"1433330", 307:"2051007", 308:"3011235", 309:"1291571", 310:"1291572", 311:"1291552", 312:"1966182",
+  313:"11606328", 314:"2973079", 501:"1291561", 105:"27098632", 106:"1307847", 111:"30291334", 128:"35101436", 129:"26302614", 134:"30482958", 136:"1998799",
+  138:"1307067", 256:"1462550", 316:"37226175", 403:"6397677", 404:"30374707", 405:"26979545", 408:"30362315", 10101:"2373195", 10102:"3586996", 10103:"4256328",
+  10104:"4927382", 10105:"6952149", 10201:"1418199", 10202:"2154348", 10203:"2154343", 10204:"2154349", 10205:"2393060", 10301:"1760516", 10302:"3901687", 10303:"2154323",
+  10304:"2154326", 10305:"2154325", 10306:"2154324", 10701:"10748120", 10801:"25726259", 10802:"25976733", 10803:"26748847", 10804:"27077785", 10805:"30285826", 10806:"34951007",
+  10901:"25850640", 10902:"26604456", 10903:"26869684", 11001:"1474087", 11002:"6058995", 11003:"6082799", 11004:"2270210", 11005:"6560039", 11006:"7162166", 11007:"7162167",
+  11008:"7162168", 11009:"10537097", 11010:"20497314", 11011:"22942964", 12401:"34843220", 12402:"35190584", 12403:"35237371", 11201:"1393859", 11202:"3286528", 11203:"3286531",
+  11204:"3286536", 11205:"3286538", 11206:"3286543", 11207:"3286547", 11208:"3286548", 11209:"3286549", 11210:"3286552", 11401:"1442129", 11402:"3002885", 11403:"3068368",
+  11404:"2277051", 11405:"3174074", 11406:"4006452", 11407:"5257294", 11408:"6781992", 25101:"25717175", 25102:"26887174", 25103:"30206389", 25104:"35042913", 25201:"25926851",
+  25202:"26675245", 25203:"27025029", 25204:"30234319", 25205:"34725334", 25206:"35265497", 25401:"5980670", 25402:"10549251", 25403:"22220086", 25404:"25837185", 25405:"26387813",
+  25501:"23748525", 25502:"26268494", 25503:"27072327", 25504:"33440021", 31501:"3016187", 31502:"6558062", 31503:"10590706", 31504:"23232876", 31505:"25826612", 31506:"25862357",
+  31507:"26235354", 31508:"26584183", 31701:"26992330", 31702:"27611018", 31703:"34442364", 31801:"26359270", 31802:"26844438", 31803:"27119156", 31804:"27194292", 31805:"35774681",
+  25301:"34867871", 25302:"35669844", 25701:"27663962", 25702:"34858104", 25703:"35282083", 25704:"36012300", 26001:"30331432", 26002:"35244032", 90501:"25769160", 90502:"26373110",
+  90503:"37352211", 90601:"19938222", 90602:"25851827", 90603:"26384798", 90604:"26740391", 90605:"27042712", 90606:"30222722", 90607:"30380446", 50101:"22507437", 50102:"24849982",
+  50103:"25873036", 50104:"26723175", 50105:"26965753", 50106:"30177326", 50107:"30480179", 50108:"34945580", 50109:"35912023", 50201:"3986493", 50202:"6522269", 50203:"10455629",
+  50204:"25750923", 25801:"25744676", 25802:"26336943", 25803:"26881043", 25804:"26995144", 90201:"30344167", 90202:"34892527", 90203:"35048728", 90301:"35141102", 90302:"35554506",
+  90303:"36353332", 90401:"1901329", 90402:"4316826", 90403:"5342708", 90404:"6839760", 90405:"17658236", 90406:"25829220", 90407:"30280509", 90701:"37324518", 12101:"3754940",
+  11301:"2156528", 11302:"3190880", 11303:"3990470", 11304:"4804079", 11305:"6557005", 11306:"10561953", 11307:"21339708", 11308:"25845393", 11309:"25845400", 11310:"25845401",
+  11311:"27000999", 11312:"27001001", 11901:"3401355", 11902:"5403958", 11903:"10597950", 11904:"20429050", 11905:"25735931", 12001:"1421781", 12002:"2150463", 12201:"25924036",
+  12202:"26738265", 12203:"30174648", 12204:"33445052", 12205:"35161322", 13001:"4937405", 13002:"4933194", 13003:"4933235", 13101:"1441948", 13102:"5359940", 13501:"34446269",
+  13502:"35274831", 13503:"35663199", 13504:"35729990", 13505:"36731231", 13701:"36831851", 13702:"37239408", 25901:"30376895", 25902:"35914829", 26101:"33427409", 26102:"36931155",
+  40601:"1871906", 40602:"26733371", 40603:"33387357", 40701:"34839005", 40702:"35517450", 40703:"36181862", 40704:"36666524", 40705:"37303191", 50311:"2030879", 50312:"24522597",
+  50313:"24522854", 50314:"24522855", 50315:"24522856", 50316:"24522857", 50317:"24529333", 50318:"24529335", 50319:"24529336", 50320:"24529338", 50321:"24530046", 50322:"24530047",
+  50323:"24530511", 50411:"5342776", 50412:"6866792", 50413:"6866791", 50414:"6989768", 50415:"6738804", 50416:"19963894", 12609:"35225519", 12610:"36243809", 12102:"5370010",
+  12103:"6017331", 12104:"10781865", 26201:"35069688", 26202:"35744712", 12701:"27594217", 12702:"26356537", 12703:"26951954", 12704:"26907099", 12705:"30149861", 12706:"34439111",
+  12707:"34967836", 11601:"24297912", 11602:"25919897", 12601:"1898121", 12602:"2299474", 12603:"3184479", 12604:"3987806", 12605:"4842410", 12606:"5409513", 12607:"7916280",
+  12608:"20452294", 12301:"4769314", 12302:"5990367", 12303:"6985315", 12304:"20398945", 12305:"25768128", 12306:"26254370", 11801:"1755205", 11802:"22523356", 11803:"25823412",
+  11804:"26336281", 11805:"26718795", 11806:"27185590", 11501:"1419297", 13301:"3754368", 13302:"5028366", 13303:"6126439", 13304:"10549253", 13305:"23055586", 13306:"25846032",
+  13307:"26387804", 11701:"6864077", 11702:"20279611", 11703:"25749818", 11704:"30396676", 11705:"25757189", 11706:"34687004", 11707:"35280548", 11708:"36096391", 11709:"4067152",
+  11710:"30337857", 11711:"34849936", 13201:"26794215", 13202:"26958597", 13203:"26958599", 13204:"33444115", 13205:"33444118", 13206:"33444128", 12501:"27036727", 12502:"30283405",
+  12503:"34814172", 12504:"35205659", 12505:"35758380", 12506:"35358449", 12507:"35794664", 221:"1432146", 222:"3066739", 223:"3231742", 224:"1866471", 225:"6560058",
+  226:"25821634", 227:"1866479", 228:"10741834", 229:"24773958", 230:"26100958", 231:"26879120", 232:"6390823", 233:"25820460", 234:"7065154", 235:"25937854",
+  236:"26258779", 237:"1866473", 238:"26636712", 239:"3025375", 240:"6390825", 241:"24753477", 242:"26931786", 243:"26933210", 244:"26213252", 245:"1866475",
+  401:"30281493", 402:"35524106", 26301:"1294362", 26302:"1297785", 26303:"1309078", 26304:"1293838", 26305:"1296528", 26306:"1297151", 26307:"20326665", 26308:"22265634",
+  26309:"22265687", 26310:"25894431", 26311:"25900947", 27001:"23011215", 27002:"26588239"
+};
+
 window.DATA = window.DATA.map(function(item) {
   if (IMDB_DICT[item.id]) {
     item.imdb_id = IMDB_DICT[item.id];
+  }
+  if (DOUBAN_DICT[item.id]) {
+    item.douban_id = DOUBAN_DICT[item.id];
   }
   return item;
 });
