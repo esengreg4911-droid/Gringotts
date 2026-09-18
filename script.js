@@ -254,8 +254,9 @@ function showDialog(dialog,trigger){
   document.body.style.setProperty('--dialog-scroll-top',-window.scrollY+'px');
   document.body.classList.add('dialog-open');
   dialog.showModal();
-  dialog.querySelector('.modal,.about-modal').scrollTop=0;
-  dialog.querySelector('.dialog-close').focus({preventScroll:true});
+  var panel=dialog.querySelector('.modal,.about-modal');
+  panel.scrollTop=0;
+  panel.focus({preventScroll:true});
 }
 
 document.querySelectorAll('dialog').forEach(function(dialog){

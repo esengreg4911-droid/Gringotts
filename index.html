@@ -12,8 +12,7 @@
 <body class="zh dark">
 <!-- About Modal -->
 <dialog class="about-ov" id="about-ov" aria-labelledby="about-title" onclick="closeAboutOv(event)">
-<div class="about-modal" id="about-modal">
-<div class="dialog-toolbar"><button class="dialog-close" onclick="closeAbout()" aria-label="关闭 / Close" autofocus><span aria-hidden="true">×</span></button></div>
+<div class="about-modal" id="about-modal" tabindex="-1">
 <div class="about-deco"></div>
 <div class="about-label"><span class="zh">关于本站</span><span class="en">ABOUT</span></div>
 <div class="about-title" id="about-title"><span class="zh">GRINGOTTS 影视库</span><span class="en">GRINGOTTS Collection</span></div>
@@ -101,8 +100,7 @@
 </div>
 </div>
 <dialog class="ov" id="ov" aria-labelledby="mtitle" onclick="closeOv(event)">
-<div class="modal">
-<div class="dialog-toolbar"><button class="dialog-close" onclick="closeModal()" aria-label="关闭 / Close" autofocus><span aria-hidden="true">×</span></button></div>
+<div class="modal" tabindex="-1">
 <div class="mhead-row">
 <div class="modal-cover" id="modal-cover">
 <div class="modal-cover-placeholder"><svg fill="none" height="32" opacity=".4" stroke="currentColor" stroke-width="1.2" viewbox="0 0 24 24" width="32"><rect height="18" rx="2" width="18" x="3" y="3"></rect><path d="M9 3v18M3 9h6M3 15h6"></path><circle cx="15.5" cy="10.5" r="2.5"></circle></svg></div>
