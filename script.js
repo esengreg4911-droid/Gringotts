@@ -106,7 +106,10 @@ function applyCover(cover, url, lazy) {
   var existing = cover.querySelector('img');
   if (existing && existing.getAttribute('src') === url) return;
   var img = document.createElement('img');
-  img.onload = function(){ img.classList.add('loaded'); };
+  img.onload = function(){
+    img.classList.add('loaded');
+    cover.querySelectorAll('.mc-cover-placeholder,.modal-cover-placeholder').forEach(function(el){el.remove();});
+  };
   img.onerror = function(){ img.remove(); };
   img.alt = '';
   img.decoding = 'async';
