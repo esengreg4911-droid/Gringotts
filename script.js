@@ -266,7 +266,10 @@ document.querySelectorAll('dialog').forEach(function(dialog){
     var position=dialog._scrollPosition;
     if(position)window.scrollTo(position.x,position.y);
     if(dialog._returnFocus&&dialog._returnFocus.isConnected){
-      dialog._returnFocus.focus({preventScroll:true});
+      var returnFocus=dialog._returnFocus;
+      requestAnimationFrame(function(){
+        if(document.activeElement===returnFocus)returnFocus.blur();
+      });
     }
   });
   dialog.addEventListener('keydown',function(e){
