@@ -97,24 +97,32 @@
 <div class="mgrid" id="mgrid"></div>
 <div id="nores"><span class="zh">没有找到匹配的作品</span><span class="en">No titles found</span></div>
 </main>
+<main class="detail-view" id="detail-view" aria-labelledby="detail-title" hidden>
+<button class="detail-back" id="detail-back" type="button">
+<span aria-hidden="true">←</span>
+<span class="zh">返回作品列表</span><span class="en">Back to collection</span>
+</button>
+<article class="detail-hero">
+<div class="detail-cover" id="detail-cover">
+<div class="modal-cover-placeholder"><svg fill="none" height="40" opacity=".4" stroke="currentColor" stroke-width="1.2" viewbox="0 0 24 24" width="40"><rect height="18" rx="2" width="18" x="3" y="3"></rect><path d="M9 3v18M3 9h6M3 15h6"></path><circle cx="15.5" cy="10.5" r="2.5"></circle></svg></div>
+</div>
+<div class="detail-info">
+<div class="detail-category" id="detail-category"></div>
+<h2 class="detail-title" id="detail-title"></h2>
+<div class="detail-ratings" id="detail-ratings"></div>
+<section class="detail-content" id="detail-synopsis" aria-labelledby="detail-synopsis-title" hidden>
+<h3 class="detail-section-title" id="detail-synopsis-title"><span class="zh">简介</span><span class="en">Synopsis</span></h3>
+<p class="detail-summary" id="detail-summary"></p>
+<a class="detail-source" id="detail-source" target="_blank" rel="noopener"></a>
+</section>
+</div>
+</article>
+</main>
 </div>
 </div>
-<dialog class="ov" id="ov" aria-labelledby="mtitle" onclick="closeOv(event)">
-<div class="modal" tabindex="-1">
-<div class="mhead-row">
-<div class="modal-cover" id="modal-cover">
-<div class="modal-cover-placeholder"><svg fill="none" height="32" opacity=".4" stroke="currentColor" stroke-width="1.2" viewbox="0 0 24 24" width="32"><rect height="18" rx="2" width="18" x="3" y="3"></rect><path d="M9 3v18M3 9h6M3 15h6"></path><circle cx="15.5" cy="10.5" r="2.5"></circle></svg></div>
-</div>
-<div class="mhead-info">
-<div class="mcat" id="mcat"></div>
-<div class="mtitle" id="mtitle"></div>
-<div class="morig" id="morig"></div>
-<div class="mrats" id="mrats"></div>
-</div>
-</div>
-</div>
-</dialog>
 
 <script src="data.js"></script>
+<script src="descriptions.js"></script>
+<script src="tmdb-descriptions.js"></script>
 <script src="script.js"></script></body>
 </html>

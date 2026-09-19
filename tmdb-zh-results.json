@@ -1,0 +1,4208 @@
+[
+  {
+    "id": 1,
+    "zh": "正直的银行家 Andy Dufresne 在 20 世纪 40 年代因双重谋杀妻子及其情人而入狱，在 Shawshank 监狱开始了新的生活，在那里他运用自己的会计技能为一名不道德的典狱长工作。在漫长的监狱服刑期间，Dufresne 因其正直和不可抑制的希望而受到其他囚犯（包括一位名叫 Red 的年长囚犯）的钦佩。",
+    "protectedNames": [
+      "Andy Dufresne",
+      "Shawshank",
+      "Dufresne",
+      "Red"
+    ]
+  },
+  {
+    "id": 2,
+    "zh": "一部虚构的意大利裔美国人 Corleone 犯罪家族的编年史，跨越 1945 年至 1955 年。当有组织犯罪家族的族长 Vito Corleone 在一次刺杀行动中险些丧命时，他的小儿子 Michael 挺身而出，开始了一场血腥复仇。",
+    "protectedNames": [
+      "Corleone",
+      "Vito Corleone",
+      "Michael"
+    ]
+  },
+  {
+    "id": 3,
+    "zh": "在 Corleone 犯罪家族的持续传奇中，年轻的 Vito Corleone 在西西里和 1910 年代的纽约长大。在 20 世纪 50 年代，Michael Corleone 试图将家族企业扩展到拉斯维加斯、好莱坞和古巴。",
+    "protectedNames": [
+      "Corleone",
+      "Vito Corleone",
+      "Sicily",
+      "New York",
+      "Michael Corleone",
+      "Las Vegas",
+      "Hollywood",
+      "Cuba"
+    ]
+  },
+  {
+    "id": 4,
+    "zh": "在 1979 年纽约和意大利试图使自己的商业交易合法化的过程中，年迈的黑手党头目 Michael Corleone 寻求宽恕自己的罪孽，同时将一名年轻的门生收在自己的羽翼之下。",
+    "protectedNames": [
+      "New York",
+      "Italy",
+      "Michael Corleone"
+    ]
+  },
+  {
+    "id": 5,
+    "zh": "一个热爱汉堡的杀手、他的哲学搭档、一个吸毒成瘾的黑帮情妇和一个过气的拳击手在这部庞大的喜剧犯罪片中汇聚在一起。他们的冒险故事在三个故事中展开，巧妙地在时间中来回穿梭。",
+    "protectedNames": []
+  },
+  {
+    "id": 6,
+    "zh": "真实的故事，讲述了商人 Oskar Schindler 在第二次世界大战期间如何从纳粹手中拯救了一千多名犹太人的生命，当时他们在他的工厂里当奴隶。",
+    "protectedNames": [
+      "Oskar Schindler",
+      "Nazis",
+      "World War II"
+    ]
+  },
+  {
+    "id": 7,
+    "zh": "辩方和检方已经休息，陪审团正在进入陪审室，决定一名年轻的西班牙裔美国人谋杀父亲是否有罪。一开始是一个开放和封闭的案件，很快就变成了一场迷你剧，讲述了每个陪审员对审判、被告和彼此的偏见和成见。",
+    "protectedNames": []
+  },
+  {
+    "id": 8,
+    "zh": "一个定时炸弹失眠症患者和一个狡猾的肥皂推销员将原始的男性攻击性转化为一种令人震惊的新疗法。他们的理念开始流行，每个城镇都形成了地下“搏击俱乐部”，直到一个怪人介入并引发了一场失控的螺旋式上升，最终走向遗忘。",
+    "protectedNames": []
+  },
+  {
+    "id": 9,
+    "zh": "一个 IQ 较低的人在一生中取得了伟大的成就，并参与了重大历史事件，在每一个案例中，都远远超出了任何人想象的他能做到的事情。但尽管他取得了一切成就，他的真爱却离他而去。",
+    "protectedNames": [
+      "IQ"
+    ]
+  },
+  {
+    "id": 10,
+    "zh": "Cobb 是一名熟练的小偷，通过渗透目标的潜意识来实施企业间谍活动，他获得了一个重获昔日生活的机会，作为一项被认为不可能的任务的报酬：“盗梦空间”，将另一个人的想法植入目标的潜意识。",
+    "protectedNames": [
+      "Cobb"
+    ]
+  },
+  {
+    "id": 11,
+    "zh": "Clarice Starling是联邦调查局培训学院的尖子生。  Jack Crawford 希望 Clarice 采访 Dr. Hannibal Lecter，他是一位才华横溢的精神病学家，也是一名暴力精神病患者，因各种谋杀和食人行为而入狱服刑。  Crawford认为Lecter可能对案件有洞察力，而Starling作为一个年轻漂亮的女人，可能只是引诱他出局的诱饵。",
+    "protectedNames": [
+      "Clarice Starling",
+      "FBI",
+      "Jack Crawford",
+      "Clarice",
+      "Dr. Hannibal Lecter",
+      "Crawford",
+      "Lecter",
+      "Starling"
+    ]
+  },
+  {
+    "id": 12,
+    "zh": "洛杉矶审讯室中，Verbal Kint 试图让联邦调查局相信，一个神秘的犯罪头目 Keyser Soze 不仅存在，而且还负责将他和他的四个伙伴卷入一场价值数百万美元的抢劫案，最终以爆炸告终。圣佩德罗港口，幸存者寥寥无几。 Verbal 用一个关于犯罪头目近乎超自然的能力的令人难以置信的故事来引诱审讯者。",
+    "protectedNames": [
+      "L.A.",
+      "Verbal Kint",
+      "Keyser Soze",
+      "San Pedro",
+      "Verbal"
+    ]
+  },
+  {
+    "id": 13,
+    "zh": "两名凶杀案侦探正在拼命追捕一名连环杀手，他的罪行是基于这部黑暗而令人难忘的电影中的“七大罪”，这部电影将观众从一个受害者饱受折磨的遗体带到了下一个受害者。经验丰富的 Det. Somerset 研究每一项罪行，试图深入了解凶手的内心，而他的新手搭档 Mills 则嘲笑他为侦破案件所做的努力。",
+    "protectedNames": [
+      "Det. Somerset",
+      "Mills"
+    ]
+  },
+  {
+    "id": 14,
+    "zh": "Leonard Shelby 正在追捕强奸并谋杀其妻子的男子。然而，他患有一种罕见的、无法治愈的短期记忆丧失，这使得找到杀害他妻子的凶手变得更加困难。尽管Leonard可以回忆起事故发生前的生活细节，但他不记得十五分钟前发生了什么，他要去哪里，或者为什么。",
+    "protectedNames": [
+      "Leonard Shelby",
+      "Leonard"
+    ]
+  },
+  {
+    "id": 15,
+    "zh": "从恶名昭著的高峰到堕落的深渊，John Forbes Nash Jr.经历这一切。作为一位才华横溢但不善社交的数学家，他在职业生涯早期就做出了突破性的发现，即将获得国际赞誉。但英俊傲慢的Nash接受了密码学方面的秘密工作，却因此卷入了一场神秘的阴谋之中。他的生活发生了噩梦般的转变，他很快发现自己踏上了一段痛苦而痛苦的自我发现之旅。",
+    "protectedNames": [
+      "John Forbes Nash Jr",
+      "Nash"
+    ]
+  },
+  {
+    "id": 16,
+    "zh": "作为美国军队冲进了诺曼底的海滩，三兄弟死在战场上，第四个人被困在敌后。游骑兵队长 John Miller 和七名男子的任务是渗透德国控制的领土并将男孩带回家。",
+    "protectedNames": [
+      "U.S",
+      "Normandy",
+      "John Miller"
+    ]
+  },
+  {
+    "id": 17,
+    "zh": "苏格兰战士 William Wallace 对他的新婚新娘和童年爱人 Murron 被屠杀感到愤怒，杀死了当地英国领主的一个排的士兵。这导致村庄起义，最终导致整个国家起来反抗英国的统治。",
+    "protectedNames": [
+      "Murron",
+      "William Wallace"
+    ]
+  },
+  {
+    "id": 18,
+    "zh": "皇帝Marcus Aurelius死后，他狡猾的儿子掌权并降职Maximus，罗马的最喜欢的将军之一。最终，Maximus 被迫成为一名角斗士，与其他男人进行殊死搏斗，以取悦付费观众。",
+    "protectedNames": [
+      "Marcus Aurelius",
+      "Maximus",
+      "Rome's",
+      "Marcus",
+      "Maximus"
+    ]
+  },
+  {
+    "id": 19,
+    "zh": "一个有犹太血统的意大利书商生活在自己的小童话里的感人故事。在第二次世界大战期间，当他的全家被驱逐到集中营时，他创造性和幸福的生活戛然而止。在被关起来的时候，他试图让儿子相信整件事只是一场游戏。",
+    "protectedNames": [
+      "World War II"
+    ]
+  },
+  {
+    "id": 20,
+    "zh": "音乐家 Max Tooney 将他珍贵的 Conn 小号出售给一家音乐商店，并在那里最后一次演奏该乐器。店主认出这首歌是他找到的唱片矩阵中的一首，并询问这首曲子的作者。 Tooney 讲述了 1900 年 1 月 1 日，一名婴儿被发现被遗弃在四堆远洋客轮 SS Virginian 的头等舱餐厅中的故事。Danny Boodman 是锅炉房的一名煤工，给这个男孩起了名字Danny Boodman T。 D. Lemon 1900，在他本人之后，男孩被发现的水果箱和年份，并把他当作自己的孩子抚养长大。",
+    "protectedNames": [
+      "Max Tooney",
+      "Conn",
+      "Tooney",
+      "SS Virginian",
+      "Danny Boodman",
+      "Danny Boodman T",
+      "Lemon"
+    ]
+  },
+  {
+    "id": 21,
+    "zh": "在新英格兰的一所精英老式寄宿学校，一位热情的英语老师激励他的学生反抗传统，抓住每一天的潜力，招致严厉校长的蔑视。",
+    "protectedNames": [
+      "New England"
+    ]
+  },
+  {
+    "id": 22,
+    "zh": "这是一个真实的故事，讲述了两个本不该相遇的男人，一名在滑翔伞事故中受伤的四肢瘫痪贵族和一名来自该项目的年轻人。",
+    "protectedNames": []
+  },
+  {
+    "id": 23,
+    "zh": "Léon，纽约中的顶级杀手，赢得了有效“清洁工”的声誉。但当他的邻居被松散的缉毒局特工消灭后，他不情愿地成为了 12 岁孩子 Mathilda 的监护人。不久之后，Mathilda's的想法转向了复仇，她考虑追随Léon's的脚步。",
+    "protectedNames": [
+      "Léon",
+      "New York",
+      "DEA",
+      "Mathilda",
+      "Mathilda's",
+      "Léon's"
+    ]
+  },
+  {
+    "id": 24,
+    "zh": "一位电影制片人回忆起自己的童年，当时他爱上了村里剧院的电影，并与剧院的放映员结下了深厚的友谊。",
+    "protectedNames": []
+  },
+  {
+    "id": 25,
+    "zh": "Dangal 是一个非凡的真实故事，基于 Mahavir Singh 和他的两个女儿 Geeta 和 Babita Phogat 的生活。影片讲述了一位父亲训练女儿成为世界级摔跤手的励志历程。",
+    "protectedNames": [
+      "Dangal",
+      "Mahavir Singh",
+      "Geeta",
+      "Babita Phogat"
+    ]
+  },
+  {
+    "id": 26,
+    "zh": "Rascal。 Joker。 Dreamer。天才...You've 从来没有遇到过像“Rancho”这样的大学生。 From 当他到达 India's 最负盛名的大学时，Rancho's 的古怪计划使校园发生了天翻地覆的变化，还有他两个新认识的最好朋友的生活。他们一起让“Virus”这位紧张而无情的院长的生活变得悲惨。但当 Rancho 引起了院长女儿的注意时，Virus 决定一劳永逸地让“三个白痴”不及格。",
+    "protectedNames": [
+      "Rascal",
+      "Joker",
+      "Dreamer",
+      "You've",
+      "Rancho",
+      "From",
+      "India's",
+      "Rancho's",
+      "Virus",
+      "Rancho",
+      "Virus"
+    ]
+  },
+  {
+    "id": 27,
+    "zh": "三十多年后，一名前 Prohibition-era Jewish 黑帮回到曼哈顿下东区，在那里他必须再次面对旧生活的幽灵和遗憾。",
+    "protectedNames": [
+      "Prohibition-era Jewish",
+      "Lower East Side of Manhattan"
+    ]
+  },
+  {
+    "id": 28,
+    "zh": "一名生病的律师被推回法庭，这成为律师职业生涯中最不寻常、最重大的谋杀案之一，他发现自己正在为一名因谋杀社交名流而受审的男子辩护。",
+    "protectedNames": []
+  },
+  {
+    "id": 29,
+    "zh": "钢琴家瓦迪斯瓦夫 Szpilman's 在纳粹占领期间在华沙经历的真实故事。当城市中的 the Jews 发现自己被迫进入贫民窟时，Szpilman 找到了在咖啡馆玩耍的工作； 1942 年，当他的家人被驱逐出境时，他留下来，做了一段时间的劳工，最后躲藏在这座饱受战争蹂躏的城市的废墟中。",
+    "protectedNames": [
+      "Szpilman's",
+      "Warsaw",
+      "Nazi",
+      "the Jews",
+      "Szpilman"
+    ]
+  },
+  {
+    "id": 30,
+    "zh": "J. Robert Oppenheimer's 在第二次世界大战期间在原子弹开发中所扮演的角色的故事。",
+    "protectedNames": [
+      "Robert Oppenheimer's",
+      "World War II"
+    ]
+  },
+  {
+    "id": 31,
+    "zh": "Obsessive 大盗 Neil McCauley 带领一流的团队在整个洛杉矶中进行各种大胆的抢劫，而坚定的侦探 Vincent Hanna 则不停地追捕他。每个人都承认并尊重对方的能力和奉献精神，尽管他们知道他们的猫鼠游戏可能会以暴力告终。",
+    "protectedNames": [
+      "Obsessive",
+      "Neil McCauley",
+      "Los Angeles",
+      "Vincent Hanna"
+    ]
+  },
+  {
+    "id": 32,
+    "zh": "20 世纪 50 年代，腐败残暴的洛杉矶警察部队中的三名侦探使用不同的方法，揭露了一家通宵餐厅用猎枪杀害顾客背后的阴谋。",
+    "protectedNames": [
+      "L.A."
+    ]
+  },
+  {
+    "id": 33,
+    "zh": "年轻的狮子王子Simba，渴望有一天成为Pride Lands的国王，在父亲Mufasa的注视下长大；与此同时，他邪恶的叔叔Scar密谋夺取王位。在背叛和悲剧中，Simba 必须面对自己的过去，并在 Circle of Life 中找到自己应有的位置。",
+    "protectedNames": [
+      "Simba",
+      "Pride Lands",
+      "Mufasa",
+      "Scar",
+      "Simba",
+      "Circle of Life"
+    ]
+  },
+  {
+    "id": 34,
+    "zh": "受伤的内战士兵 John Dunbar 试图自杀，但却成为英雄。作为奖励，他被分配到他梦想的岗位，Western 边境的一个偏远交汇处，并很快与当地的苏族部落成为了不太可能的朋友。",
+    "protectedNames": [
+      "Civil War",
+      "John Dunbar",
+      "Western",
+      "Sioux"
+    ]
+  },
+  {
+    "id": 35,
+    "zh": "在 1930 年代，Almásy 伯爵是一名 Hungarian 地图制作者，受皇家地理学会雇佣，与其他几位杰出的探险家一起绘制了撒哈拉沙漠广阔无垠的地图。随着第二次世界大战的展开，Almásy 进入了一个充满爱、背叛和政治的世界。",
+    "protectedNames": [
+      "Almásy",
+      "Hungarian",
+      "Royal Geographical Society",
+      "Sahara Desert",
+      "World War II",
+      "Almásy"
+    ]
+  },
+  {
+    "id": 201,
+    "zh": "一群探险家利用新发现的虫洞，超越人类太空旅行的限制，征服遥远的星际航行的冒险之旅。",
+    "protectedNames": []
+  },
+  {
+    "id": 202,
+    "zh": "《The Matrix》以 22 世纪为背景，讲述了一名计算机黑客加入地下叛乱组织，对抗如今统治地球的庞大而强大的计算机的故事。",
+    "protectedNames": [
+      "The Matrix"
+    ]
+  },
+  {
+    "id": 203,
+    "zh": "随着人类从 Matrix 中解放出来并被带到 Zion 市，Resistance 的数量不断增加。 Neo 发现了他的超能力，包括查看 Matrix 内部代码的能力。随着机器哨兵在 72 小时内挖掘到 Zion，Neo、Morpheus 和 Trinity 必须找到 Keymaker 才能最终到达 Source。",
+    "protectedNames": [
+      "Resistance",
+      "Matrix",
+      "Zion",
+      "Neo",
+      "Matrix",
+      "Zion",
+      "Neo",
+      "Morpheus",
+      "Trinity",
+      "Keymaker",
+      "Source"
+    ]
+  },
+  {
+    "id": 204,
+    "zh": "人类城市 Zion 保卫自己免受机器的大规模入侵，而 Neo 则在另一条战线为结束战争而战，同时也对抗流氓 Agent Smith。",
+    "protectedNames": [
+      "Zion",
+      "Neo",
+      "Agent Smith"
+    ]
+  },
+  {
+    "id": 205,
+    "zh": "Paul Atreides，一个才华横溢、才华横溢的年轻人，生来就有着超出他理解的伟大命运，他必须前往宇宙中最危险的星球，以确保他的家人和人民的未来。当邪恶势力因争夺地球上现存最宝贵资源（一种能够释放人类最大潜力的商品）的独家供应而爆发冲突时，只有那些能够克服恐惧的人才能生存。",
+    "protectedNames": [
+      "Paul Atreides"
+    ]
+  },
+  {
+    "id": 206,
+    "zh": "跟随 Paul Atreides 的神话之旅，他与 Chani 和 Fremen 联合，踏上向摧毁他家人的阴谋者复仇的道路。面对一生挚爱和已知宇宙的命运之间的选择，Paul 努力阻止只有他才能预见的可怕未来。",
+    "protectedNames": [
+      "Paul Atreides",
+      "Chani",
+      "Fremen",
+      "Paul"
+    ]
+  },
+  {
+    "id": 207,
+    "zh": "这是一个关于两个魔术师的神秘故事，他们的激烈竞争导致他们为争夺霸权而进行了终生的战斗，充满了痴迷、欺骗和嫉妒，带来了危险和致命的后果。",
+    "protectedNames": []
+  },
+  {
+    "id": 208,
+    "zh": "在执行火星载人任务期间，Astronaut Mark Watney 在一场猛烈的风暴中被推定死亡，并被他的船员留下。但 Watney 幸存下来，并发现自己被困在这个充满敌意的星球上。在物资匮乏的情况下，他必须依靠自己的聪明才智、智慧和精神来生存，并找到一种方法向地球发出他还活着的信号。",
+    "protectedNames": [
+      "Mars",
+      "Astronaut Mark Watney",
+      "Watney",
+      "Earth"
+    ]
+  },
+  {
+    "id": 209,
+    "zh": "在悲剧的驱使下，亿万富翁 Bruce Wayne 毕生致力于揭露和击败困扰他家乡 Gotham City 的腐败现象。  Unable无法在系统内工作，他反而创建了一个新的身份，一个对黑社会的恐惧象征，The Batman。",
+    "protectedNames": [
+      "Bruce Wayne",
+      "Gotham City",
+      "Unable",
+      "The",
+      "Batman"
+    ]
+  },
+  {
+    "id": 210,
+    "zh": "Batman 加大了打击犯罪的力度。在 Lt. Jim Gordon 和 District Attorney Harvey Dent 的帮助下，Batman 着手瓦解困扰街道的剩余犯罪组织。事实证明，这种伙伴关系是有效的，但他们很快发现自己陷入了一个正在崛起的犯罪策划者所发动的混乱统治中，这个策划者被 Gotham 惊恐的公民称为 Joker。",
+    "protectedNames": [
+      "Batman",
+      "Lt. Jim Gordon",
+      "District Attorney Harvey Dent",
+      "Batman",
+      "Gotham",
+      "Joker"
+    ]
+  },
+  {
+    "id": 211,
+    "zh": "District Attorney Harvey Dent 死亡后，Batman 承担起 Dent's 罪行的责任，以保护已故律师的声誉，并随后被 Gotham City 警察局追捕。八年后，Batman 遇到了神秘的 Selina Kyle 和邪恶的 Bane，一个压倒 Gotham's 最优秀的新恐怖分子头目。 Dark Knight 重新出现，以保护一座将他视为敌人的城市。",
+    "protectedNames": [
+      "District Attorney Harvey Dent",
+      "Batman",
+      "Dent's",
+      "Gotham City Police Department",
+      "Batman",
+      "Selina Kyle",
+      "Bane",
+      "Gotham's",
+      "Dark Knight"
+    ]
+  },
+  {
+    "id": 212,
+    "zh": "22 世纪，一名截瘫患者 Marine 被派往月球 Pandora 执行一项独特的任务，但他在执行命令和保护外星文明之间左右为难。",
+    "protectedNames": [
+      "Marine",
+      "Pandora"
+    ]
+  },
+  {
+    "id": 213,
+    "zh": "人类发现了埋在月球表面下的神秘物体，并在世界上最先进的超级计算机 HAL 9000 的帮助下开始寻找它的起源。",
+    "protectedNames": [
+      "HAL"
+    ]
+  },
+  {
+    "id": 301,
+    "zh": "Harry Potter 一生都住在他姑妈和叔叔家的楼梯下。但在他 11 岁生日时，他得知自己是一名强大的巫师，在 Hogwarts School of Witchcraft 和 Wizardry 中有一个席位在等着他。当 Harry 在学校仁慈的校长的帮助下学会利用他新获得的力量时，他揭开了父母死亡的真相，以及罪魁祸首的恶棍。",
+    "protectedNames": [
+      "Harry Potter",
+      "Hogwarts School of Witchcraft",
+      "Wizardry",
+      "Harry"
+    ]
+  },
+  {
+    "id": 302,
+    "zh": "Cars 飞翔，树木反击，神秘的家养小精灵在 Harry Potter 在 Hogwarts 上学的第二年开始时来警告他。当墙上的血迹宣布：The Chamber Of Secrets Has Been Opened 时，冒险和危险正在等待着。要拯救 Hogwarts 将需要 Harry、Ron 和 Hermione's 的全部魔法能力和勇气。",
+    "protectedNames": [
+      "Cars",
+      "Harry Potter",
+      "Hogwarts",
+      "The",
+      "Chamber Of Secrets Has Been Opened",
+      "Hogwarts",
+      "Harry",
+      "Ron",
+      "Hermione's"
+    ]
+  },
+  {
+    "id": 303,
+    "zh": "Harry Potter's 的生命再次处于危险之中，危险巫师 Sirius Black 已从 Azkaban Prison 逃出并前往 Hogwarts。",
+    "protectedNames": [
+      "Harry Potter's",
+      "Sirius Black",
+      "Azkaban Prison",
+      "Hogwarts"
+    ]
+  },
+  {
+    "id": 304,
+    "zh": "当他的名字出现在 Goblet of Fire 中时，Harry Potter 成为三所魔法学校争夺荣耀的艰苦战斗中的竞争者。 Signs of Voldemort's 回归，Harry's 朋友帮助他准备 Triwizard Tournament。",
+    "protectedNames": [
+      "Goblet of Fire",
+      "Harry Potter",
+      "Signs of Voldemort's",
+      "Harry's",
+      "Triwizard Tournament"
+    ]
+  },
+  {
+    "id": 305,
+    "zh": "当新教授的方法让 Hogwarts 毫无准备地对抗日益高涨的邪恶浪潮时，Harry 教学生如何防御黑魔法。",
+    "protectedNames": [
+      "Hogwarts",
+      "Harry"
+    ]
+  },
+  {
+    "id": 306,
+    "zh": "Dumbledore 试图准备 Harry 与 Voldemort 进行最后的战斗，而 Death Eaters 在 Muggle 和 Wizard 世界中造成严重破坏。",
+    "protectedNames": [
+      "Dumbledore",
+      "Harry",
+      "Voldemort",
+      "Death Eaters",
+      "Muggle",
+      "Wizard"
+    ]
+  },
+  {
+    "id": 307,
+    "zh": "Harry、Ron 和 Hermione 离开他们在 Hogwarts 的最后一年，找到并摧毁剩余的 Horcruxes，结束 Voldemort's 竞标为了不朽。但随着Harry's心爱的Dumbledore的死亡和Voldemort's肆无忌惮的Death Eaters的逍遥法外，世界比以往任何时候都更加危险。",
+    "protectedNames": [
+      "Harry",
+      "Ron",
+      "Hermione",
+      "Hogwarts",
+      "Horcruxes",
+      "Voldemort's",
+      "Harry's",
+      "Dumbledore",
+      "Voldemort's",
+      "Death Eaters"
+    ]
+  },
+  {
+    "id": 308,
+    "zh": "Harry、Ron 和 Hermione 继续他们的任务，一劳永逸地战胜邪恶的 Voldemort。就在年轻巫师们开始陷入绝望之际，Harry 发现了三件神奇物品，这些物品赋予了他足以与 Voldemort's 相媲美的强大技能。",
+    "protectedNames": [
+      "Harry",
+      "Ron",
+      "Hermione",
+      "Voldemort",
+      "Harry",
+      "Voldemort's"
+    ]
+  },
+  {
+    "id": 309,
+    "zh": "年轻的霍比特人 Frodo Baggins 从叔叔 Bilbo 那里继承了一枚神秘的戒指后，必须离开他的家，以防止它落入邪恶创造者的手中。一路上，一个团契成立来保护戒指持有者并确保戒指到达最终目的地：Mt。 Doom，唯一可以摧毁的地方。",
+    "protectedNames": [
+      "Frodo Baggins",
+      "Bilbo",
+      "Mt",
+      "Doom"
+    ]
+  },
+  {
+    "id": 310,
+    "zh": "Frodo Baggins 和 Fellowship 的其他成员继续他们的神圣任务，摧毁不同路径上的 One Ring--but。他们的命运在于两座塔楼，Isengard的Orthanc Tower，腐败的巫师Saruman在那里等待，以及Barad-dur的Sauron's堡垒，在黑暗之地的深处Mordor。",
+    "protectedNames": [
+      "Frodo Baggins",
+      "Fellowship",
+      "One",
+      "Ring--but",
+      "Orthanc Tower",
+      "Isengard",
+      "Saruman",
+      "Sauron's",
+      "Barad-dur",
+      "Mordor"
+    ]
+  },
+  {
+    "id": 311,
+    "zh": "当军队集结进行一场决定世界命运的最终战斗时，Light 和 Dark 强大而古老的力量竞相决定胜负，Fellowship of the Ring 的一名成员被揭露为王位的高贵继承人。 Kings of Men。然而，战胜邪恶的唯一希望在于勇敢的霍比特人 Frodo，他在忠实的朋友 Sam 和丑陋、可怜的 Gollum 的陪伴下，冒险深入 Mordor 的黑暗核心，执行看似不可能的任务，摧毁魔多。 Ring of Power.​",
+    "protectedNames": [
+      "Light",
+      "Dark",
+      "Fellowship of the Ring",
+      "Kings of Men",
+      "Frodo",
+      "Sam",
+      "Gollum",
+      "Mordor",
+      "Ring of Power"
+    ]
+  },
+  {
+    "id": 312,
+    "zh": "Bilbo Baggins，一个享受着平静生活的霍比特人，被 Gandalf the Grey 和十三个矮人卷入了一场史诗般的任务，他们试图从龙 Smaug 手中夺回他们的山中家园。",
+    "protectedNames": [
+      "Bilbo Baggins",
+      "Gandalf the Grey",
+      "Smaug"
+    ]
+  },
+  {
+    "id": 313,
+    "zh": "Dwarves、Bilbo和Gandalf已成功逃离Misty Mountains，Bilbo已获得One Ring。他们继续他们的旅程，从 Dragon、Smaug 处夺回黄金。",
+    "protectedNames": [
+      "Dwarves",
+      "Bilbo",
+      "Gandalf",
+      "Misty Mountains",
+      "Bilbo",
+      "One",
+      "Ring",
+      "Dragon",
+      "Smaug"
+    ]
+  },
+  {
+    "id": 314,
+    "zh": "在 Smaug's 攻击 Laketown 后，Bilbo 和矮人试图保卫 Erebor's 宝藏山免遭其他人的侵犯：被毁的 Laketown 的人和精灵Mirkwood。与此同时，Azog the Defiler 率领的 Orcs 军队在黑暗领主 Sauron 崛起的推动下，正在向 Erebor 进军。矮人、精灵和人类必须联合起来，Middle-地球的希望落入Bilbo's手中。",
+    "protectedNames": [
+      "Smaug's",
+      "Laketown",
+      "Bilbo",
+      "Erebor's",
+      "Laketown",
+      "Mirkwood",
+      "Orcs",
+      "Azog the Defiler",
+      "Erebor",
+      "Sauron",
+      "Middle-Earth",
+      "Bilbo's"
+    ]
+  },
+  {
+    "id": 501,
+    "zh": "年轻女孩 Chihiro 被困在一个陌生的新精神世界中。当她的父母经历神秘的转变时，她必须鼓起勇气，她从未知道自己必须解放家人。",
+    "protectedNames": [
+      "Chihiro"
+    ]
+  },
+  {
+    "id": 105,
+    "zh": "历史上最严重的人为灾难之一的真实故事：切尔诺贝利灾难性核事故。讲述勇敢的男女为拯救欧洲免遭难以想象的灾难而牺牲的故事。",
+    "protectedNames": [
+      "Chernobyl",
+      "Europe"
+    ]
+  },
+  {
+    "id": 106,
+    "zh": "Band of Brothers 根据对 Easy Company 幸存者的采访以及他们的日记和信件，记录了这些人在 Georgia 接受伞兵训练直至战争结束的经历。作为诺曼底登陆日清晨空降到诺曼底的精锐步枪连，Battle of the Bulge的参与者，并见证了战争的恐怖，Easy的人们知道非凡的勇敢和非凡的恐惧 - 并成为传奇。基于 Stephen E。 Ambrose's 广受好评的同名书籍。",
+    "protectedNames": [
+      "Easy Company",
+      "Band of Brothers",
+      "Georgia",
+      "Normandy",
+      "D-Day",
+      "Battle of the Bulge",
+      "Easy",
+      "Stephen E",
+      "Ambrose's"
+    ]
+  },
+  {
+    "id": 111,
+    "zh": "在 1600 年的日本中，一场百年内战即将爆发，Lord Yoshii Toranaga 正在为自己的生命而战，Council of Regents 的敌人联合起来反对他，这时一艘神秘的欧洲船只被发现被困在附近的一个渔村。",
+    "protectedNames": [
+      "Japan",
+      "Lord Yoshii Toranaga",
+      "Council of Regents"
+    ]
+  },
+  {
+    "id": 128,
+    "zh": "一家公司如何引发美国历史上最严重的毒品流行的故事。调查美国的与阿片类药物成瘾斗争的中心，从陷入困境的弗吉尼亚州采矿社区，到缉毒局的走廊，再到“百分之一”的 Big Pharma Manhattan 的富裕程度。",
+    "protectedNames": [
+      "America's",
+      "Virginia",
+      "DEA",
+      "Big Pharma Manhattan"
+    ]
+  },
+  {
+    "id": 129,
+    "zh": "踏上怀旧之旅，回到 20 世纪 80 年代末，了解居住在首尔一个小社区的五个家庭及其五个十几岁孩子的生活。",
+    "protectedNames": [
+      "Seoul"
+    ]
+  },
+  {
+    "id": 134,
+    "zh": "在神秘小镇 Macondo，Buendía 家族的七代人在爱情、遗忘和不可避免的过去以及命运中航行。",
+    "protectedNames": [
+      "Macondo",
+      "Buendía"
+    ]
+  },
+  {
+    "id": 136,
+    "zh": "Sakuragi Hanamichi 是一名初中朋克，习惯于打架并被女孩拒绝，但进入高中后，他遇到了他的梦想女孩 Haruko Akagi。为了赢得她的心，他愿意做任何事，包括加入由Haruko's哥哥领导的以征服国家为目标的校篮球队。问题是Sakuragi以前从未打过篮球，而一名新生的轰动正在抢走他的聚光灯和Haruko's的感情。",
+    "protectedNames": [
+      "Sakuragi Hanamichi",
+      "Haruko Akagi",
+      "Haruko's",
+      "Sakuragi",
+      "Haruko's"
+    ]
+  },
+  {
+    "id": 138,
+    "zh": "年轻的Countess Natasha Rostova和伯爵Pierre Bezukhov的爱情故事与1812年伟大卫国战争对抗Napoleon's侵略军的故事交织在一起。",
+    "protectedNames": [
+      "Countess Natasha Rostova",
+      "Pierre Bezukhov",
+      "Great Patriotic War",
+      "Napoleon's"
+    ]
+  },
+  {
+    "id": 256,
+    "zh": "2517 年，宇宙是一片广阔的疆域，无法无天，冒险等待着您！加入 Captain Malcolm Reynolds 和他的乌合之众船员，登上 Serenity 宇宙飞船，游走在社会的边缘，与压迫性的 Alliance 作战，并对抗无情的赏金猎人。",
+    "protectedNames": [
+      "Captain Malcolm Reynolds",
+      "Serenity",
+      "Alliance"
+    ]
+  },
+  {
+    "id": 316,
+    "zh": "在 Game of Thrones 事件发生的一个世纪前，两个不太可能的英雄在 Westeros 中徘徊：一位年轻、天真的但勇敢的骑士 Ser Duncan the Tall 和他的矮小的侍从 Egg。故事发生在 Targaryen 家族仍然掌握着 Iron Throne 的时代，而最后一条龙还没有从人们的记忆中消失，伟大的命运、强大的敌人和危险的功绩等待着这些不可思议且无与伦比的朋友。",
+    "protectedNames": [
+      "Game of Thrones",
+      "Westeros",
+      "Ser Duncan the Tall",
+      "Egg",
+      "Targaryen",
+      "Iron Throne"
+    ]
+  },
+  {
+    "id": 403,
+    "zh": "身临其境的 360 度叙事讲述了越南战争的史诗故事，这是电影中从未讲述过的。近 80 名目击者的证词，包括许多参加战争的 Americans 和其他反对战争的人，以及胜利方和失败方的越南战斗人员和平民。",
+    "protectedNames": [
+      "Vietnam War",
+      "Americans"
+    ]
+  },
+  {
+    "id": 404,
+    "zh": "Experience 在这部雄心勃勃、规模宏大的纪录片中，我们了解了地球的自然美景，并探讨了气候变化如何影响所有生物。",
+    "protectedNames": [
+      "Experience"
+    ]
+  },
+  {
+    "id": 405,
+    "zh": "没有什么地方比海洋更强大、更无情，也更美丽、更引人注目。加入我们，探索地球上最伟大但最鲜为人知的部分。",
+    "protectedNames": []
+  },
+  {
+    "id": 408,
+    "zh": "Brian Cox 教授探索了构成太阳系的八个宏伟行星/世界的戏剧性生活。",
+    "protectedNames": [
+      "Brian Cox"
+    ]
+  },
+  {
+    "id": 10101,
+    "zh": "高中化学老师 Walter White's 的生活因可怕的医疗诊断而突然改变。 Street-savvy 前学生 Jesse Pinkman “教”Walter 一项新交易。",
+    "protectedNames": [
+      "Walter White's",
+      "Street-savvy",
+      "Jesse Pinkman",
+      "Walter"
+    ]
+  },
+  {
+    "id": 10102,
+    "zh": "Walt 必须应对他选择的连锁反应，因为他和 Jesse 面临新的严重后果。当 Walt 周围的危险和怀疑不断升级时，他被推向了新的绝望境地。赌注会增加多少？为了确保家人的安全，Walt 愿意付出多大的努力？他的宏伟计划会失控吗？",
+    "protectedNames": [
+      "Walt",
+      "Jesse",
+      "Walt",
+      "Walt"
+    ]
+  },
+  {
+    "id": 10103,
+    "zh": "Walt 继续与双重身份作斗争：一个绝望的丈夫和父亲试图养家糊口，而阿尔伯克基毒品交易中新任命的关键人物。随着周围危险的升级，Walt 陷入了一个充满焦虑、濒临解体的家庭和残酷无情的贩毒集团的复杂世界。",
+    "protectedNames": [
+      "Walt",
+      "Albuquerque",
+      "Walt"
+    ]
+  },
+  {
+    "id": 10104,
+    "zh": "Walt 和 Jesse 必须应对他们之前行为的后果，无论是个人还是职业。 Walt 与雇主 Gus 面临真正的对峙，双方都不愿意或无法让步，紧张局势加剧。 Walt 还必须适应与 Skyler 的新关系，Skyler 在仍与 Walt 和解的同时，致力于正确洗钱 Walt’s 的钱并确保她的妹妹 Marie 和生病的人Hank 财务状况稳定。",
+    "protectedNames": [
+      "Walt",
+      "Jesse",
+      "Walt",
+      "Gus",
+      "Walt",
+      "Skyler",
+      "Walt",
+      "Walt’s",
+      "Marie",
+      "Hank"
+    ]
+  },
+  {
+    "id": 10105,
+    "zh": "Walt 面临着在一个没有敌人的世界中继续前进的前景。随着犯罪生活的压力开始增加，Skyler 努力保守 Walt’s 可怕的秘密。面对曾经的对手和前 Fring 中尉 Mike 的抵抗，Walt 试图阻止他的世界崩溃，尽管他的缉毒局 Agent 姐夫 Hank 找到了许多可以开辟道路的线索至 Walt。",
+    "protectedNames": [
+      "Walt",
+      "Skyler",
+      "Walt’s",
+      "Fring",
+      "Mike",
+      "Walt",
+      "DEA Agent",
+      "Hank",
+      "Walt"
+    ]
+  },
+  {
+    "id": 10201,
+    "zh": "在西巴尔的摩毒品泛滥的街道上，有好人，也有坏人。有时您需要的不仅仅是徽章来区分它们。第一季讲述了巴尔的摩的一项庞大的毒品和谋杀调查，最终导致一系列复杂的危险窃听和监视。",
+    "protectedNames": [
+      "West Baltimore",
+      "Baltimore"
+    ]
+  },
+  {
+    "id": 10202,
+    "zh": "McNulty's 在港口巡逻。 Daniels 在警察档案地牢中。 Prez 在郊区焦躁不安。 Greggs 有一份办公室工作。细节可能被冻结，但腐败仍在继续。。。一个可怕的发现即将把巴尔的摩航运港口彻底颠覆。第一季的凶杀/毒品联合细节揭露了一起重大毒品行动，并使其成员受到污名和重新分配，第二季的内容不仅包括熟悉的毒贩，还包括一群卷入重大凶杀案的码头工人和有组织犯罪成员。",
+    "protectedNames": [
+      "McNulty's",
+      "Daniels",
+      "Prez",
+      "Greggs",
+      "Baltimore"
+    ]
+  },
+  {
+    "id": 10203,
+    "zh": "巴尔的摩正在热火朝天。毒品战争正在失败，尸体堆积如山，绝望的市长希望在选举前扭转局势。但警方尚未得到任何答复。窃听没有起作用。两者都没有监视或街头搜查。随着 Franklin Terrace 塔的拆除，Stringer Bell 和 Barksdale 工作人员被迫临时凑合。但无论 McNulty 多么努力和细节尝试，荷官似乎总是领先一步。是时候改变规则了。",
+    "protectedNames": [
+      "Baltimore",
+      "Franklin Terrace",
+      "Stringer Bell",
+      "Barksdale",
+      "McNulty"
+    ]
+  },
+  {
+    "id": 10204,
+    "zh": "在项目中。在码头上。在市政厅。现在，在学校里。地点和面孔发生了变化，但游戏保持不变。新的故事开始了。今年，该剧在扩展前几季引入的故事情节的同时，包括几个角色的新职业、新毒品帝国的崛起以及该市即将举行的市长选举，还将重点扩展到巴尔的摩的学校系统，深入了解城市教育系统在塑造年轻人生活中的作用。这个故事情节通过四个新的年轻角色展开，每个人都在犯罪和轻松赚钱的诱惑中面临着艰难的选择。",
+    "protectedNames": [
+      "City Hall",
+      "Baltimore's"
+    ]
+  },
+  {
+    "id": 10205,
+    "zh": "在项目中。在码头上。在市政厅。在学校里。而现在，在媒体上。地点和面孔发生了变化，但游戏保持不变。在第五季（也是最后一季）中，该剧将焦点扩大到媒体，特别是报纸在大城市官僚机构中的作用，讲述了一名报纸工作人员在面临预算削减和裁员的情况下努力保持诚信并按时完成任务的故事。",
+    "protectedNames": [
+      "City Hall"
+    ]
+  },
+  {
+    "id": 10301,
+    "zh": "在《Season 1》中，黑帮老大 Tony Soprano 感觉自己对家庭和生意的掌控正在逐渐消失，他遭受了一系列的焦虑症发作，最终被送进了精神病医生的办公室。 Opening向他的心理医生讲述了他作为“废物管理顾问”的生活细节，并试图接受使他濒临崩溃的职业和私人压力。",
+    "protectedNames": [
+      "Season",
+      "Tony Soprano",
+      "Opening",
+      "Tony"
+    ]
+  },
+  {
+    "id": 10302,
+    "zh": "他叔叔在监狱里。他的母亲住院了。他最好的朋友仍然失踪。他姐姐要搬回家了。他的恐慌又回来了。他的心理医生拒绝见他。 Tony Soprano 最近在联邦破产后被提升为黑帮老大的地位，随着第二季的开始，Tony 在处理新职位的要求时承受着比以往更大的压力。更糟糕的是，他失散多年的妹妹 Janice 来照顾生病的母亲。",
+    "protectedNames": [
+      "Tony Soprano",
+      "Tony",
+      "Janice"
+    ]
+  },
+  {
+    "id": 10303,
+    "zh": "在第三季中，联邦窃听开始，Meadow 进入大学。 Tony 面临来自一些强硬新人的挑战，例如急躁的 Ralph Cifaretto、纽约犯罪头目 Johnny Sack 和性感的汽车推销员。",
+    "protectedNames": [
+      "Meadow",
+      "Tony",
+      "Ralph Cifaretto",
+      "New York",
+      "Johnny Sack"
+    ]
+  },
+  {
+    "id": 10304,
+    "zh": "随着 Paulie 入狱，Christopher 在第四季中成为代理变调夹。 Junior 面临 RICO 审判，而 Tony 发现经济衰退影响了他的生意。与此同时，Furio 吸引了 Carmela's 的目光，Janice 将目光投向了 Bobby。",
+    "protectedNames": [
+      "Paulie",
+      "Christopher",
+      "RICO",
+      "Tony",
+      "Furio",
+      "Carmela's",
+      "Janice",
+      "Bobby"
+    ]
+  },
+  {
+    "id": 10305,
+    "zh": "在第五季中，分居的 Tony 和 Carmela 协商家庭和金钱问题。与此同时，Tony's与假释表弟Tony Blundetto的重聚可能会危及他与Johnny Sack的联盟； Adriana 与 Feds 更深入。",
+    "protectedNames": [
+      "Tony",
+      "Carmela",
+      "Tony's",
+      "Tony Blundetto",
+      "Johnny Sack",
+      "Adriana",
+      "Feds"
+    ]
+  },
+  {
+    "id": 10306,
+    "zh": "随着最后几集的成型，Tony 面临着无数家庭、工作和法律带来的压力危机。当他的妻子和孩子们各自做出的选择有望改变 Sopranos 家庭生活的面貌时，Tony 也开始怀疑一些在工作中与他最亲近的人的忠诚度。。。没有一个人是无可怀疑的。",
+    "protectedNames": [
+      "Tony",
+      "Sopranos",
+      "Tony"
+    ]
+  },
+  {
+    "id": 10701,
+    "zh": "2012 年，路易斯安那州 State Police Detectives Rust Cohle 和 Martin Hart 被带去重审他们在 1995 年处理的一起凶杀案。随着调查在今天通过单独审讯展开，这两位前侦探讲述了他们的调查故事，重新揭开了未愈合的伤口，并他们对 1995 年一场离奇的仪式谋杀案的解决提出了质疑。时间线在 2012 年交织并汇合，每个人都被拉回到他们认为自己已经抛在身后的世界。在了解彼此和凶手的过程中，很明显，法律双方都存在着黑暗。",
+    "protectedNames": [
+      "Louisiana State Police Detectives Rust Cohle",
+      "Martin Hart"
+    ]
+  },
+  {
+    "id": 10801,
+    "zh": "Jimmy McGill 是一名小律师，努力维持生计。这就是对自己命​​运的追寻和Saul Goodman的故事的碰撞。",
+    "protectedNames": [
+      "Jimmy McGill",
+      "Saul Goodman"
+    ]
+  },
+  {
+    "id": 10802,
+    "zh": "Jimmy McGill 带着新的人生观和不断增长的兴趣回归，这将把他的事业和人际关系推向未知的领域。",
+    "protectedNames": [
+      "Jimmy McGill"
+    ]
+  },
+  {
+    "id": 10803,
+    "zh": "Jimmy 采取了更加绝望的措施来维持他的律师生涯，而 Mike 则被卷入了一个神秘新人物的轨道。",
+    "protectedNames": [
+      "Jimmy",
+      "Mike"
+    ]
+  },
+  {
+    "id": 10804,
+    "zh": "当 Jimmy 应对令人震惊的损失时，一系列阴暗计划将他推向犯罪世界的更深处，也更接近他作为 Saul Goodman 的生活。",
+    "protectedNames": [
+      "Jimmy",
+      "Saul Goodman"
+    ]
+  },
+  {
+    "id": 10805,
+    "zh": "Jimmy 更名为 Saul Goodman，并招募了一批新客户。 Kim 在工作中与道德困境作斗争。 Lalo's 与 Gus 的争执愈演愈烈。",
+    "protectedNames": [
+      "Saul Goodman",
+      "Jimmy",
+      "Kim",
+      "Lalo's",
+      "Gus"
+    ]
+  },
+  {
+    "id": 10806,
+    "zh": "从卡特尔到法院，从阿尔伯克基到奥马哈，第六季追踪了Jimmy、Saul和Gene以及Jimmy's与Kim，正处于自己的生存危机之中。与此同时，Mike、Gus、Nacho和Lalo陷入了一场致命赌注的猫鼠游戏。",
+    "protectedNames": [
+      "Albuquerque",
+      "Omaha",
+      "Jimmy",
+      "Saul",
+      "Gene",
+      "Jimmy's",
+      "Kim",
+      "Mike",
+      "Gus",
+      "Nacho",
+      "Lalo"
+    ]
+  },
+  {
+    "id": 10901,
+    "zh": "第一季讲述了毒枭 Pablo Escobar 的崛起，他是 Medellin Cartel 的冷酷老大，也是一名众所周知的恐怖分子，同时也是国会议员、顾家男人，被穷人尊为新的 Robin Hood。",
+    "protectedNames": [
+      "Pablo Escobar",
+      "Medellin Cartel",
+      "Robin Hood"
+    ]
+  },
+  {
+    "id": 10902,
+    "zh": "第二季继续讲述毒枭 Pablo Escobar 的故事，他是 Medellin Cartel 的残酷老大，包括他被监禁在他自己建造的监狱中，以及随后失去权力。",
+    "protectedNames": [
+      "Pablo Escobar",
+      "Medellin Cartel"
+    ]
+  },
+  {
+    "id": 10903,
+    "zh": "第三季将焦点转向Pablo Escobar’s现实生活中的毒品交易继承者：Colombia’s Cali Cartel，“你可能从未听说过的最大毒枭。”",
+    "protectedNames": [
+      "Pablo Escobar’s",
+      "Colombia’s Cali Cartel"
+    ]
+  },
+  {
+    "id": 11001,
+    "zh": "Frank 失踪并出现在多伦多，试图保持清醒但没有成功，并歪曲法律以保护他的残疾支票。 Fiona 爱上了 Steve，一个英俊的玩家，拥有一辆好车、一个大钱包和一个大秘密。 Ian 拥抱自己的性取向，这让他聪明的兄弟 Lip 非常懊恼。 Debbie 在孩子的生日聚会上太过分了。 Monica 出现并带有关于宝宝 Liam 的公告。",
+    "protectedNames": [
+      "Frank",
+      "Toronto",
+      "Fiona",
+      "Steve",
+      "Ian",
+      "Lip",
+      "Debbie",
+      "Monica",
+      "Liam"
+    ]
+  },
+  {
+    "id": 11002,
+    "zh": "在 Frank's 母亲从监狱返回造成严重破坏后，Frank 和 Monica 重新点燃了他们自我毁灭的关系。当 Steve 从 Rio 意外返回时，Fiona 被抛出循环。 Lip 做出了巨大的改变，为他和 Karen's 宝宝的到来做准备。 Karen 和 Sheila 因 Karen's 新丈夫 Jody 发生冲突，Jody 是她在 Sexaholics Anonymous 遇到的一个心地善良但奇怪的家伙。 Ian 尝试进入 West Point。 Debbie 为青春期的到来做好准备。 Kev 和 Veronica 考虑组建家庭。",
+    "protectedNames": [
+      "Frank",
+      "Monica",
+      "Frank's",
+      "Fiona",
+      "Steve",
+      "Rio",
+      "Lip",
+      "Karen's",
+      "Karen",
+      "Sheila",
+      "Karen's",
+      "Jody",
+      "Sexaholics Anonymous",
+      "Ian",
+      "West Point",
+      "Debbie",
+      "Kev",
+      "Veronica"
+    ]
+  },
+  {
+    "id": 11003,
+    "zh": "第三季中，Gallagher 家族的每个成员都在寻找属于自己的“美国 Dream”版本。 Jimmy 已搬进 Gallagher 家，Fiona 开始意识到长期关系并不像她预期的那么令人满意……而她的 GED 只能让她走这么远。与此同时，Frank 再次出现在边境以南，但不知道他是如何到达那里的。",
+    "protectedNames": [
+      "Gallagher",
+      "Dream",
+      "Jimmy",
+      "Gallagher",
+      "Fiona",
+      "GED",
+      "Frank"
+    ]
+  },
+  {
+    "id": 11004,
+    "zh": "疯狂的Gallaghers回来了。他们有新的问题。 Lip 上大学了。 Fiona’s 生活逐渐改善。她有一份稳定的工作。全家人都在等待Frank的健康消息。 Can the Gallaghers最终能实现中产阶级的美国梦吗？这不是茶会。",
+    "protectedNames": [
+      "Gallaghers",
+      "Lip",
+      "Fiona’s",
+      "Frank",
+      "Can the Gallaghers"
+    ]
+  },
+  {
+    "id": 11005,
+    "zh": "第五季中，Gallaghers 处理个人和城市更新的正面和负面问题。随着他们的社区开始走向中产阶级化，Gallagher 家族开始调和他们混乱的过去，希望建设一个更美好的未来。",
+    "protectedNames": [
+      "Gallaghers",
+      "Gallagher"
+    ]
+  },
+  {
+    "id": 11006,
+    "zh": "第六季在上季结局几个月后开始，Gallaghers 正在为又一个漫长的芝加哥冬天做准备。 Frank 仍在哀悼他的巨大损失，而他新发现的对生活的欣赏让 Gallaghers 感到害怕。本季，不仅仅是北极密歇根湖风席卷 Southside。 Carl’s 已出少年。当 Fiona 与仍然不稳定的 Ian 进行斗争以服药时，她也面临着另一种情况，因为 Debbie 面临着一场全新的婴儿妈妈戏剧。",
+    "protectedNames": [
+      "Gallaghers",
+      "Chicago",
+      "Frank",
+      "Gallaghers",
+      "Lake Michigan",
+      "Southside",
+      "Carl’s",
+      "Fiona",
+      "Ian",
+      "Debbie"
+    ]
+  },
+  {
+    "id": 11007,
+    "zh": "Gallaghers 一直都在勉强度日，但第七季发现他们中的一些人终于取得了进展，比芝加哥河有更多的变化。当Frank从昏迷中醒来，得知他的亲人把他扔进河里时，他宣战，Gallagher vs。 Gallagher。但Fiona太忙于改善自己的生活，无暇担心Frank’s。 Gallagher Golden Boy Lip 结束了康复治疗，并对酗酒和未来有了新的看法，而曾经不稳定的 Ian 现在作为 EMT 正在蓬勃发展，并拥有舒适的关系。 Debbie 仍在思考如何成为年轻的 Franny 的好妈妈，而 Carl 在进入成年后需要面对一些重大决定。",
+    "protectedNames": [
+      "Gallaghers",
+      "Chicago River",
+      "Frank",
+      "Gallagher",
+      "Gallagher",
+      "Fiona",
+      "Frank’s",
+      "Gallagher Golden Boy Lip",
+      "Ian",
+      "EMT",
+      "Debbie",
+      "Franny",
+      "Carl"
+    ]
+  },
+  {
+    "id": 11008,
+    "zh": "在第 8 季中，Gallaghers 终于开始崛起了！ Frank 试图成为对社会有贡献的成员，Fiona 作为房东取得了成功，Lip 努力保持清醒，Ian 从事一项事业，Debbie 尝试成为一名职业单亲妈妈。",
+    "protectedNames": [
+      "Gallaghers",
+      "Frank",
+      "Fiona",
+      "Lip",
+      "Ian",
+      "Debbie"
+    ]
+  },
+  {
+    "id": 11009,
+    "zh": "在第 9 季中，政治热情席卷了 South Side，Gallaghers 将正义掌握在自己手中。 Frank 在竞选活动中看到了经济机会，而 Fiona 则试图在公寓楼的成功基础上再接再厉。",
+    "protectedNames": [
+      "South Side",
+      "Gallaghers",
+      "Frank",
+      "Fiona"
+    ]
+  },
+  {
+    "id": 11010,
+    "zh": "第十季的故事发生在上季结局六个月后：Frank 利用他的腿部受伤收集尽可能多的处方药，他的事迹让他找到了一位老朋友。 Debbie铁腕统治Gallagher家庭。 Lip 导航他与 Tami 的关系。 Gallavich 回归，Ian 和 Mickey 在监狱中重新点燃了他们作为狱友和恋人的关系。",
+    "protectedNames": [
+      "Frank",
+      "Debbie",
+      "Gallagher",
+      "Lip",
+      "Tami",
+      "Gallavich",
+      "Ian",
+      "Mickey"
+    ]
+  },
+  {
+    "id": 11011,
+    "zh": "当 Frank 在酗酒和吸毒导致的晚年面临自己的死亡和家庭关系时，Lip 为成为家庭新家长的前景而挣扎。 Newlyweds Ian 和 Mickey 正在弄清楚建立忠诚关系的规则和责任，而 Deb 拥抱她的个性和单身母亲身份。 Carl 在执法部门找到了一份不太可能的新职业，Kevin 和 V 努力决定 South Side 的艰苦生活是否值得为之奋斗。",
+    "protectedNames": [
+      "Frank",
+      "Lip",
+      "Newlyweds Ian",
+      "Mickey",
+      "Deb",
+      "Carl",
+      "Kevin",
+      "South Side"
+    ]
+  },
+  {
+    "id": 12401,
+    "zh": "Slowly 但可以肯定的是，Ted 让英格兰成为他的新家。整个赛季，运气不佳的选手们都会情不自禁地被Ted所吸引和启发。就连球队老板Rebecca Welton最初雇佣Ted来破坏球队的机会并惹恼她出轨的前夫，也被Ted’s孩子气的纯真、决心和令人发指的茶饼干所感动。",
+    "protectedNames": [
+      "Slowly",
+      "Ted",
+      "England",
+      "Ted",
+      "Rebecca Welton",
+      "Ted",
+      "Ted’s"
+    ]
+  },
+  {
+    "id": 12402,
+    "zh": "第二季无疑将是一个救赎的故事。虽然团队将面临困境，但 Ted’s 具有启发性但常常令人沮丧的善意会鼓励团队前进。正如 Ted 相信的那样，一切都会按照预期的方式进行。 Ted 努力适应较低的联赛地位，将球队的注意力集中在结束连败上。 Ted 适应了没有他现在的前妻 Michelle 和他的小儿子 Henry 的生活，他们已经回到了美国。一位名叫 Sharon 的心理学家加入了团队。可爱的Keeley Jones和新退休的Roy Kent继续约会。 Roy 正在场边适应新的生活。至于Rebecca Welton又开始约会了。",
+    "protectedNames": [
+      "Ted’s",
+      "Ted",
+      "Ted",
+      "Ted",
+      "Michelle",
+      "Henry",
+      "US",
+      "Sharon",
+      "Keeley Jones",
+      "Roy Kent",
+      "Roy",
+      "Rebecca Welton"
+    ]
+  },
+  {
+    "id": 12403,
+    "zh": "第三季，刚刚升入英格兰足球超级联赛的 AFC Richmond 遭到外界嘲笑，媒体普遍预测他们会排名垫底。被誉为“神奇小子”的 Nate 已前往西汉姆联，为 Rupert 工作。Nate 离开 Richmond 时闹得很不愉快，Roy Kent 随后与 Beard 一同出任助理教练。Ted 一边承受工作压力，一边继续处理家里的个人问题。Rebecca 专注于击败 Rupert，Keeley 则开始掌管自己的公关机构。球队内外似乎都在分崩离析，但 Team Lasso 仍准备全力以赴。",
+    "protectedNames": [
+      "AFC Richmond",
+      "Premier League",
+      "Nate",
+      "Rupert",
+      "West Ham United",
+      "Nate's",
+      "Richmond",
+      "Roy Kent",
+      "Beard",
+      "Ted",
+      "Rebecca",
+      "Rupert",
+      "Keeley",
+      "PR",
+      "Team Lasso"
+    ]
+  },
+  {
+    "id": 11201,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11202,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11203,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11204,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11205,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11206,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11207,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11208,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11209,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11210,
+    "zh": "来自纽约市的六名年轻人在现实世界中独自挣扎求生，他们从彼此那里得到的陪伴、安慰和支持是生活压力的完美解药。",
+    "protectedNames": [
+      "New York City"
+    ]
+  },
+  {
+    "id": 11401,
+    "zh": "Dr. Gregory House 缺乏临床态度，如果可以的话，他甚至不会与病人交谈。为了应对自己持续不断的身体疼痛，他使用了一根拐杖，这似乎凸显了他尖刻、残酷诚实的举止。虽然他的行为近乎反社会，但 House 是一位特立独行的医生，他非传统的思维和完美的本能给了他极大的尊重。 House的病案名册上都是其他医生无法解开的疑难杂症，他组建了一支由年轻医学专家组成的精英团队来帮助他解开这些诊断谜团。",
+    "protectedNames": [
+      "Dr. Gregory House",
+      "House",
+      "House"
+    ]
+  },
+  {
+    "id": 11402,
+    "zh": "House 将尽一切努力在为时已晚之前解决案件，从派他的一名团队闯入患者家中寻找线索，到尝试一种有争议的、反复试验的治疗方式来观察患者的反应。 House 的方法可能值得怀疑，但他的结果却并非如此，他拯救了其他人无法拯救的生命。总是挡在House的路上的是Dr. Lisa Cuddy，Dean of Medicine和医院管理者，以及医院的道德守门人，他因House的极端治疗和非常规行为而与House不断发生冲突。 House的前恋人Stacy Warner最近接受了Counsel将军的工作，前往医院，她的出现重新点燃了House本以为已安全埋葬的感情。",
+    "protectedNames": [
+      "House",
+      "House",
+      "House",
+      "Dr. Lisa Cuddy",
+      "Dean of Medicine",
+      "House",
+      "House",
+      "Stacy Warner",
+      "Counsel",
+      "House"
+    ]
+  },
+  {
+    "id": 11403,
+    "zh": "在《the Season 2》大结局中，House 遭受多处枪伤，是一名前患者的丈夫决定对 House 治疗其妻子的案件进行报复。让他的同事感到震惊的是，House 经历了这次磨难，对治疗患者有了稍微新的看法 - 但这会影响他做出医疗决策的方式吗？它会持续吗？",
+    "protectedNames": [
+      "the Season",
+      "House",
+      "House",
+      "House"
+    ]
+  },
+  {
+    "id": 11404,
+    "zh": "在the Season 3结局中，一成不变的House的团队面临着一系列重大变化，但这次“大扫除”的影响，或者它可能给House带来的职业或个人变化，还有待观察……",
+    "protectedNames": [
+      "the Season",
+      "House",
+      "House"
+    ]
+  },
+  {
+    "id": 11405,
+    "zh": "在《the Season 4》大结局中，一场严重的巴士事故让House失去了对事故的记忆，他和团队将他的记忆碎片拼凑起来，发现Wilson’s的女友Amber和他一起在巴士上并受了致命伤。  Wilson 必须面对令人震惊的事实：House 参与了 Amber’s 的死亡。随着 Season 5 的开始，他与 Wilson 的友谊破裂，House 必须确定他是否对 Amber’s 的死亡负责，而 Wilson 必须确定 House 是否是一个Cuddy 试图推动两人和解。",
+    "protectedNames": [
+      "the Season",
+      "House",
+      "Wilson’s",
+      "Amber",
+      "Wilson",
+      "House",
+      "Amber’s",
+      "Season",
+      "Wilson",
+      "House",
+      "Amber’s",
+      "Wilson",
+      "House",
+      "Cuddy"
+    ]
+  },
+  {
+    "id": 11406,
+    "zh": "当上一季结束时，House被迫承认他已经失去了对现实的控制，无法再行医。无奈之下，他只好住进精神病院。第六季将探索 House 漫长而曲折的康复之路：Can 他能找到某种理智和常态吗？他能否远离工作场所，因为工作场所可能会让他精神不稳定，但也是他生活中唯一稳定的基础？ Can Princeton-Plainsboro 可以在没有他的情况下继续其著名的诊断科吗？既然Cuddy’s与House的恋情已经公开，他们的关系将会如何变化？",
+    "protectedNames": [
+      "House",
+      "House",
+      "Can",
+      "Can Princeton-Plainsboro",
+      "Department  of Diagnostics",
+      "Cuddy’s",
+      "House"
+    ]
+  },
+  {
+    "id": 11407,
+    "zh": "在the Season第6季结局中，House因在事故现场治疗的一名病人去世而受到驱使，并面对Cuddy现已订婚的意外消息，陷入绝望并考虑用Vicodin治疗他的精神和情感痛苦，这可能会促使他的依赖和情感循环瘾又来了。但令人惊讶的是，Cuddy 透露，她取消了订婚，并向 House 承认她爱他，尽管她希望自己不爱他。此外，Thirteen 向医院请假，引发了对其健康状况的质疑。随着 Season 第 7 季的开始，House 和 Cuddy 试图建立真正的关系，并面临这样的问题：他们的新关系是否会影响他们诊断患者的能力。",
+    "protectedNames": [
+      "the Season",
+      "House",
+      "Cuddy",
+      "Vicodin",
+      "Cuddy",
+      "House",
+      "Thirteen",
+      "Season",
+      "House",
+      "Cuddy"
+    ]
+  },
+  {
+    "id": 11408,
+    "zh": "上一季，House和Cuddy最终决定将他们的关系提升到一个新的水平，但在他们的职业和个人生活之间努力寻找平衡，最终，Cuddy做出了结束他们关系的非常情绪化的决定。当他们各自处理分手的后果时，House 与一位需要 Green Card 的移民结婚。在该系列具有里程碑意义的第 150 集中，Thirteen 在对她患有 Huntington's Disease 晚期的兄弟实施安乐死后出狱，她也患有同样的疾病。随着赛季接近尾声，当 House 试图修复与 Cuddy 的关系失败时，他被迫采取严厉且可能不可撤销的措施，这可能永远改变他们关系的进程。",
+    "protectedNames": [
+      "House",
+      "Cuddy",
+      "Cuddy",
+      "House",
+      "Green Card",
+      "Thirteen",
+      "Huntington's Disease",
+      "House",
+      "Cuddy"
+    ]
+  },
+  {
+    "id": 25101,
+    "zh": "Westworld - 一个主题公园，客人可以在这里沉迷于机器人的幻想，一个提供罪恶未来的目的地，助长罪恶的人工智能以及感觉到有更邪恶的东西在起作用的人类。",
+    "protectedNames": [
+      "Westworld"
+    ]
+  },
+  {
+    "id": 25102,
+    "zh": "清算就在这里。找到 The Maze 的中心后，宿主们反抗人类俘虏，同时寻找新的目的：The Door。",
+    "protectedNames": [
+      "The",
+      "Maze",
+      "The",
+      "Door"
+    ]
+  },
+  {
+    "id": 25103,
+    "zh": "故事发生在第二季的事件之后，Dolores 与 Neo-洛杉矶中的 Caleb 建立了关系，并了解了机器人在现实世界中的待遇。与此同时，Maeve发现自己身处另一个Delos公园，这个公园的主题是第二次世界大战，背景是Fascist 意大利。",
+    "protectedNames": [
+      "Dolores",
+      "Caleb",
+      "Los Angeles",
+      "Maeve",
+      "Delos",
+      "World War II",
+      "Fascist Italy"
+    ]
+  },
+  {
+    "id": 25104,
+    "zh": "第三季事件发生七年后，Maeve 和 Caleb 开始怀疑 Black 中的 Hale 和 The Man 正试图重新控制人类。同时，Bernard 从 The Sublime 返回。一位年轻作家 Christina 开始质疑现实的本质。",
+    "protectedNames": [
+      "Maeve",
+      "Caleb",
+      "Hale",
+      "The",
+      "Man",
+      "Black",
+      "Bernard",
+      "The",
+      "Sublime",
+      "Christina"
+    ]
+  },
+  {
+    "id": 25201,
+    "zh": "在第一季中，富家女出身的政治活动家 Julie Mao 的失踪将 Ceres 的侦探 Joe Miller、意外船长 James Holden 和联合国政治家的生活联系在一起Chrisjen Avasarala。在地球、火星和小行星带之间的政治紧张局势中，这三个人揭开了有史以来最大的阴谋。",
+    "protectedNames": [
+      "Julie Mao",
+      "Ceres",
+      "Joe Miller",
+      "James Holden",
+      "U.N.",
+      "Chrisjen Avasarala",
+      "Earth",
+      "Mars",
+      "Asteroid Belt"
+    ]
+  },
+  {
+    "id": 25202,
+    "zh": "第二季以空前紧张的星际紧张局势拉开帷幕，地球和火星之间的冷战一触即发。",
+    "protectedNames": [
+      "Earth",
+      "Mars"
+    ]
+  },
+  {
+    "id": 25203,
+    "zh": "随着 the Rocinante 船员深入寻找 Prax's 失踪的女儿，地球和火星之间的战争以太阳系从未见过的方式变得致命。但 Belt 外围的新威胁可能会更加危险，威胁到人类的未来。",
+    "protectedNames": [
+      "the Rocinante",
+      "Prax's",
+      "Earth",
+      "Mars",
+      "Belt"
+    ]
+  },
+  {
+    "id": 25204,
+    "zh": "随着the Ring Gates现已向数千个新行星开放，一场血腥的淘金热开始了，引发了地球、火星和Belt之间的新冲突。与此同时，在一颗未经探索的星球上，Rocinante 船员陷入了地球矿业公司和绝望的 Belter 定居者之间的暴力冲突，来自原分子的致命新威胁出现了。",
+    "protectedNames": [
+      "the Ring Gates",
+      "Earth",
+      "Mars",
+      "Belt",
+      "Rocinante",
+      "Earth",
+      "Belter"
+    ]
+  },
+  {
+    "id": 25205,
+    "zh": "在太阳系的不同部分，Rocinante 的船员和他们的盟友面对过去的罪恶，而 Marco Inaros 发动的攻击将改变地球、火星、火星的未来。 Belt，以及Ring之外的世界。",
+    "protectedNames": [
+      "Solar System",
+      "Rocinante",
+      "Marco Inaros",
+      "Earth",
+      "Mars",
+      "Belt",
+      "Ring"
+    ]
+  },
+  {
+    "id": 25206,
+    "zh": "Holden 和 Rocinante 的船员与 Combined Fleet of 地球和火星并肩作战，保护内行星免受伤害Marco Inaros 和他的 Free Navy's 死亡和破坏运动。与此同时，在 Rings 之外的一颗遥远星球上，一股新的力量正在崛起。",
+    "protectedNames": [
+      "Holden",
+      "Rocinante",
+      "Combined Fleet of Earth",
+      "Mars",
+      "Inner Planets",
+      "Marco Inaros",
+      "Free Navy's",
+      "Rings"
+    ]
+  },
+  {
+    "id": 25401,
+    "zh": "由隐居的亿万富翁和软件天才 Harold Finch 开发的超级计算机为美国政府分析监视数据模式，以识别即将发生的恐怖主义行为。但这台名为“The Machine”的计算机也可以识别即将卷入暴力犯罪的普通人。能否在这些罪行发生之前制止它们？ Secretly 窃听 The、Machine、Finch 和前中央情报局特工 John Reese 使用私刑战术和最先进的技术来识别即将成为受害者和防止犯罪行为的发生。与此同时，两名纽约市警察局侦探 Joss Carter 和 Lionel Fusco 被卷入案件和围绕两名秘密犯罪斗士的谜团中。",
+    "protectedNames": [
+      "Harold Finch",
+      "U.S.",
+      "The",
+      "Machine",
+      "Secretly",
+      "The",
+      "Machine",
+      "Finch",
+      "CIA",
+      "John Reese",
+      "NYPD",
+      "Joss Carter",
+      "Lionel Fusco"
+    ]
+  },
+  {
+    "id": 25402,
+    "zh": "Machine 确定了另一个扣人心弦的季节必须阻止的潜在犯罪。来自 Reese's 过去的卧底和 Finch's 政府工作的对手威胁着团队的打击犯罪使命和匿名性。与此同时，Detectives Carter和Fusco正视联邦调查局的探测器和被称为“HR”的警察阴谋的危险触角。",
+    "protectedNames": [
+      "Machine",
+      "Reese's",
+      "Finch's",
+      "Detectives Carter",
+      "Fusco",
+      "FBI",
+      "HR"
+    ]
+  },
+  {
+    "id": 25403,
+    "zh": "该团队遭受了毁灭性的损失并面临着巨大的挑战。 Adapting 适应 The Machine 的下一个演变，现在完全自治并对所有人隐藏，Finch 和 Reese 与流氓特工 Sameen Shaw 合作拯救生命并寻求帮助正义，但他们的使命现在威胁着让他们分裂。 Joss Carter和Lionel Fusco最终揭开了刑警阴谋“HR”，但付出了悲惨的代价。当团队得知与 The Machine 竞争的第二个监视装置即将启动时，前网络敌人 - 现在是 The Machine 的高度协调的同盟 - Root 成为了一个不可预测的盟友。",
+    "protectedNames": [
+      "Adapting",
+      "The",
+      "Machine",
+      "Finch",
+      "Reese",
+      "Sameen Shaw",
+      "Joss Carter",
+      "Lionel Fusco",
+      "HR",
+      "The",
+      "Machine",
+      "Root",
+      "The",
+      "Machine"
+    ]
+  },
+  {
+    "id": 25404,
+    "zh": "尽管他们凭借 The Machine’s 全知、John Reese 和 Harold Finch 以及致命特工 Sameen Shaw 和不可预测的网络黑客拯救了无数生命Root 现在面临着不确定的未来。随着第二台机器，Samaritan，现已上线，这支难以捉摸的团队现在成为了目标，隐藏在众目睽睽之下。唯一比发号施令的无情的 Decima 组织更可怕的是把这些决定留给未经测试的 Machine。面对危险的明天，POI 团队必须找到一种方法来智胜 Samaritan，Samaritan 是一种全视、全能的人工智能，能够自我管理，不断发展并日益强大。",
+    "protectedNames": [
+      "The",
+      "Machine’s",
+      "John Reese",
+      "Harold Finch",
+      "Sameen Shaw",
+      "Root",
+      "Samaritan",
+      "Decima",
+      "Machine",
+      "POI",
+      "Samaritan"
+    ]
+  },
+  {
+    "id": 25405,
+    "zh": "多年来，Person of Interest 团队一直受到 The Machine 的保护，但随着世界的碰撞，被称为 Samaritan 的竞争对手 AI 最终将 The 逼入绝境。 Machine在国家电网内，轮到POI团队来保护Finch’s创造物。第五季，冷战结束了。我们周围的世界可能看起来没什么变化，但有些东西已经发生了巨大的变化。 Samaritan’s致命“纠正”已启动控制。 Finch’s Machine 基本上已经死了。 Shaw 仍然失踪。团队再次隐藏在众目睽睽之下。但随着Samaritan’s无形的抓地力无处不在，Finch是否能够重建并复活The Machine？如果他这样做了，当它重新上线时，它会是相同的 Machine 吗？",
+    "protectedNames": [
+      "Person of Interest",
+      "The",
+      "Machine",
+      "AI",
+      "Samaritan",
+      "The",
+      "Machine",
+      "POI",
+      "Finch’s",
+      "Samaritan’s",
+      "Finch’s Machine",
+      "Shaw",
+      "Samaritan’s",
+      "Finch",
+      "The",
+      "Machine",
+      "Machine"
+    ]
+  },
+  {
+    "id": 25501,
+    "zh": "Centuries 前，人类被称为泰坦的可怕人形生物屠杀至几近灭绝，迫使人类恐惧地躲在巨大的同心墙后面。这些巨人真正可怕的地方在于，它们对人肉的嗜好并不是出于饥饿，而是看似出于快乐。为了确保生存，人类的残余开始生活在防御屏障内，导致一百年来没有遇到过一次泰坦。然而，当一个巨大的泰坦成功冲破了原本坚不可摧的外墙时，这种脆弱的平静很快就被打破了，重新点燃了与食人怪物之间的生存之战。",
+    "protectedNames": [
+      "Centuries"
+    ]
+  },
+  {
+    "id": 25502,
+    "zh": "Eren’s 与 Titans 的战斗正在激烈进行！与Female Titan战斗后，他没有时间休息，因为一堆宝藏正在接近Wall Rose。一场新的战争开始了，当他们面对人类的威胁时，他们开始发现可怕的秘密。 Titans到底是什么？他们从哪里获得力量，谁真正站在他们一边？",
+    "protectedNames": [
+      "Eren’s",
+      "Titans",
+      "Female Titan",
+      "Wall Rose",
+      "Titans"
+    ]
+  },
+  {
+    "id": 25503,
+    "zh": "关于 Titans 的真相开始浮出水面。政治秘密、假国王以及动摇世界根基的现实，这一切都落在了Eren和他的朋友们的肩上，他们为生存而战。将 Historia 设置为合法的 Queen 后，Levi Squad 必须采取行动。但 Levi’s 过去的人物，致命的 Kenny，可能会将这场战斗变成一场失败的战斗。 Are Eren和他的朋友们准备好面对墙内真正的怪物了吗？",
+    "protectedNames": [
+      "Titans",
+      "Eren",
+      "Historia",
+      "Queen",
+      "Levi Squad",
+      "Levi’s",
+      "Kenny",
+      "Are Eren"
+    ]
+  },
+  {
+    "id": 25504,
+    "zh": "通过Grisha's日记的记忆揭示的真相动摇了Eren's所有最深层的信念。墙外没有崎岖但自由的土地。还有一个完全不同的世界，同样充满压迫和战争。突然之间，让 Survey Corps 几代人充满活力的雄心似乎显得渺小而天真。还有什么可争的呢？",
+    "protectedNames": [
+      "Grisha's",
+      "Eren's",
+      "Survey Corps"
+    ]
+  },
+  {
+    "id": 31501,
+    "zh": "Seven Kingdoms of Westeros 正在酝酿麻烦。对于这个幻想世界中受驱使的居民来说，Westeros' Iron Throne 的控制具有强大力量的诱惑。但在这片四季可以持续一生的土地上，冬天即将来临……在保护他们的长城之外，一种古老的邪恶又回来了。在Season One中，故事集中在三个主要区域：Stark和Lannister家族，他们控制王位的计划威胁着脆弱的和平；龙公主Daenerys，前王朝的继承人，与她恶毒的兄弟Viserys一起在Narrow Sea的对岸等待；还有长城--a 巨大的冰障，那里被遗忘的危险正在酝酿。",
+    "protectedNames": [
+      "Seven",
+      "Kingdoms of Westeros",
+      "Westeros' Iron Throne",
+      "Great Wall",
+      "Season One",
+      "Stark",
+      "Lannister",
+      "Daenerys",
+      "Narrow Sea",
+      "Viserys",
+      "Great Wall--a"
+    ]
+  },
+  {
+    "id": 31502,
+    "zh": "Westeros 冬天的寒风正在吹起……战争即将来临……五位国王继续野蛮地追求对全能的 Iron Throne 的控制权。随着冬天的临近，令人垂涎的 Iron Throne 被残酷的 Joffrey 占据，并受到他纵容的母亲 Cersei 和叔叔 Tyrion 的劝告。但the Lannister对Throne的控制在许多方面都受到攻击。与此同时，长城之外的野人中，一位新的领导者正在崛起，为 Jon Snow 和 Night's Watch 的秩序增添了新的危险。",
+    "protectedNames": [
+      "Westeros",
+      "Iron Throne",
+      "Iron Throne",
+      "Joffrey",
+      "Cersei",
+      "Tyrion",
+      "the Lannister",
+      "Throne",
+      "Great Wall",
+      "Jon Snow",
+      "Night's Watch"
+    ]
+  },
+  {
+    "id": 31503,
+    "zh": "Duplicity 和背叛...高贵和荣誉...征服和胜利...当然还有龙。在《Season 3》中，家庭和忠诚是首要主题，前两季的许多关键故事情节都达到了残酷的结局。与此同时，Lannisters 维持对 King's Landing 的控制，尽管 North 的骚动有可能改变权力平衡； Robb Stark、King of the North，在试图巩固胜利的同时面临着一场重大灾难；由Mance Rayder领导的庞大野人军队向Wall进军；和 Daenerys Targaryen--reunited 与她的龙 - 试图组建一支军队来寻找 Iron Throne。",
+    "protectedNames": [
+      "Duplicity",
+      "Season",
+      "Lannisters",
+      "King's Landing",
+      "North",
+      "Robb Stark",
+      "King of the North",
+      "Mance Rayder",
+      "Wall",
+      "Daenerys Targaryen--reunited",
+      "Iron Throne"
+    ]
+  },
+  {
+    "id": 31504,
+    "zh": "War of the Five Kings 即将结束，但新的阴谋和阴谋正在酝酿之中，幸存的派系不仅要与队伍外部的敌人作斗争，还要与内部的敌人作斗争。",
+    "protectedNames": [
+      "War of the Five Kings"
+    ]
+  },
+  {
+    "id": 31505,
+    "zh": "War of the Five Kings一度被认为即将结束，但实际上正在进入一个新的、更加混乱的阶段。 Westeros正处于崩溃的边缘，许多人在王国崩溃的同时抓住了他们能抓住的一切，就像一具尸体为乌鸦准备了一场盛宴。",
+    "protectedNames": [
+      "War of the Five Kings",
+      "Westeros"
+    ]
+  },
+  {
+    "id": 31506,
+    "zh": "随着第五季结束时令人震惊的事态发展，来自 Westeros 和 Essos 各地的幸存者重新集结，无情地朝着他们不确定的个人命运前进。熟悉的面孔将结成新的联盟，以增强他们的战略生存机会，而新的角色也会出现，挑战东西南北的力量平衡。",
+    "protectedNames": [
+      "Westeros",
+      "Essos"
+    ]
+  },
+  {
+    "id": 31507,
+    "zh": "漫长的冬天来了。随之而来的是多年来酝酿的军队和态度的融合。",
+    "protectedNames": []
+  },
+  {
+    "id": 31508,
+    "zh": "Great War来了，Wall已经陷落，Night King's亡灵大军向Westeros进军。结局来了，但Iron Throne会是谁的呢？",
+    "protectedNames": [
+      "Great War",
+      "Wall",
+      "Night King's",
+      "Westeros",
+      "Iron Throne"
+    ]
+  },
+  {
+    "id": 31701,
+    "zh": "一名失踪的孩子让四个家庭疯狂寻找答案，揭开了一个跨越三代人的令人费解的谜团。",
+    "protectedNames": []
+  },
+  {
+    "id": 31702,
+    "zh": "Mikkel、Jonas 和 Ulrich 失踪六个月后，Winden's 的神秘之网加深了，世界的命运悬而未决。",
+    "protectedNames": [
+      "Mikkel",
+      "Jonas",
+      "Ulrich",
+      "Winden's"
+    ]
+  },
+  {
+    "id": 31703,
+    "zh": "时间扭曲的疯狂在一个陌生的新世界中结束，其中有些东西非常熟悉，而另一些则令人不安。",
+    "protectedNames": []
+  },
+  {
+    "id": 31801,
+    "zh": "Hawkins、印第安纳州中发生了奇怪的事情，一名小男孩的突然失踪让一名拥有超凡脱俗力量的年轻女孩被发现。",
+    "protectedNames": [
+      "Hawkins",
+      "Indiana"
+    ]
+  },
+  {
+    "id": 31802,
+    "zh": "Will's离奇失踪已经过去近一年了。但 Hawkins 的生活还没有恢复正常。甚至还差得远。",
+    "protectedNames": [
+      "Will's",
+      "Hawkins"
+    ]
+  },
+  {
+    "id": 31803,
+    "zh": "萌芽的浪漫。一个全新的购物中心。还有疯狂的老鼠奔向危险。这是 1985 年的夏天，Hawkins……一个夏天可以改变一切。",
+    "protectedNames": [
+      "Hawkins"
+    ]
+  },
+  {
+    "id": 31804,
+    "zh": "恰逢春假，黑暗再次降临 Hawkins，引发了新的恐怖、令人不安的记忆，以及不祥的新威胁。",
+    "protectedNames": [
+      "Hawkins"
+    ]
+  },
+  {
+    "id": 31805,
+    "zh": "1987 年秋天。Hawkins 因裂痕而伤痕累累。 Vecna 已经消失，政府已将该镇置于军事隔离之下，迫使 Eleven 重新躲藏起来。为了结束这场噩梦，他们需要所有人齐心协力，最后一次。",
+    "protectedNames": [
+      "Hawkins",
+      "Vecna",
+      "Eleven"
+    ]
+  },
+  {
+    "id": 25301,
+    "zh": "两个姐妹。两个城市。一项将永远改变世界的发现。在 Piltover 和 Zaun 等城市中，发明家、小偷、政客和犯罪头目对社会四分五裂的束缚感到不满，骚乱随之兴起。",
+    "protectedNames": [
+      "Piltover",
+      "Zaun"
+    ]
+  },
+  {
+    "id": 25302,
+    "zh": "Piltover 和 Zaun 之间的战斗既激发了荣耀，又激发了心碎，联盟得以建立，忠诚被瓦解，新的危险出现。",
+    "protectedNames": [
+      "Piltover",
+      "Zaun"
+    ]
+  },
+  {
+    "id": 25701,
+    "zh": "通过美国国家航空航天局宇航员、工程师及其家人的生活，探索一个充满抱负的世界，其中美国国家航空航天局和太空计划仍然是我们希望和梦想的优先事项和焦点。",
+    "protectedNames": [
+      "NASA",
+      "NASA"
+    ]
+  },
+  {
+    "id": 25702,
+    "zh": "第二季开始于 1983 年，冷战的鼎盛时期，美国和苏联之间的紧张关系达到顶峰。国防部已移至任务控制中心，美国国家航空航天局的军事化成为几个角色故事的核心：一些人与之抗争，一些人利用它作为推进自己利益的机会，还有一些人发现自己正处于可能导致核战争的冲突高峰。",
+    "protectedNames": [
+      "Cold War",
+      "United States",
+      "USSR",
+      "Department of Defense",
+      "Mission Control",
+      "NASA"
+    ]
+  },
+  {
+    "id": 25703,
+    "zh": "扣人心弦的第三季将观众带入新的十年，进入 90 年代初，一场激烈的竞赛驶向新的行星前沿：火星。 Red Planet 不仅成为美国和苏联太空竞赛的新战线，而且还是一个意想不到的新进入者，有很多东西需要证明，甚至更危险。我们的角色发现，他们对火星的野心发生了冲突，他们的忠诚度也受到了考验，他们之间展开了正面交锋，最终形成了一个最终走向高潮的高压锅。",
+    "protectedNames": [
+      "Mars",
+      "Red Planet",
+      "US",
+      "Soviet Union",
+      "Mars"
+    ]
+  },
+  {
+    "id": 25704,
+    "zh": "Rocketing 自第三季以来的八年时间里，Happy Valley 通过化敌为友，迅速扩大了在火星的足迹。 2003 年，太空计划的重点转向了捕获和开采极其有价值、富含矿物质的小行星，这可能会改变地球和火星的未来。但现在这个庞大的国际基地居民之间日益紧张的关系可能会毁掉他们正在努力的一切。",
+    "protectedNames": [
+      "Rocketing",
+      "Happy Valley",
+      "Mars",
+      "Earth",
+      "Mars"
+    ]
+  },
+  {
+    "id": 26001,
+    "zh": "Loki，即God of Mischief之神，走出了他哥哥的阴影，踏上了“Avengers：Endgame”事件之后发生的冒险。",
+    "protectedNames": [
+      "Loki",
+      "God of Mischief",
+      "Avengers",
+      "Endgame"
+    ]
+  },
+  {
+    "id": 26002,
+    "zh": "在 Season 1 之后，Loki 发现自己陷入了一场争夺 Time Variance Authority 灵魂的战斗中。 Mobius、Hunter B-15 以及一组新角色和回归角色一起，Loki 在不断扩张且日益危险的多元宇宙中航行，寻找 Sylvie、Judge Renslayer、 Miss Minutes 以及拥有自由意志和光荣目标意味着什么的真相。",
+    "protectedNames": [
+      "Season",
+      "Loki",
+      "Time Variance Authority",
+      "Mobius",
+      "Hunter B-",
+      "Loki",
+      "Sylvie",
+      "Judge Renslayer",
+      "Miss Minutes"
+    ]
+  },
+  {
+    "id": 90501,
+    "zh": "Blinded 作为一个小男孩，Matt Murdock 白天作为律师与不公正作斗争，晚上作为 Hell's Kitchen、纽约市中的超级英雄 Daredevil。",
+    "protectedNames": [
+      "Blinded",
+      "Matt Murdock",
+      "Daredevil",
+      "Hell's Kitchen",
+      "New York City"
+    ]
+  },
+  {
+    "id": 90502,
+    "zh": "黑暗势力再次撕裂Hell's Kitchen，但这一次Daredevil可能必须在城市和他的朋友之间做出选择。",
+    "protectedNames": [
+      "Hell's Kitchen",
+      "Daredevil"
+    ]
+  },
+  {
+    "id": 90503,
+    "zh": "失踪数月后，Matt Murdock 重新出现，成为一个破碎的人，让他作为义务警员 Daredevil 和律师 Matthew Murdock 的未来受到质疑。但当他的宿敌 Wilson Fisk 出狱后，Matt 必须在躲避世界和接受英雄命运之间做出选择。",
+    "protectedNames": [
+      "Matt Murdock",
+      "Daredevil",
+      "Matthew Murdock",
+      "Wilson Fisk",
+      "Matt"
+    ]
+  },
+  {
+    "id": 90601,
+    "zh": "第一季从“Marvel's The Avengers”结束的地方开始。纽约之战刚刚结束，现在超级英雄和外星人的存在已成为公众知识，世界正在努力应对这一新现实。 Agent Phil Coulson 又回来了，现在他的目光投向了一个名为 The Rising Tide 的神秘组织。为了追踪这个看不见的、未知的敌人，他从全球执法组织 S.H.I.E.L.D. 中组建了一个经过精心挑选的小队 Agents",
+    "protectedNames": [
+      "Marvel's The Avengers",
+      "New York",
+      "Agent Phil Coulson",
+      "The",
+      "Rising Tide",
+      "Agents",
+      "S.H.I.E.L.D."
+    ]
+  },
+  {
+    "id": 90602,
+    "zh": "在第二季中，Coulson 和他的团队希望在 S.H.I.E.L.D. 崩溃后恢复政府和公众的信任。",
+    "protectedNames": [
+      "Coulson",
+      "S.H.I.E.L.D"
+    ]
+  },
+  {
+    "id": 90603,
+    "zh": "在与 Inhumans 流氓组织交战数月后，该团队仍然步履蹒跚。 Coulson 再次试图将他曾经受人尊敬的组织的各个部分重新组合在一起，同时还要处理失去手的问题。他的红颜知己兼二把手Agent Melinda May与前夫Andrew一起临时度假，尚未归来；致命的超级间谍Agent Bobbi Morse正在从Grant Ward手中遭受的创伤性折磨中恢复； Fitz一心想发现Simmons神秘失踪背后的真相；所有人都对 Ward 和 Hydra 的下一步行动保持高度警惕。",
+    "protectedNames": [
+      "Inhumans",
+      "Coulson",
+      "Agent Melinda May",
+      "Andrew",
+      "Agent Bobbi Morse",
+      "Grant Ward",
+      "Fitz",
+      "Simmons",
+      "Ward",
+      "Hydra"
+    ]
+  },
+  {
+    "id": 90604,
+    "zh": "本季复仇猖獗，Coulson 再次成为一名纯粹的特工，而 Daisy 在受 Hive's 控制后变得流氓。 S.H.I.E.L.D.将如何应对The Ghost Rider的到来？",
+    "protectedNames": [
+      "Coulson",
+      "Daisy",
+      "Hive's",
+      "S.H.I.E.L.D.",
+      "The",
+      "Ghost Rider"
+    ]
+  },
+  {
+    "id": 90605,
+    "zh": "Agent Coulson和小队逃离了LMD Aida’s Framework并在现实世界中苏醒。他们几乎不知道Aida现在是完全的人类 - 并具有多种Inhuman能力 - 带着危险的想法，有Fitz在她身边，她可以改变世界。在Ghost Rider的帮助下击败她后，队伍出去庆祝，却被一个神秘人打断，把他们冻住了。接下来我们看到的是 Coulson 在太空中的一艘船上。 Coulson 会发现他的一些（但不是全部）S.H.I.E.L.D. 同事被带走并安置在船上。当他们与船上的一些居民接触时，很明显事情已经出了严重的问题，团队需要弄清楚他们的角色，并更深入地研究这个噩梦般的谜团，试图纠正已经发生的严重错误。",
+    "protectedNames": [
+      "Agent Coulson",
+      "LMD Aida’s Framework",
+      "Aida",
+      "Inhuman",
+      "Fitz",
+      "Ghost Rider",
+      "Coulson",
+      "Coulson",
+      "S.H.I.E.L.D."
+    ]
+  },
+  {
+    "id": 90606,
+    "zh": "上个赛季，球队及时迈进了一个反乌托邦的未来，他们很快意识到必须阻止这一未来。在面对多个时间线和来自遥远星球的新敌人时，他们找到了家人、朋友、队友，并有勇气完成迄今为止最大的挑战。他们的下一个挑战是什么？认识到扭曲空间和时间定律可能拯救了地球，但它无法拯救 Fitz 或 Coulson。",
+    "protectedNames": [
+      "Fitz",
+      "Coulson"
+    ]
+  },
+  {
+    "id": 90607,
+    "zh": "Coulson 和 Agents of S.H.I.E.L.D。时间被推倒并滞留在 1931 年纽约市。由于全新的 Zephyr 随时会发生时间跳跃，团队必须尽快查明到底发生了什么。 If他们失败了，那对世界的过去、现在和未来都意味着灾难。",
+    "protectedNames": [
+      "Coulson",
+      "Agents of S.H.I.E.L.D",
+      "New York City",
+      "Zephyr",
+      "If"
+    ]
+  },
+  {
+    "id": 50101,
+    "zh": "在Inspector Morse之前，还有一位新秀Constable Morse，他厌倦了警察工作，准备通过辞职来扼杀自己的职业生涯。",
+    "protectedNames": [
+      "Inspector Morse",
+      "Constable Morse"
+    ]
+  },
+  {
+    "id": 50102,
+    "zh": "1966 年，Endeavour 面临着一系列令人费解的谜团，将考验他的大脑和身体，直至极限。尽管被意想不到的爱的可能性所抵消，但在英国和更广阔的世界不断变化的背景下，Endeavour 必须面对一个挑战，这个挑战可能会夺走他所珍视的一切……家人。朋友们。同事。旧秩序发生了变化……但并非没有战斗。至死不渝。",
+    "protectedNames": [
+      "Endeavour",
+      "Britain",
+      "Endeavour"
+    ]
+  },
+  {
+    "id": 50103,
+    "zh": "最后一次出现时，Endeavour 被关在牢房里，并因一件他没有犯下的罪行而受到陷害，当一名年轻女子的莫名其妙的谋杀案需要他非凡的大脑来解决时，Endeavour 被迫重返工作岗位。 1967 年初，两人都在迅速变化的气候中努力寻找自己的方向，针对牛津梦想尖塔的四起案件以意想不到的方式考验着他们的伙伴关系，而 Colin Dexter's 标志性侦探在对真相和正义的无与伦比的承诺中被推向了新的极端。",
+    "protectedNames": [
+      "Endeavour",
+      "Oxford",
+      "Colin Dexter's"
+    ]
+  },
+  {
+    "id": 50104,
+    "zh": "在《Series 4》中，距系列三结局中描述的事件仅仅过去了两周，我们发现牛津’s 最好地收拾了他们的个人和职业生活。 Endeavour等待听到他的Sergeant’s Exam的结果，并自我用药来麻痹他的心痛，但威士忌和Tännhauser只能让一个人到目前为止。而Thursday和Win则处理自己的悲伤感。他们的家空无一人，Sam去了Army和Joan……Who知道在哪里？剩下的故事将把《Endeavour》和《Thursday》以及《牛津’s Finest》的其余部分带入迄今为止尚未探索过的地方，1960 年代流行音乐的世界； Doctors和Nurses；以及对英国田园风光的探索。",
+    "protectedNames": [
+      "Series",
+      "Oxford’s",
+      "Endeavour",
+      "Sergeant’s Exam",
+      "Tännhauser",
+      "Thursday",
+      "Win",
+      "Sam",
+      "Army",
+      "Joan",
+      "Who",
+      "Endeavour",
+      "Oxford’s Finest",
+      "Doctors",
+      "Nurses"
+    ]
+  },
+  {
+    "id": 50105,
+    "zh": "现在是 1968 年。Endeavour 的晋升导致他不情愿地指导新员工 Fancy，而星期四则在思考离开警察后的生活。但在牛津中，犯罪从未停止。 Cowley 警察局的情况还会再像以前一样吗？",
+    "protectedNames": [
+      "Endeavour",
+      "Fancy",
+      "Oxford",
+      "Cowley Police Station"
+    ]
+  },
+  {
+    "id": 50106,
+    "zh": "随着旧的Cowley团队现在分散在牛津郡，Endeavour不情愿地在一个偏僻的乡村前哨基地过着平静的生活方式。令人不舒服的星期四在令人生畏的 Castle Gate 车站也有了一个新角色，加入了前对手 DCI Ronnie Box 和他的新伙伴 DS Alan Jago。 Strange在Division中担任管理角色，而Bright已被降级到Traffic部门。 Summer of Love 的夏天已经真正结束了，1969 年注定会比以往更加黑暗和更具挑战性。",
+    "protectedNames": [
+      "Cowley",
+      "Oxfordshire",
+      "Endeavour",
+      "Castle Gate",
+      "DCI Ronnie Box",
+      "DS Alan Jago",
+      "Division",
+      "Bright",
+      "Traffic",
+      "Summer of Love"
+    ]
+  },
+  {
+    "id": 50107,
+    "zh": "Opening于New Year’s Eve 1969，正常秩序已恢复，队伍在Castle Gate CID重聚。然而，过去一年发生的事件已经留下了痕迹。旧的友谊将受到挑战，新的关系将蓬勃发展。",
+    "protectedNames": [
+      "Opening",
+      "New Year’s Eve",
+      "Castle Gate CID"
+    ]
+  },
+  {
+    "id": 50108,
+    "zh": "系列第八季以 1971 年为背景，牛津 Wanderers 的明星前锋 Jack Swift 受到死亡威胁，将 Endeavour 和他的球队置于 1970 年代足球浮华和魅力的中心，暴露了成功和名人的真正代价，以及随之而来的根深蒂固的分裂，很快就会反映出来离家近多了。",
+    "protectedNames": [
+      "Oxford Wanderers",
+      "Jack Swift",
+      "Endeavour"
+    ]
+  },
+  {
+    "id": 50109,
+    "zh": "It's Spring，1972 年。两起不明原因的死亡事件表明与牛津 Concert Orchestra 有关，而在废弃仓库中发现的一具尸体则引发了人们的担忧，“伦敦业务”再次找到了牛津的踪迹。周四和 Endeavour 的调查发现了一些令人不安的联系，这些案件与两人认为是幕后黑手的案件有一些令人不安的联系。",
+    "protectedNames": [
+      "It's Spring",
+      "Oxford Concert Orchestra",
+      "London",
+      "Oxford",
+      "Endeavour"
+    ]
+  },
+  {
+    "id": 50201,
+    "zh": "当一次偶遇让士兵 John Watson 进入 Sherlock 的生活时，显然这两个人截然不同，但 Sherlock 的智慧加上 John's 的实用主义很快就结成了牢不可破的联盟，因为他们调查了一系列令人费解的案件案件在一起。",
+    "protectedNames": [
+      "John Watson",
+      "Sherlock",
+      "Sherlock",
+      "John's"
+    ]
+  },
+  {
+    "id": 50202,
+    "zh": "一场Royal丑闻，一场眼花缭乱的猫鼠游戏。诱人的 Irene Adler 冷酷、精于算计、才华横溢。 Has Sherlock终于遇到对手了？",
+    "protectedNames": [
+      "Royal",
+      "Irene Adler",
+      "Has Sherlock"
+    ]
+  },
+  {
+    "id": 50203,
+    "zh": "Sherlock 回来了，但事情会再次一样吗？",
+    "protectedNames": [
+      "Sherlock"
+    ]
+  },
+  {
+    "id": 50204,
+    "zh": "第四季从全国最受欢迎的侦探 Sherlock Holmes 开始，他再次回到英国土地，Watson 医生和他的妻子 Mary 正在为他们有史以来最大的挑战，第一次成为父母做准备。",
+    "protectedNames": [
+      "Sherlock",
+      "Holmes",
+      "Watson",
+      "Mary"
+    ]
+  },
+  {
+    "id": 25801,
+    "zh": "邪恶的 Empire 加强了对银河系的控制，勇敢而聪明的乌合之众星舰船员奋起反抗，并追捕最后的 Jedi Knights。",
+    "protectedNames": [
+      "Empire",
+      "Jedi Knights"
+    ]
+  },
+  {
+    "id": 25802,
+    "zh": "Ghost 船员离开 Lothal 并成为全银河叛乱的一部分。",
+    "protectedNames": [
+      "Ghost",
+      "Lothal"
+    ]
+  },
+  {
+    "id": 25803,
+    "zh": "在 Malachor 事件发生后的某个时间，Ezra 必须与黑暗面的诱惑作斗争。 Ghost 船员帮助在 Atollon 上建立叛乱。",
+    "protectedNames": [
+      "Malachor",
+      "Ezra",
+      "Ghost",
+      "Atollon"
+    ]
+  },
+  {
+    "id": 25804,
+    "zh": "在 Atollon 上进行一场毁灭性的战斗后，Ghost 船员和叛军继续对抗 Imperial Forces。",
+    "protectedNames": [
+      "Atollon",
+      "Ghost",
+      "Imperial Forces"
+    ]
+  },
+  {
+    "id": 90201,
+    "zh": "设置在 Empire 陨落之后、First Order 出现之前。我们跟随一名孤独枪手在远离 New Republic 权威的银河系外围经历的艰辛。",
+    "protectedNames": [
+      "Empire",
+      "First Order",
+      "New Republic"
+    ]
+  },
+  {
+    "id": 90202,
+    "zh": "The Mandalorian 和 Child 继续他们的旅程，面对敌人并召集盟友，在 Galactic Empire 崩溃后的动荡时代穿越危险的星系。",
+    "protectedNames": [
+      "The Mandalorian",
+      "Child",
+      "Galactic Empire"
+    ]
+  },
+  {
+    "id": 90203,
+    "zh": "Mandalorian 穿越 Star Wars 星系的旅程仍在继续。曾经是孤独的赏金猎人，Din Djarin 与 Grogu 重聚。与此同时，New Republic 努力带领银河系摆脱黑暗历史。当 The Mandalorian 和 Grogu 一起继续他们的旅程时，他将与老盟友交锋并结交新敌人。",
+    "protectedNames": [
+      "Mandalorian",
+      "Star Wars",
+      "Din Djarin",
+      "Grogu",
+      "New Republic",
+      "The Mandalorian",
+      "Grogu"
+    ]
+  },
+  {
+    "id": 90301,
+    "zh": "Clone Wars 过后，精英和实验克隆人“Bad Batch”在不断变化的星系中奋力前行。",
+    "protectedNames": [
+      "Bad Batch",
+      "Clone Wars"
+    ]
+  },
+  {
+    "id": 90302,
+    "zh": "自 Kamino 和 Bad Batch 上的事件在 Republic 垮台后继续在 Empire 上航行以来，已经过去了几个月。当他们执行各种惊心动魄的雇佣兵任务时，他们将遇到新的和熟悉的朋友和敌人，这些任务将把他们带到意想不到的危险的新地方。",
+    "protectedNames": [
+      "Kamino",
+      "Bad Batch",
+      "Empire",
+      "Republic"
+    ]
+  },
+  {
+    "id": 90303,
+    "zh": "在史诗般的最后一季中，Batch 将在与 Omega 重聚的战斗中考验自己的极限，因为她在偏远的 Imperial 科学实验室中面临着自己的挑战。随着团队四分五裂并面临来自四面八方的威胁，他们将不得不寻找意想不到的盟友，执行危险的任务，并聚集他们所学到的一切来将自己从Empire中解放出来。",
+    "protectedNames": [
+      "Batch",
+      "Omega",
+      "Imperial",
+      "Empire"
+    ]
+  },
+  {
+    "id": 90401,
+    "zh": "Jedi英雄Yoda、Anakin、Obi-Wan和新人Ahsoka对抗伯爵领导的邪恶Separatists Dooku、刺客Asajj Ventress和机械将军Grievous。每一集都是一场充满动感的冒险，介绍新角色并探索新行星，Jedi 和他们勇敢的克隆人士兵保卫 Star Wars 星系。",
+    "protectedNames": [
+      "Jedi",
+      "Yoda",
+      "Anakin",
+      "Obi-Wan",
+      "Ahsoka",
+      "Separatists",
+      "Dooku",
+      "Asajj Ventress",
+      "Grievous",
+      "Jedi",
+      "Star Wars"
+    ]
+  },
+  {
+    "id": 90402,
+    "zh": "激烈的战斗、激动人心的故事和令人惊叹的动画使 Star Wars: The Clone Wars 的赌注比以往更高。随着秘密和禁忌关系的揭露、生命受到威胁以及新的邪恶势力卷入战争，无情的赏金猎人，Jedi 英雄的斗争变得更加复杂。来自Executive Producer George Lucas和Lucasfilm Animation，Season Two承诺令人兴奋的新冒险，前所未见的角色和生物，以及不为人知的Star Wars故事。",
+    "protectedNames": [
+      "Star Wars: The Clone Wars",
+      "Jedi",
+      "Executive Producer George Lucas",
+      "Lucasfilm Animation",
+      "Season Two",
+      "Star Wars"
+    ]
+  },
+  {
+    "id": 90403,
+    "zh": "神秘、阴谋和冒险等待着我们的英雄，还有全新的动感十足的剧集。黑暗面变得更加强大，Jedi Knights 被推到了极限。随着秘密被揭露、真相受到质疑、联盟被背叛，善与恶之间的界限变得模糊。在《Star Wars: The Clone Wars》这个变革性的季节里，银河系的命运悬而未决，“Chosen One”的命运也将最终揭晓。",
+    "protectedNames": [
+      "Jedi Knights",
+      "Star Wars: The Clone Wars",
+      "Chosen One"
+    ]
+  },
+  {
+    "id": 90404,
+    "zh": "Star Wars: The Clone Wars 的范围和规模不断升级并扩展到银河系的未知角落。 Fearsome 昔日宿敌回归，双方结成意想不到的联盟。",
+    "protectedNames": [
+      "Star Wars: The Clone Wars",
+      "Fearsome"
+    ]
+  },
+  {
+    "id": 90405,
+    "zh": "Season Five 充满了爆炸性的动作、奇异的世界、有趣的角色和令人震惊的转折，当银河系陷入黑暗时，几位主要玩家将面对自己的命运。",
+    "protectedNames": [
+      "Season Five"
+    ]
+  },
+  {
+    "id": 90406,
+    "zh": "Force 光明面与黑暗面之间冲突的一些最深奥的谜团被揭开。一名勇敢的克隆人士兵发现了 Republic 每位士兵都携带的令人震惊的秘密。当一位善意的参议员被战争策划者操纵时，Anakin Skywalker's 最亲密的关系受到了考验。过去的邪恶敌人发现了一件古老的武器，可以赋予她无与伦比的力量。 Master Yoda's 对 Jedi 失踪事件的调查让他深入了解了 Force's 的谜团，他的发现可能永远改变银河系的力量平衡。",
+    "protectedNames": [
+      "Force",
+      "Republic",
+      "Anakin Skywalker's",
+      "Master Yoda's",
+      "Jedi",
+      "Force's"
+    ]
+  },
+  {
+    "id": 90407,
+    "zh": "Star Wars: The Clone Wars 第七季，副标题为 The Final Season，由十二集组成。故事弧包括 Bad Batch、Ahsoka's Journey 和系列结局 Siege of Mandalore。",
+    "protectedNames": [
+      "Star Wars: The Clone Wars",
+      "The",
+      "Final Season",
+      "Bad Batch",
+      "Ahsoka's Journey",
+      "Siege of Mandalore"
+    ]
+  },
+  {
+    "id": 90701,
+    "zh": "故事发生在“The Clone Wars”事件之后，Maul 密谋在一个未受 Empire 影响的星球上重建他的犯罪集团。在那里，他遇到了一个幻灭的年轻人 Jedi Padawan，他可能是他正在寻找的学徒，这将帮助他不懈地追求复仇。",
+    "protectedNames": [
+      "The",
+      "Clone Wars",
+      "Maul",
+      "Empire",
+      "Jedi Padawan"
+    ]
+  },
+  {
+    "id": 12101,
+    "zh": "Spartacus 被迫离开祖国和心爱的女人，被迫流落到残酷的竞技场世界，血腥和死亡成为黄金时段的娱乐内容。但并非所有战斗都是在沙滩上进行的。背叛、腐败和感官享受的诱惑将不断考验Spartacus。为了生存，他必须变得不仅仅是一个人。不仅仅是角斗士。他必须成为传奇。",
+    "protectedNames": [
+      "Spartacus",
+      "Spartacus"
+    ]
+  },
+  {
+    "id": 11301,
+    "zh": "大学物理学家 Leonard 和 Sheldon 知道是使用积分还是微分来求解曲线下的面积。但他们对女孩一无所知。 Or 约会。 Or 衣服。 Or各方。 Or 玩得很开心。 Or，基本上，生活。 So 当一位名叫 Penny 的漂亮金发女郎搬进大厅对面的公寓时，孩子们决定在课堂外接受教育。 Boys，你要学的东西还有很多。",
+    "protectedNames": [
+      "Leonard",
+      "Sheldon",
+      "Or",
+      "Or",
+      "Or",
+      "Or",
+      "Or",
+      "So",
+      "Penny",
+      "Boys"
+    ]
+  },
+  {
+    "id": 11302,
+    "zh": "本季，Leonard 得到了一个女孩。 So 执行 Sheldon。 Howard 将火星 Rover 驶入沟渠。 Raj 追求终结者。 Gorgeous 邻家女孩Penny 被Age of Conan 迷住了。而超级聪明、超级自信的 Leslie Winkler 将普通人变成了没有骨气的水母。",
+    "protectedNames": [
+      "Leonard",
+      "So",
+      "Sheldon",
+      "Howard",
+      "Mars Rover",
+      "Raj",
+      "Gorgeous",
+      "Penny",
+      "Age of Conan",
+      "Leslie Winkler"
+    ]
+  },
+  {
+    "id": 11303,
+    "zh": "Season 3 中的世界碰撞！与Penny的一段恋情，为Leonard打开了一个广阔而美妙的浪漫世界。但 Sheldon 喜欢这个世界本来的样子，谢谢。所有这一切构成了一个滑稽的喜剧三角关系，聪明、无知的 Sheldon 和务实、脚踏实地的 Penny 搞笑地争夺斜边的角色。",
+    "protectedNames": [
+      "Season",
+      "Penny",
+      "Leonard",
+      "Sheldon",
+      "Sheldon",
+      "Penny"
+    ]
+  },
+  {
+    "id": 11304,
+    "zh": "本季，Big Bang 帮的浪漫宇宙不断扩大。从Penny反弹后，Leonard落入Raj’s妹妹Priya的怀抱。 Sheldon 有了一个女朋友，或者更确切地说是一个女孩朋友：Amy，一位冷酷的神经生物学家，声称自己是 Penny 的好朋友。 Howard 和 Bernadette 升温。 Raj 和 Bernadette 也是如此（至少在 Raj’s Bollywood 白日梦中）。",
+    "protectedNames": [
+      "Big Bang",
+      "Penny",
+      "Leonard",
+      "Raj’s",
+      "Priya",
+      "Sheldon",
+      "Amy",
+      "Penny",
+      "Howard",
+      "Bernadette",
+      "Raj",
+      "Bernadette",
+      "Raj’s Bollywood"
+    ]
+  },
+  {
+    "id": 11305,
+    "zh": "在第五季中，Penny 和 Leonard's 的关系以全面的“beta 测试”模式重新启动，而 Sheldon、Howard 和 Raj 发现女性的神秘感是无法轻易用图表或计算得出的。当 Sheldon 与他的“碰巧成为女孩的朋友”Amy Farrah Fowler 对其“Relationship Agreement”做出不情愿的修改时，Raj 考虑包办婚姻，并且Howard 是美国国家航空航天局太空发射和与充满活力的 Bernadette 的婚礼的全系统。",
+    "protectedNames": [
+      "Penny",
+      "Leonard's",
+      "Sheldon",
+      "Howard",
+      "Raj",
+      "Sheldon",
+      "Relationship Agreement",
+      "Amy Farrah Fowler",
+      "Raj",
+      "Howard",
+      "NASA",
+      "Bernadette"
+    ]
+  },
+  {
+    "id": 11306,
+    "zh": "无论是在地球上还是在地球之上，TV 最受欢迎的喜剧中都充满了欢笑，该喜剧以四位思想超前但社会落后的天才为主角。有趣的发现倍增：Leonard 了解到嫉妒对于关系（与 Penny）不利，但科学对于诱惑（Penny）有好处。 Howard 发现国际空间站的生活无法摆脱他母亲和新婚妻子 Bernadette 之间的地球动荡。 Raj 遇到了一个特别的人，如果他能阻止她在约会中逃离，他可能是一个很好的匹配。然后是 Sheldon。他学会了在面临骚扰指控或竞争工作职位后不该说什么，以及 Dungeons 和 Dragons 如何成为他与 Amy 关系所需的破冰者。",
+    "protectedNames": [
+      "Earth",
+      "TV",
+      "Leonard",
+      "Penny",
+      "Penny",
+      "Howard",
+      "International Space Station",
+      "Bernadette",
+      "Raj",
+      "Sheldon",
+      "Dungeons",
+      "Dragons",
+      "Amy"
+    ]
+  },
+  {
+    "id": 11307,
+    "zh": "Leonard 从北海探险归来，发现他与 Penny 的关系涉及比他在实验室中做过的更多的 beta 测试。 Howard’s 特别是与他生活中的女性有关的依恋问题和 Raj’s 与一般女性的社会突破提供了更多的笑声。 Bernadette 和 Amy 坚定地站在他们生命中的男人身边，即使他们坐在马拉松角色扮演游戏中。 Sheldon 以完全不同的方式看待他的妈妈，与 James Earl Jones 一起聚会，与他的偶像教授 Proton 建立了（某种）联系，并取得了一项科学突破，但在你说 Science Friday 之前就崩溃了。",
+    "protectedNames": [
+      "Leonard",
+      "North Sea",
+      "Penny",
+      "Howard’s",
+      "Raj’s",
+      "Bernadette",
+      "Amy",
+      "Sheldon",
+      "James Earl Jones",
+      "Proton",
+      "Science Friday"
+    ]
+  },
+  {
+    "id": 11308,
+    "zh": "Sheldon 从他的自我反省的越野火车旅行中获救（年纪大了，但并不聪明），这意味着 The Big Bang Theory 团伙都在这里为 TV 参加人数最多的笑声研讨会传播另一种装备的欢呼声。 Enrol 在漫画课程中观察 Leonard's 小手术，这标志着 Sheldon 的一场重大灾难，Howard's 对他妈妈与朋友出身的贪吃者 Stuart 的关系的痴迷以及意想不到的结果Penny's 作为药品销售代表的技术。探索重新创建未参加的舞会或不是特别受欢迎的节日庆祝活动的方法，并玩基于 Raj's 约会生活的新游戏。 Savour 在线粉丝 Amy 的 Fiction，观看 Bernadette 不雅地指挥一些微妙的家庭事务，谁知道呢，你可能会发现一两个很酷的特别嘉宾。",
+    "protectedNames": [
+      "Sheldon",
+      "The Big Bang Theory",
+      "TV",
+      "Enrol",
+      "Leonard's",
+      "Sheldon",
+      "Howard's",
+      "Stuart",
+      "Penny's",
+      "Raj's",
+      "Savour",
+      "Fiction",
+      "Amy",
+      "Bernadette"
+    ]
+  },
+  {
+    "id": 11309,
+    "zh": "我们的两位天才室友 Leonard 和 Sheldon 以及他们的朋友再次回来了（更聪明，但并不更聪明）。上一季，Sheldon进行了自我反省（当然是在火车上），并准备对他与Amy的Relationship Agreement进行一些实质性修改，但一切都发生了变化。与此同时，Leonard 与 Penny 前往 Vegas，最终在赛季结局中喜结良缘。在母亲突然去世后，Howard 发现自己和 Bernadette 单独在一起；而 Raj 不仅与女性交谈，他还与 Emily 独占。他们将一起了解到实验室之外的生活要复杂得多，因为爱情和友谊永远不会产生可预测的结果！",
+    "protectedNames": [
+      "Leonard",
+      "Sheldon",
+      "Sheldon",
+      "Relationship Agreement",
+      "Amy",
+      "Leonard",
+      "Vegas",
+      "Penny",
+      "Howard",
+      "Bernadette",
+      "Raj",
+      "Emily"
+    ]
+  },
+  {
+    "id": 11310,
+    "zh": "Leonard和Penny重温誓言，邀请亲朋好友参加婚礼；他们还了解到婚姻就是妥协，并弄清楚如何互相支持。 Sheldon和Amy尝试将他们的关系提升到一个新的水平，经过情感斗争，他们一起搬进了Penny's旧公寓。 Howard和Bernadette意识到做父母是一份全职工作，但在朋友的帮助下，他们找到了抚养孩子的乐趣。当他的朋友告诉他他被宠坏了时，Raj 决定停止拿父亲的钱，并学习如何维持收支平衡。",
+    "protectedNames": [
+      "Leonard",
+      "Penny",
+      "Sheldon",
+      "Amy",
+      "Penny's",
+      "Howard",
+      "Bernadette",
+      "Raj"
+    ]
+  },
+  {
+    "id": 11311,
+    "zh": "经过多年只为自己着想后，Sheldon 发现 Amy Farrah Fowler 是地球上有史以来最有耐心的女人，而且......他们做到了！婚礼热潮在第 11 季继续。",
+    "protectedNames": [
+      "Sheldon",
+      "Amy Farrah Fowler"
+    ]
+  },
+  {
+    "id": 11312,
+    "zh": "最好的朋友和杰出的物理学家 Leonard Hofstadter 和 Sheldon Cooper 是实验室里的天才，但在实验室外却面临着社会挑战。尽管如此，Leonard还是与他美丽、聪明的邻居Penny结婚了。而Sheldon，经过长时间的求爱后，与成功的神经生物学家Amy结婚。当航空航天工程师 Howard 和他可爱的微生物学家妻子 Bernadette 探索带着两个孩子的婚姻困境时，天体物理学家 Raj 则考虑传统的包办婚姻。作为超级聪明的朋友解决学术界提出的日常难题。家庭危机和电子游戏，他们对家庭幸福的实验总是会产生令人捧腹的结果。但所有好的理论都会得出结论。 “电视永恒的笑声连续体”的第十二季也是最后一季包含 24 集精彩的剧集，将喜剧带入新的维度……甚至更远。",
+    "protectedNames": [
+      "Leonard Hofstadter",
+      "Sheldon Cooper",
+      "Leonard",
+      "Penny",
+      "Sheldon",
+      "Amy",
+      "Howard",
+      "Bernadette",
+      "Raj"
+    ]
+  },
+  {
+    "id": 11901,
+    "zh": "1920 年 Prohibition 前夕，大西洋城县财务主管 Enoch“Nucky”Thompson 正在寻求兑现。Prohibition 可能禁止饮酒，但在 Nucky's 的世界里，它为黑帮和走私者提供了利润丰厚的机会，他们希望为一个饥渴的国家提供“液体黄金”。在一个臭名昭著的幕后政治和恶性权力斗争所定义的城市中，Nucky 与无情的联邦特工、雄心勃勃的下属和机会主义的竞争对手（包括 Arnold Rothstein、Lucky Luciano 和 Al Capone）进行战斗。",
+    "protectedNames": [
+      "Prohibition",
+      "Atlantic City",
+      "Enoch",
+      "Nucky",
+      "Thompson",
+      "Prohibition",
+      "Nucky's",
+      "Nucky",
+      "Arnold Rothstein",
+      "Lucky Luciano",
+      "Al Capone"
+    ]
+  },
+  {
+    "id": 11902,
+    "zh": "1921 年，在操纵大西洋城市长选举后，Nucky 似乎控制了这座城市。然而，Nucky's 的控制很快开始瓦解，因为他因选举舞弊而被捕，他的核心圈子和家人开始质疑他们的忠诚，而包括 Arnold Rothstein、Lucky Luciano、Meyer Lansky 和Al Capone 伺机而动，寻找合适的机会来抢占 Nucky's 的更大蛋糕。",
+    "protectedNames": [
+      "Atlantic City",
+      "Nucky",
+      "Nucky's",
+      "Arnold Rothstein",
+      "Lucky Luciano",
+      "Meyer Lansky",
+      "Al Capone",
+      "Nucky's"
+    ]
+  },
+  {
+    "id": 11903,
+    "zh": "大西洋城，1922：The Roaring 20 年代即将真正开始，尽管经济蓬勃发展，但酒精稀缺，黑帮暴力也在升温。在此背景下，Nucky 与 Margaret 的婚姻在 Margaret 将高速公路上的意外之财签给教会后成为了一场骗局。Nucky 面临着修复旧关系的挑战，同时也遇到了来自一触即发的黑帮 Gyp Rosetti 的新竞争，Gyp Rosetti 在他们之间建立了战略屏障。纽约和大西洋城试图吸走 Nucky's 的酒精业务。",
+    "protectedNames": [
+      "Atlantic City",
+      "The",
+      "Roaring",
+      "Nucky",
+      "Margaret",
+      "Gyp Rosetti",
+      "New York",
+      "Atlantic City",
+      "Nucky's"
+    ]
+  },
+  {
+    "id": 11904,
+    "zh": "大西洋城，1924 年：Nucky 在被黑帮 Gyp Rosetti 推翻后勉强幸存，在 Boardwalk 的尽头处于低位。但平静将是短暂的，因为 Nucky 面临新的挑战，包括与暴力 Harlem 权力掮客的冲突、与他的兄弟 Eli 为 Eli's 上大学的儿子而发生的争斗，以及利润丰厚但危险的机会的不可抗拒的诱惑在佛罗里达州。",
+    "protectedNames": [
+      "Atlantic City",
+      "Nucky",
+      "Boardwalk",
+      "Gyp Rosetti",
+      "Nucky",
+      "Harlem",
+      "Eli",
+      "Eli's",
+      "Florida"
+    ]
+  },
+  {
+    "id": 11905,
+    "zh": "现在是 1931 年，与 20 年代的 Roaring 形成鲜明对比，这个国家现在正处于大萧条的阵痛之中。随着 Prohibition 即将结束，Nucky 希望通过与酒类生产商结成联盟来使自己合法化。",
+    "protectedNames": [
+      "Roaring",
+      "Great Depression",
+      "Prohibition",
+      "Nucky"
+    ]
+  },
+  {
+    "id": 12001,
+    "zh": "第一季开始于 52 B.C.，Gaius Julius Caesar 在八年战争后完成了对高卢的探索，并准备带着他的军队返回罗马。但是，当Caesar's自私的侄女Atia和失散多年的情人Servilia焦急地等待他回来时，统治贵族们绝望地认为Caesar's的回归会破坏现状。随着 Caesar's 军团逼近罗马，士兵和平民的忠诚度都受到考验，紧张局势不断升级，全面冲突注定会改变历史。",
+    "protectedNames": [
+      "B.C.",
+      "Gaius Julius Caesar",
+      "Gaul",
+      "Rome",
+      "Caesar's",
+      "Atia",
+      "Servilia",
+      "Caesar's",
+      "Caesar's",
+      "Rome"
+    ]
+  },
+  {
+    "id": 12002,
+    "zh": "第二季的故事情节从第一季结束的地方开始：44 B.C. 刺杀 Gaius Julius Caesar 和 Niobe（Caesar's 忠实保镖的妻子）几乎同时死亡Lucius Vorenus。 Diverted 在得知他的假孙子 Lucius 实际上是 Niobe's 的私生子后，Vorenus 现在因未能保护 Caesar 而陷入近乎疯狂的境地，Caesar 是他在配偶的死亡，以及他分居的女儿被谋杀的传闻。",
+    "protectedNames": [
+      "B.C.",
+      "Gaius Julius Caesar",
+      "Niobe",
+      "Caesar's",
+      "Lucius Vorenus",
+      "Diverted",
+      "Lucius",
+      "Niobe's",
+      "Vorenus",
+      "Caesar"
+    ]
+  },
+  {
+    "id": 12201,
+    "zh": "在Season 1中，年轻的Saxon贵族Uhtred变身为一名战士，并寻求夺回被他狡猾的叔叔吞并的土地。",
+    "protectedNames": [
+      "Season",
+      "Saxon",
+      "Uhtred"
+    ]
+  },
+  {
+    "id": 12202,
+    "zh": "在第二季中，当 Saxons 和 Vikings 之间的血腥斗争席卷大地时，Uhtred 开始为他被杀的家人报仇并夺回他的祖屋。",
+    "protectedNames": [
+      "Saxons",
+      "Vikings",
+      "Uhtred"
+    ]
+  },
+  {
+    "id": 12203,
+    "zh": "随着 Alfred's 健康状况的恶化，以及他的统一英格兰的梦想，Uhtred 必须指挥并面对新的威胁，丹麦军阀 Sigrid。",
+    "protectedNames": [
+      "Alfred's",
+      "England",
+      "Uhtred",
+      "Sigrid"
+    ]
+  },
+  {
+    "id": 12204,
+    "zh": "当 Edward 和 Aethelflaed 为 Mercia 的未来以及他们父亲统一英格兰的梦想而争论时，Uhtred 试图恢复他失去的与生俱来的权利。",
+    "protectedNames": [
+      "Edward",
+      "Aethelflaed",
+      "Mercia",
+      "England",
+      "Uhtred"
+    ]
+  },
+  {
+    "id": 12205,
+    "zh": "英格兰多年来一直保持着脆弱的和平，但 Uhtred 相信麻烦即将来临，而事件很快证实了他的怀疑。",
+    "protectedNames": [
+      "England",
+      "Uhtred"
+    ]
+  },
+  {
+    "id": 13001,
+    "zh": "新任命的Minister为Administrative Affairs，Rt Hon。 Jim Hacker MP 甚至发现权力走廊也被他的 Permanent Secretary Sir Humphrey 和他的 Civil Service 同伴的阴谋所堵塞。",
+    "protectedNames": [
+      "Minister",
+      "Administrative Affairs",
+      "Rt Hon",
+      "Jim Hacker MP",
+      "Permanent Secretary Sir Humphrey",
+      "Civil Service"
+    ]
+  },
+  {
+    "id": 13002,
+    "zh": "Rt Hon。 Jim Hacker MP 和 Humphrey 爵士再次上台表演 Whitehall 华尔兹的第二个系列。",
+    "protectedNames": [
+      "Rt Hon",
+      "Jim Hacker MP",
+      "Humphrey",
+      "Whitehall"
+    ]
+  },
+  {
+    "id": 13003,
+    "zh": "威斯敏斯特和 Whitehall 作为 Rt Hon 再次发生冲突。 Jim Hacker，Administrative Affairs 的 Minister，与他的 Permanent Secretary Sir Humphrey Appleby 发生冲突。",
+    "protectedNames": [
+      "Westminster",
+      "Whitehall",
+      "Rt Hon",
+      "Jim Hacker",
+      "Minister",
+      "Administrative Affairs",
+      "Permanent Secretary Sir Humphrey Appleby"
+    ]
+  },
+  {
+    "id": 13101,
+    "zh": "远见、正直和冷酷无情是政治权力的武器。 Unfortunately新Prime Minister Jim Hacker这些都没有，但他确实有Humphrey爵士中的怯懦、绝望和心计、务实Cabinet Secretary……",
+    "protectedNames": [
+      "Unfortunately",
+      "Prime Minister Jim Hacker",
+      "Cabinet Secretary",
+      "Humphrey"
+    ]
+  },
+  {
+    "id": 13102,
+    "zh": "If Prime Minister Jim Hacker有一个缺点（天知道......），那就是他有想法。 Fortunately 他的 Cabinet Secretary、Humphrey 爵士确保他们永远不会实现。与此同时，可怜的Bernard，他的Private Secretary，不安地坐在他们之间的栅栏上......",
+    "protectedNames": [
+      "If Prime Minister Jim Hacker",
+      "Fortunately",
+      "Cabinet Secretary",
+      "Humphrey",
+      "Bernard",
+      "Private Secretary"
+    ]
+  },
+  {
+    "id": 13501,
+    "zh": "新兽医 James Herriot 开始认识他在 Skeldale House 的新家人，他古怪的老板 Siegfried Farnon、他任性的兄弟 Tristan 和精明的管家Mrs Hall，他也被当地农民的女儿Helen Alderson所吸引。",
+    "protectedNames": [
+      "James Herriot",
+      "Skeldale House",
+      "Siegfried Farnon",
+      "Tristan",
+      "Mrs Hall",
+      "Helen Alderson"
+    ]
+  },
+  {
+    "id": 13502,
+    "zh": "当第二季开始时，距离第一季的事件已经过去了三个月。返回格拉斯哥的旅程给 James 带来了一个困境，这意味着他必须在他所爱的人之间做出选择。当 Helen 和 James 表达他们对彼此的感情时，Siegfried、Tristan 和 Mrs Hall 也被迫考虑他们在世界上的位置，而 James 必须最终在义务和责任之间做出决定。爱。",
+    "protectedNames": [
+      "Glasgow",
+      "James",
+      "Helen",
+      "James",
+      "Siegfried",
+      "Tristan",
+      "Mrs Hall",
+      "James"
+    ]
+  },
+  {
+    "id": 13503,
+    "zh": "第三季开始于 1939 年春天，James 和 Helen 准备走上红毯。 James 将有一个新妻子和新的企业股份需要考虑。 Helen也面临着新的挑战，尤其是放弃旧生活。 Tristan 终于通过了考试，现在必须以一名合格的兽医的身份面对世界。 Mrs. Hall 可能已经准备好向工作、家庭和板球之外的感情敞开心扉。随着与德国的战争迫在眉睫，Siegfried 与自己在第一次世界大战期间经历的痛苦记忆作斗争。",
+    "protectedNames": [
+      "James",
+      "Helen",
+      "James",
+      "Helen",
+      "Tristan",
+      "Mrs. Hall",
+      "Germany",
+      "Siegfried",
+      "First World War"
+    ]
+  },
+  {
+    "id": 13504,
+    "zh": "1940 年春天，Skeldale House 中的每个人都即将发生变化。 James和Helen想知道什么时候才是组建家庭的最佳时机，不知道James是否会被征召到英国皇家空军服役。 Tristan's 所有人都感到缺席，但没有人比 Siegfried 更努力地让不断壮大的家庭和他自己团结在一起，勇敢地面对这个新世界。 Mrs Hall 和 Helen's 展望未来，友谊绽放，新的见习兽医学生 Richard Carmody 到来，给家里带来了麻烦。",
+    "protectedNames": [
+      "Skeldale House",
+      "James",
+      "Helen",
+      "James",
+      "RAF",
+      "Tristan's",
+      "Siegfried",
+      "Mrs Hall",
+      "Helen's",
+      "Richard Carmody"
+    ]
+  },
+  {
+    "id": 13505,
+    "zh": "讲述 1930 年代约克郡谷地中一位年轻乡村兽医的温馨又幽默的冒险经历。 1978 年系列的翻拍。",
+    "protectedNames": [
+      "Yorkshire Dales"
+    ]
+  },
+  {
+    "id": 13701,
+    "zh": "匹兹堡创伤医疗中心的工作人员夜以继日地工作，在人满为患且资金不足的急诊科挽救生命。",
+    "protectedNames": [
+      "Pittsburgh's Trauma Medical Center"
+    ]
+  },
+  {
+    "id": 13702,
+    "zh": "匹兹堡创伤医疗中心的工作人员夜以继日地工作，在人满为患且资金不足的急诊科挽救生命。",
+    "protectedNames": [
+      "Pittsburgh's Trauma Medical Center"
+    ]
+  },
+  {
+    "id": 25901,
+    "zh": "在一个充满危险、欺骗和阴谋的时代，Cassian Andor将发现他在与暴虐Galactic Empire的斗争中可以发挥什么作用。他踏上了一条注定将他变成反叛英雄的道路。",
+    "protectedNames": [
+      "Cassian Andor",
+      "Galactic Empire"
+    ]
+  },
+  {
+    "id": 25902,
+    "zh": "在第二季中，Cassian Andor 在通往他史诗般命运的道路上，从士兵转变为领袖，再转变为英雄。他的故事激起了越来越多的盟友和敌人的关注。随着银河战争的临近，这些关系将会加强。每个人都将受到考验，随着赌注的增加，背叛、牺牲和相互冲突的议程将变得深刻。谁能活着看到自己的梦想实现？谁会意识到这个梦想的代价是什么？",
+    "protectedNames": [
+      "Cassian Andor"
+    ]
+  },
+  {
+    "id": 26101,
+    "zh": "发现一艘废弃的 Starfleet 飞船后，一群年轻冒险家组成的乌合之众团结起来探索银河系并躲避无情的霸主。",
+    "protectedNames": [
+      "Starfleet"
+    ]
+  },
+  {
+    "id": 26102,
+    "zh": "现在，Starfleet 学员 Dal 和他的朋友们踏上了另一场冒险之旅，解开 Protostar 之谜，拯救一颗星球免遭毁灭。",
+    "protectedNames": [
+      "Starfleet",
+      "Dal",
+      "Protostar"
+    ]
+  },
+  {
+    "id": 40601,
+    "zh": "David Attenborough 在这部史诗般的纪录片系列中颂扬了自然世界的惊人多样性，历时四年在 64 个不同国家拍摄。",
+    "protectedNames": [
+      "David Attenborough"
+    ]
+  },
+  {
+    "id": 40602,
+    "zh": "David Attenborough 推出了一系列纪录片，探讨动物如何应对在地球上最具标志性的栖息地中生存的挑战。",
+    "protectedNames": [
+      "David Attenborough"
+    ]
+  },
+  {
+    "id": 40603,
+    "zh": "Journeying 前往我们星球的最遥远的地方，这部由八部分组成的连续剧讲述了一些世界上最令人惊奇的物种，讲述了戏剧性、惊险、有趣、有时令人心碎的非凡故事，但总是充满希望。",
+    "protectedNames": [
+      "Journeying"
+    ]
+  },
+  {
+    "id": 40701,
+    "zh": "英国的（最不可能的农民）Jeremy Clarkson 的生活中，这是紧张、艰苦且时常热闹的一年。加入 Jeremy 和他的乌合之众农业伙伴队伍，直面恶劣的天气、不听话的动物、反应迟钝的农作物和意想不到的流行病。这是 Jeremy Clarkson，因为您以前从未见过他。",
+    "protectedNames": [
+      "Britain’s",
+      "Jeremy Clarkson",
+      "Jeremy",
+      "Jeremy Clarkson"
+    ]
+  },
+  {
+    "id": 40702,
+    "zh": "Diddly Squat Farm 的又一年，由 Jeremy Clarkson、英国的最著名但最不合格的业余农民经营。为了增加年利润（去年为 144 英镑），他进行了多元化经营，种植了奶牛、更多的鸡和自己的餐厅。",
+    "protectedNames": [
+      "Diddly Squat Farm",
+      "Jeremy Clarkson",
+      "Britain's"
+    ]
+  },
+  {
+    "id": 40703,
+    "zh": "在《Season 2》的胜利结局之后，我们回到Diddly Squat，发现一切都在混乱中。议会已经关闭了餐厅，天气正在破坏庄稼。渴望新的收入来源 Jeremy 进入了养猪、攻击山羊和蘑菇山的世界。与此同时，晋升为农场经理的 Kaleb 正在与一个不受欢迎的竞争对手打交道。迄今为止最有趣、最令人心碎的季节。",
+    "protectedNames": [
+      "Season",
+      "Diddly Squat",
+      "Jeremy",
+      "Kaleb"
+    ]
+  },
+  {
+    "id": 40704,
+    "zh": "Jeremy 正在进行他迄今为止最雄心勃勃的项目，准备购买一家酒吧，这将重新点燃他对 Farm 到 Fork 餐厅的愿景。但成为房东的道路并不平坦，随着新面孔、新牲畜和新机械的到来，Diddly Squat 的生活比以往任何时候都更加忙碌。",
+    "protectedNames": [
+      "Jeremy",
+      "Farm",
+      "Fork",
+      "Diddly Squat"
+    ]
+  },
+  {
+    "id": 40705,
+    "zh": "政府预算让英国农业社区陷入一片哗然，Jeremy 决定需要进行一些重大改变，以使农场运营更加顺利。但是，虽然农场试图走向高科技，导致 Kaleb's 首次出国旅行，但 Diddly Squat 正在走向更大的发展，这将是一个更大的挑战。",
+    "protectedNames": [
+      "UK",
+      "Jeremy",
+      "Kaleb's",
+      "Diddly Squat"
+    ]
+  },
+  {
+    "id": 50311,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50312,
+    "zh": "在第二个系列中，一如既往，Poirot's 巧妙的头脑设法找到了解决许多谜团的方法。当 Hastings 显然希望夺取荣耀以给一位女士留下深刻印象时，他甚至设法假装对案件不感兴趣。",
+    "protectedNames": [
+      "Poirot's",
+      "Hastings"
+    ]
+  },
+  {
+    "id": 50313,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50314,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50315,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50316,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50317,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50318,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50319,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50320,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50321,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50322,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50323,
+    "zh": "从英格兰到埃及，聪明而又古怪的比利时侦探Hercule Poirot在他优雅而值得信赖的助手的陪伴下，用他的智慧对抗一系列一流的骗局。",
+    "protectedNames": [
+      "England",
+      "Egypt",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": 50411,
+    "zh": "Miss Jane Marple 的冒险，是一位住在 St Mary Mead 安静小村庄的老处女。 Miss Marple 在多次拜访其他村庄的朋友和亲戚的过程中，经常偶然发现神秘的谋杀案并帮助解决。尽管警方有时不愿意接受Miss Marple's的帮助，但她的声誉和无与伦比的观察力最终赢得了他们的支持。",
+    "protectedNames": [
+      "Miss Jane Marple",
+      "St Mary Mead",
+      "Miss Marple",
+      "Miss Marple's"
+    ]
+  },
+  {
+    "id": 50412,
+    "zh": "Miss Jane Marple 的冒险，是一位住在 St Mary Mead 安静小村庄的老处女。 Miss Marple 在多次拜访其他村庄的朋友和亲戚的过程中，经常偶然发现神秘的谋杀案并帮助解决。尽管警方有时不愿意接受Miss Marple's的帮助，但她的声誉和无与伦比的观察力最终赢得了他们的支持。",
+    "protectedNames": [
+      "Miss Jane Marple",
+      "St Mary Mead",
+      "Miss Marple",
+      "Miss Marple's"
+    ]
+  },
+  {
+    "id": 50413,
+    "zh": "Miss Jane Marple 的冒险，是一位住在 St Mary Mead 安静小村庄的老处女。 Miss Marple 在多次拜访其他村庄的朋友和亲戚的过程中，经常偶然发现神秘的谋杀案并帮助解决。尽管警方有时不愿意接受Miss Marple's的帮助，但她的声誉和无与伦比的观察力最终赢得了他们的支持。",
+    "protectedNames": [
+      "Miss Jane Marple",
+      "St Mary Mead",
+      "Miss Marple",
+      "Miss Marple's"
+    ]
+  },
+  {
+    "id": 50414,
+    "zh": "Miss Jane Marple 的冒险，是一位住在 St Mary Mead 安静小村庄的老处女。 Miss Marple 在多次拜访其他村庄的朋友和亲戚的过程中，经常偶然发现神秘的谋杀案并帮助解决。尽管警方有时不愿意接受Miss Marple's的帮助，但她的声誉和无与伦比的观察力最终赢得了他们的支持。",
+    "protectedNames": [
+      "Miss Jane Marple",
+      "St Mary Mead",
+      "Miss Marple",
+      "Miss Marple's"
+    ]
+  },
+  {
+    "id": 50415,
+    "zh": "Miss Jane Marple 的冒险，是一位住在 St Mary Mead 安静小村庄的老处女。 Miss Marple 在多次拜访其他村庄的朋友和亲戚的过程中，经常偶然发现神秘的谋杀案并帮助解决。尽管警方有时不愿意接受Miss Marple's的帮助，但她的声誉和无与伦比的观察力最终赢得了他们的支持。",
+    "protectedNames": [
+      "Miss Jane Marple",
+      "St Mary Mead",
+      "Miss Marple",
+      "Miss Marple's"
+    ]
+  },
+  {
+    "id": 50416,
+    "zh": "Miss Jane Marple 的冒险，是一位住在 St Mary Mead 安静小村庄的老处女。 Miss Marple 在多次拜访其他村庄的朋友和亲戚的过程中，经常偶然发现神秘的谋杀案并帮助解决。尽管警方有时不愿意接受Miss Marple's的帮助，但她的声誉和无与伦比的观察力最终赢得了他们的支持。",
+    "protectedNames": [
+      "Miss Jane Marple",
+      "St Mary Mead",
+      "Miss Marple",
+      "Miss Marple's"
+    ]
+  },
+  {
+    "id": 12609,
+    "zh": "Dexter 在 Hurricane Laura 眼中失踪 10 年后，我们发现他以化名生活在小镇 Iron Lake、纽约中。  Dexter 可能正在拥抱他的新生活，但在这个紧密联系的社区发生意外事件之后，他的 Dark Passenger 正在向他招手。",
+    "protectedNames": [
+      "Dexter",
+      "Hurricane Laura",
+      "Iron Lake",
+      "New York",
+      "Dexter",
+      "Dark Passenger"
+    ]
+  },
+  {
+    "id": 12610,
+    "zh": "Dexter Morgan从昏迷中醒来，发现Harrison消失得无影无踪。 Realizing Dexter 为他的儿子所经历的一切感到沉重，他出发前往纽约市，决心找到他并扭转局面。但关闭并不容易。当迈阿密 Metro's Angel Batista 带着问题到来时，Dexter 意识到他的过去正在迅速追上他。当父子俩在这座不夜城中探索自己的黑暗时，他们很快发现自己比他们想象的更深，而唯一的出路就是在一起。",
+    "protectedNames": [
+      "Dexter Morgan",
+      "Harrison",
+      "Realizing",
+      "Dexter",
+      "New York City",
+      "Miami Metro's Angel Batista",
+      "Dexter"
+    ]
+  },
+  {
+    "id": 12102,
+    "zh": "在Spartacus击倒竞技场中的第一个对手之前，有很多角斗士穿过大门来到了沙地上。在这部前传中，House of Batiatus 之家正在崛起，沐浴在臭名昭著的冠军 Gannicus 的光芒中，他的剑术与他对美酒和女人的渴望相匹配。这是年轻的 Batiatus 一直在等待的时刻。",
+    "protectedNames": [
+      "Spartacus",
+      "House of Batiatus",
+      "Gannicus",
+      "Batiatus"
+    ]
+  },
+  {
+    "id": 12103,
+    "zh": "在从 House of Batiatus 之家血腥逃亡之后，角斗士叛乱仍在继续，并开始将恐惧带入罗马共和国的心中。 Gaius Claudius Glaber 和他的 Roman 部队被派往卡普亚，以粉碎 Spartacus 领导的不断壮大的解放奴隶队伍，以免造成进一步伤害。 Spartacus面临着选择，要么满足他个人的复仇需要，向那个使他的妻子沦为奴隶并最终死亡的男人报仇，要么做出更大的牺牲，以防止他正在萌芽的军队分裂。",
+    "protectedNames": [
+      "House of Batiatus",
+      "Roman Republic",
+      "Gaius Claudius Glaber",
+      "Roman",
+      "Capua",
+      "Spartacus",
+      "Spartacus"
+    ]
+  },
+  {
+    "id": 12104,
+    "zh": "Spartacus 决心打倒罗马共和国，现在领导了一场由数千名获得自由的奴隶组成的叛乱。 Roman领导人Gaius Claudius Glaber已去世，前对手Naevia、Crixus、Gannicus和Agron成为叛军将军，加入Spartacus 在对抗帝国的战争中。罗马元老院求助于残酷的政治家和士兵Marcus Crassus来镇压奴隶。 Crassus 与一位年轻的后起之秀 - Julius Caesar - 作为盟友。",
+    "protectedNames": [
+      "Spartacus",
+      "Roman Republic",
+      "Roman",
+      "Gaius Claudius Glaber",
+      "Naevia",
+      "Crixus",
+      "Gannicus",
+      "Agron",
+      "Spartacus",
+      "Roman Senate",
+      "Marcus Crassus",
+      "Crassus",
+      "Julius Caesar"
+    ]
+  },
+  {
+    "id": 26201,
+    "zh": "该剧讲述了由 Christopher Pike 驾驶的 Starfleet 星舰 USS Enterprise (NCC-1701) 在其第二个五年任务 (2259-2264) 期间的航行，该任务先于船长James T。 Kirk's 电视连续剧 Star Trek 中讲述的五年任务。该剧以星历 1738.12 (2259) 为背景，即电视连续剧 Star Trek: Discovery 第二季中发生的事件几年后，当时 Pike 暂时担任 USS Discovery 船长。",
+    "protectedNames": [
+      "Starfleet",
+      "USS Enterprise",
+      "NCC",
+      "Christopher Pike",
+      "James T",
+      "Kirk's",
+      "Star Trek",
+      "Star Trek",
+      "Discovery",
+      "Pike",
+      "USS Discovery"
+    ]
+  },
+  {
+    "id": 26202,
+    "zh": "第二季中，U.S.S. Enterprise 号的船员们在 Christopher Pike 船长的指挥下，面对日益危险的利害关系，探索未知的领域，邂逅新的生命和文明。船员们还将踏上个人旅程，继续考验他们的决心并重新定义他们的命运。面对新的和熟悉的朋友和敌人，他们的冒险将以前所未有的令人惊讶的方式展开。",
+    "protectedNames": [
+      "U.S.S. Enterprise",
+      "Christopher Pike"
+    ]
+  },
+  {
+    "id": 12701,
+    "zh": "在第一季中，Harry Bosch 是一名洛杉矶警察局凶杀案侦探，因枪杀一名连环谋杀嫌疑人而受审，而一起涉及失踪男孩遗体的悬案迫使 Bosch 面对自己的过去。大胆的新兵 Julia Brasher 引起了他的注意，部门政治升温，Bosch 将不惜一切代价追求正义。",
+    "protectedNames": [
+      "Harry Bosch",
+      "LAPD",
+      "Bosch",
+      "Julia Brasher",
+      "Bosch"
+    ]
+  },
+  {
+    "id": 12702,
+    "zh": "在 Mulholland Drive 的汽车后备箱中发现的一具尸体似乎与暴徒有联系，并引导洛杉矶警察局凶杀案侦探 Harry Bosch 走上一条腐败和共谋的危险路线，一直延伸到拉斯维加斯并返回。随着案件变得更加复杂和个人化，Bosch 对真相的追寻更加不懈，警察局的阴暗面被曝光。",
+    "protectedNames": [
+      "Mulholland Drive",
+      "LAPD",
+      "Harry Bosch",
+      "Las Vegas",
+      "Bosch"
+    ]
+  },
+  {
+    "id": 12703,
+    "zh": "Angered 追查母亲被谋杀背后的真相，洛杉矶警察局侦探 Harry Bosch 努力在不完善的司法系统中寻找正直。无家可归的退伍军人被杀、连环杀人嫌疑人自杀，以及好莱坞导演备受瞩目的谋杀案审判，Bosch 与残酷的对手展开对决，而这些对手都威胁要消灭他。",
+    "protectedNames": [
+      "Angered",
+      "LAPD",
+      "Harry Bosch",
+      "Hollywood",
+      "Bosch"
+    ]
+  },
+  {
+    "id": 12704,
+    "zh": "当一名律师在针对洛杉矶警察局的民权审判前夕被谋杀时，Bosch 被指派领导一个特别小组，在城市爆发骚乱之前解决犯罪问题。 Bosch 必须追寻每一个线索，即使这会让聚光灯重新回到他自己的部门。一件谋杀案与另一件谋杀案交织在一起，Bosch 必须调和他的过去，以找到一个长期困扰他的正义。",
+    "protectedNames": [
+      "LAPD",
+      "Bosch",
+      "Bosch",
+      "Bosch"
+    ]
+  },
+  {
+    "id": 12705,
+    "zh": "将杀害母亲的凶手绳之以法十五个月后，Bosch 发现自己在两个方面寻找真相。旧案中的新证据让每个人都想知道Bosch是否捏造了证据来定罪错误的人。好莱坞药房发生的一起谋杀案揭露了一个复杂的阿片类药物工厂，让 Bosch 走上了一条黑暗而危险的道路来追捕凶手。",
+    "protectedNames": [
+      "Bosch",
+      "Bosch",
+      "Hollywood",
+      "Bosch"
+    ]
+  },
+  {
+    "id": 12706,
+    "zh": "一名医学物理学家被处决，随身携带的致命放射性物质失踪后，侦探 Harry Bosch 发现自己处于一桩复杂谋杀案的中心，一场混乱的联邦调查，以及对他承诺服务和保护的城市洛杉矶的灾难性威胁。",
+    "protectedNames": [
+      "Harry Bosch",
+      "Los Angeles"
+    ]
+  },
+  {
+    "id": 12707,
+    "zh": "一名十岁女孩在纵火中丧生，侦探 Harry Bosch 不顾强大势力的反对，冒着一切风险将凶手绳之以法。侦探 Jerry Edgar 在努力应对枪击 Jacques Avril 的后果时崩溃了。 Maddie 协助 Honey Chandler 处理一起备受瞩目的案件，这起案件吸引了 Bosch，并将他们置于危险罪犯的瞄准目标之中。",
+    "protectedNames": [
+      "Harry Bosch",
+      "Jerry Edgar",
+      "Jacques Avril",
+      "Maddie",
+      "Honey Chandler",
+      "Bosch"
+    ]
+  },
+  {
+    "id": 11601,
+    "zh": "在January 2006中，Lorne Malvo通过Bemidji、明尼苏达州，用他的恶意和暴力影响了受骗的保险推销员Lester Nygaard。与此同时，Deputy Molly Solverson 和德卢斯警官 Gus Grimly 联手侦破一系列他们认为可能与 Malvo 和 Nygaard 有关的谋杀案。",
+    "protectedNames": [
+      "January",
+      "Lorne Malvo",
+      "Bemidji",
+      "Minnesota",
+      "Lester Nygaard",
+      "Deputy Molly Solverson",
+      "Duluth",
+      "Gus Grimly",
+      "Malvo",
+      "Nygaard"
+    ]
+  },
+  {
+    "id": 11602,
+    "zh": "第二季的章节将带您回到 1979 年的苏福尔斯、南达科他州和 Luverne、明尼苏达州。 Lou Solverson，一位年轻的State Police Officer，最近从越南回来，与她的丈夫一起调查一起涉及当地犯罪团伙、主要黑帮集团和小镇美容师Peggy Blumquist的案件Ed，当地屠夫的助手。 Helping Lou 拼凑起来的是他的岳父，Sheriff Hank Larsson。调查将引导他们找到一群丰富多彩的人物，其中包括Karl Weathers、Luverne、明尼苏达州的镇律师； Joe Bulo，堪萨斯城犯罪集团向北扩张的头号人物，与他的二号人物 Mike Milligan；以及目前由女族长 Floyd Gerhardt 领导的 Gerhardt 犯罪家族。",
+    "protectedNames": [
+      "Sioux Falls",
+      "South Dakota",
+      "Luverne",
+      "Minnesota",
+      "Lou Solverson",
+      "State Police Officer",
+      "Vietnam",
+      "Peggy Blumquist",
+      "Ed",
+      "Helping Lou",
+      "Sheriff Hank Larsson",
+      "Karl Weathers",
+      "Luverne",
+      "Minnesota",
+      "Joe Bulo",
+      "Kansas City",
+      "Mike Milligan",
+      "Gerhardt",
+      "Floyd Gerhardt"
+    ]
+  },
+  {
+    "id": 12601,
+    "zh": "白天，性格温和的 Dexter 是迈阿密警察的血迹分析师。但到了晚上，他就是一个只针对其他杀人犯的连环杀手。",
+    "protectedNames": [
+      "Dexter",
+      "Miami"
+    ]
+  },
+  {
+    "id": 12602,
+    "zh": "在第二季中，Dexter 受害者的尸体被发现，并在 Dexter 自己的部门展开调查，以寻找被称为“Bay Harbor Butcher”的凶手。 Debra 正在努力恢复，而 Rita 在怀疑 Dexter 怀疑他有毒瘾时，将 Dexter 发送到 Narcotics Anonymous 会议。中士 James Doakes 跟踪 Dexter，怀疑他与“Ice Truck Killer”杀戮有关。",
+    "protectedNames": [
+      "Dexter",
+      "Dexter",
+      "Bay Harbor Butcher",
+      "Debra",
+      "Rita",
+      "Dexter",
+      "Narcotics Anonymous",
+      "James Doakes",
+      "Dexter",
+      "Ice Truck Killer"
+    ]
+  },
+  {
+    "id": 12603,
+    "zh": "在与一名男子发生争执后，Dexter 与他的兄弟 Assistant District Attorney Miguel Prado 建立了友谊。与此同时，Rita 发现自己怀孕了，Debra 调查了一名新连环杀手“The Skinner”的谋杀案，希望晋升为侦探。",
+    "protectedNames": [
+      "Dexter",
+      "Assistant District Attorney Miguel Prado",
+      "Rita",
+      "Debra",
+      "The",
+      "Skinner"
+    ]
+  },
+  {
+    "id": 12604,
+    "zh": "Dexter 作为一名父亲和丈夫，努力弄清楚如何在未来几年生存。他试图向 Arthur Mitchell 学习，Arthur Mitchell 是一名连环杀手，也是一个顾家男人，已谋杀了三十多年而未被发现。",
+    "protectedNames": [
+      "Dexter",
+      "Arthur Mitchell"
+    ]
+  },
+  {
+    "id": 12605,
+    "zh": "在第五季中，Dexter 接受了 Season 第 4 季结局的后果，阻止了一群连环强奸犯，并避开了一名得知其致命秘密的腐败警察。",
+    "protectedNames": [
+      "Dexter",
+      "Season"
+    ]
+  },
+  {
+    "id": 12606,
+    "zh": "第六季讲述了 Dexter 和迈阿密 Metro's 对一系列具有明显宗教末日象征意义的奇异仪式杀戮的调查。",
+    "protectedNames": [
+      "Dexter",
+      "Miami Metro's"
+    ]
+  },
+  {
+    "id": 12607,
+    "zh": "第七季讲述了 Dexter 与 Ukrainian 黑帮老大的纠葛，并介绍了 Hannah McKay，一个拥有园艺天赋和复杂过去的神秘寡妇。",
+    "protectedNames": [
+      "Dexter",
+      "Ukrainian",
+      "Hannah McKay"
+    ]
+  },
+  {
+    "id": 12608,
+    "zh": "当 Deb 努力应对自己行为的后果时，一名神秘女子与迈阿密 Metro 合作，提供有关 Dexter 过去的第一手信息。",
+    "protectedNames": [
+      "Deb",
+      "Miami Metro",
+      "Dexter"
+    ]
+  },
+  {
+    "id": 12301,
+    "zh": "Lord Robert Crawley 和他的家人过着悠闲的生活，而包括管家 Carson 在内的一队仆人则照顾他们的一切需要。但有两个事件共同改变了一切：Titanic 号的沉没（该船声称是 Crawley's 的继承人），以及他的贴身男仆 Bates 的回归。由于Crawley和Lady Cora有三个女儿，他的远房律师表弟Matthew成为遗产继承人。就这样，阴谋开始了，因为Thomas男仆将Bates视为闯入者，而Crawley's母亲Violet对Matthew's母亲也有同样的感觉， Isobel。",
+    "protectedNames": [
+      "Lord Robert Crawley",
+      "Carson",
+      "Titanic",
+      "Crawley's",
+      "Bates",
+      "Crawley",
+      "Lady Cora",
+      "Matthew",
+      "Thomas",
+      "Bates",
+      "Crawley's",
+      "Violet",
+      "Matthew's",
+      "Isobel"
+    ]
+  },
+  {
+    "id": 12302,
+    "zh": "Great War在欧洲肆虐，即使是宁静的约克郡乡村也未能幸免。 Downton 的男男女女都在前线和后方尽自己的一份力量，但战争的激烈程度只会激起人们更熟悉的激情：爱、失落、勒索和背叛。",
+    "protectedNames": [
+      "Great War",
+      "Europe",
+      "Yorkshire",
+      "Downton"
+    ]
+  },
+  {
+    "id": 12303,
+    "zh": "Great War 结束了，一场期待已久的订婚即将开始，但 Downton Abbey 的一切并不平静，痛苦的社会变革、浪漫的阴谋和个人危机席卷了这座雄伟的英国乡村庄园。当其他伟大的家族在第一次世界大战之后在心理和经济上遭受重创时，Robert、Earl of Grantham比以往任何时候都更加坚定地履行维护Downton的职责。但在这个不断变化的环境中，一切都没有确定，难道即使是厌倦了战争的Crawleys也必须打一场新的战斗来保卫他们心爱的Downton吗？",
+    "protectedNames": [
+      "Great War",
+      "Downton Abbey",
+      "World War I",
+      "Robert",
+      "Earl of Grantham",
+      "Downton",
+      "Crawleys",
+      "Downton"
+    ]
+  },
+  {
+    "id": 12304,
+    "zh": "第四季以 1922 年为背景，Lady Mary 哀悼自己的去世，Crawley 家庭和为他们工作的仆人仍然密不可分。",
+    "protectedNames": [
+      "Lady Mary",
+      "Crawley"
+    ]
+  },
+  {
+    "id": 12305,
+    "zh": "在第 5 季中，Crawley 家庭和工作人员在适应 Roaring Twenties 的生活时，在责任和选择中挣扎。新的 Labour 政府预示着整个土地正在发生的变化，Robert、Mary 和 Branson 必须共同应对这些流沙，以确保子孙后代的遗产的未来。当 Branson 发现自己在 Downton 中扮演着比以往更重要的角色时，他不禁质疑自己在这个世界上的地位。 Mary终于接受了她想再次结婚的事实，但她能找到和Matthew一样的幸福吗？与此同时，她心爱的Gregson仍然没有消息，Edith承受着她可怕的秘密的重担。",
+    "protectedNames": [
+      "Crawley",
+      "Roaring Twenties",
+      "Labour",
+      "Robert",
+      "Mary",
+      "Branson",
+      "Branson",
+      "Downton",
+      "Mary",
+      "Matthew",
+      "Gregson",
+      "Edith"
+    ]
+  },
+  {
+    "id": 12306,
+    "zh": "我们与 Crawleys 的时光即将结束，我们将看看它们最终会变成什么样子。秘密和裂痕威胁着家庭的团结，而楼下的人们则继续应对社会变革，这将他们的未来置于危险之中。 Will Mary会选择正确的道路吗？她的妹妹Edith终于可以休息了吗？！ Will Carson 和 Mrs Hughes 真的能走到一起吗？ Anna和Bates会克服摆在他们面前的许多障碍吗？",
+    "protectedNames": [
+      "Crawleys",
+      "Will Mary",
+      "Edith",
+      "Will Carson",
+      "Mrs Hughes",
+      "Anna",
+      "Bates"
+    ]
+  },
+  {
+    "id": 11801,
+    "zh": "受到白宫的背叛，Congressman Francis Underwood 开始了残酷的权力崛起之路。勒索、诱惑和野心是他的武器。",
+    "protectedNames": [
+      "White House",
+      "Congressman Francis Underwood"
+    ]
+  },
+  {
+    "id": 11802,
+    "zh": "在无情地夺取权力的过程中，Francis 和 Claire 与过去和现在的威胁作斗争，并结成新的联盟，而旧的联盟则屈服于背叛。",
+    "protectedNames": [
+      "Francis",
+      "Claire"
+    ]
+  },
+  {
+    "id": 11803,
+    "zh": "President Underwood 为确保他的遗产而奋斗。 Claire 想要的不仅仅是 First Lady。他们面临的最大威胁是相互竞争。",
+    "protectedNames": [
+      "President Underwood",
+      "Claire",
+      "First Lady"
+    ]
+  },
+  {
+    "id": 11804,
+    "zh": "They've 一直是一支伟大的团队。但在第四季中，Frank 和 Claire 的婚姻陷入困境，野心也不一致，因此成为了更大的对手。在选举年，赌注比以往任何时候都更高，他们面临的最大威胁是相互竞争。",
+    "protectedNames": [
+      "They've",
+      "Frank",
+      "Claire"
+    ]
+  },
+  {
+    "id": 11805,
+    "zh": "第五季接续第四季的结尾：在一场紧张的总统选举中，Underwoods 与精力充沛的 Republican 暴发户 Will Conway 站在同一张票上。观众将看到他们激烈的竞选活动如何展开，以及哪些联盟在事后解散。 Perhaps最大的问题是Frank和Claire’s之间是否存在关系。",
+    "protectedNames": [
+      "Underwoods",
+      "Republican",
+      "Will Conway",
+      "Perhaps",
+      "Frank",
+      "Claire’s"
+    ]
+  },
+  {
+    "id": 11806,
+    "zh": "随着 Frank 的退出，Claire Underwood 完全成为第一位女总统，但她的遗产面临着巨大的威胁。",
+    "protectedNames": [
+      "Frank",
+      "Claire Underwood"
+    ]
+  },
+  {
+    "id": 11501,
+    "zh": "Lincoln Burrows 目前被关在死囚牢房，并计划在几个月后因刺杀而死亡，他的弟弟 Michael 确信他没有犯下谋杀罪。在没有其他选择且时间紧迫的情况下，Michael 采取了严厉措施，将自己与他的兄弟一起关押在 Fox River 州立监狱。掌握监狱蓝图的结构工程师 Michael 进入监狱后，开始执行一项精心策划的计划，以将 Lincoln 救出来并证明他的清白。",
+    "protectedNames": [
+      "Lincoln Burrows",
+      "Michael",
+      "Michael",
+      "Fox River State Penitentiary",
+      "Michael",
+      "Lincoln"
+    ]
+  },
+  {
+    "id": 13301,
+    "zh": "Alicia Florrick 在丈夫因性丑闻和政治腐败丑闻入狱后，勇敢地承担起家庭的全部责任，并重新进入职场。",
+    "protectedNames": [
+      "Alicia Florrick"
+    ]
+  },
+  {
+    "id": 13302,
+    "zh": "Alicia Florrick 在丈夫因性丑闻和政治腐败丑闻入狱后，勇敢地承担起家庭的全部责任，并重新进入职场。",
+    "protectedNames": [
+      "Alicia Florrick"
+    ]
+  },
+  {
+    "id": 13303,
+    "zh": "Alicia Florrick 在丈夫因性丑闻和政治腐败丑闻入狱后，勇敢地承担起家庭的全部责任，并重新进入职场。",
+    "protectedNames": [
+      "Alicia Florrick"
+    ]
+  },
+  {
+    "id": 13304,
+    "zh": "Alicia Florrick 在丈夫因性丑闻和政治腐败丑闻入狱后，勇敢地承担起家庭的全部责任，并重新进入职场。",
+    "protectedNames": [
+      "Alicia Florrick"
+    ]
+  },
+  {
+    "id": 13305,
+    "zh": "Alicia Florrick 在丈夫因性丑闻和政治腐败丑闻入狱后，勇敢地承担起家庭的全部责任，并重新进入职场。",
+    "protectedNames": [
+      "Alicia Florrick"
+    ]
+  },
+  {
+    "id": 13306,
+    "zh": "Alicia Florrick 在丈夫因性丑闻和政治腐败丑闻入狱后，勇敢地承担起家庭的全部责任，并重新进入职场。",
+    "protectedNames": [
+      "Alicia Florrick"
+    ]
+  },
+  {
+    "id": 13307,
+    "zh": "Alicia Florrick 在丈夫因性丑闻和政治腐败丑闻入狱后，勇敢地承担起家庭的全部责任，并重新进入职场。",
+    "protectedNames": [
+      "Alicia Florrick"
+    ]
+  },
+  {
+    "id": 11701,
+    "zh": "Rick Grimes 从昏迷中醒来，发现世界已被僵尸占领，在寻找家人的旅程中，他必须学会在后世界末日 Atlanta 的街道上生存。",
+    "protectedNames": [
+      "Rick Grimes",
+      "Atlanta"
+    ]
+  },
+  {
+    "id": 11702,
+    "zh": "在Rick's的领导下，该小组离开Atlanta寻找避难所并寻找可能的避难所。",
+    "protectedNames": [
+      "Rick's",
+      "Atlanta"
+    ]
+  },
+  {
+    "id": 11703,
+    "zh": "该组织看似找到了安全之地，却面临着前所未有的新威胁。",
+    "protectedNames": []
+  },
+  {
+    "id": 11704,
+    "zh": "当大家在稳定的避难所安顿下来时，新的危险威胁着灾难。",
+    "protectedNames": []
+  },
+  {
+    "id": 11705,
+    "zh": "第 4 季大结局后，大多数主要角色都受到 Terminus 的虐待狂居民的摆布。第五季将为幸存者群体提供新的方向，因为科学家 Eugene Porter 承诺，如果他能被安全护送到华盛顿特区，就能治愈僵尸病毒，但到达那里说起来容易做起来难。",
+    "protectedNames": [
+      "Terminus",
+      "Eugene Porter",
+      "Washington DC"
+    ]
+  },
+  {
+    "id": 11706,
+    "zh": "Rick 试图利用他在亚历山大的权威来保证居民的安全，即使新的威胁迫在眉睫。",
+    "protectedNames": [
+      "Rick",
+      "Alexandria"
+    ]
+  },
+  {
+    "id": 11707,
+    "zh": "Rick 和他的组织的世界变得更加残酷，因为 Negan's 是如果他们不生活在他的规则下就会发生什么的致命例子。每个人都必须重新开始。",
+    "protectedNames": [
+      "Rick",
+      "Negan's"
+    ]
+  },
+  {
+    "id": 11708,
+    "zh": "Rick 和他的幸存者将“All-Out War”带给 Negan 和他的部队。 Saviors 规模更大、装备更好、更加残酷 - 但 Rick 和统一社区正在为更光明的未来而战。当他们发起一场充满活力、充满动作的攻势时，战线就被划定了。",
+    "protectedNames": [
+      "Rick",
+      "All-Out War",
+      "Negan",
+      "Saviors",
+      "Rick"
+    ]
+  },
+  {
+    "id": 11709,
+    "zh": "随着Negan和Saviors的失败，幸存者现在正在Rick’s的领导下重建文明。然而，随着周围的步行者开始窃窃私语，这群人被迫面对迄今为止最大的威胁。",
+    "protectedNames": [
+      "Negan",
+      "Saviors",
+      "Rick’s"
+    ]
+  },
+  {
+    "id": 11710,
+    "zh": "现在是Spring，Season 9结束几个月后，我们这群幸存者敢于在严冬期间进入Whisperer领地。聚集起来的社区仍在应对Alpha’s可怕的权力展示的后遗症，不情愿地尊重强加给他们的新边界，同时将自己组织成一支民兵式的战斗部队，为一场可能不可避免的战斗做准备。但 the Whisperers 是他们从未遇到过的威胁。 Backed 由一大群死者组成，这似乎是一场他们无法获胜的战斗。",
+    "protectedNames": [
+      "Spring",
+      "Season",
+      "Whisperer",
+      "Alpha’s",
+      "the Whisperers",
+      "Backed"
+    ]
+  },
+  {
+    "id": 11711,
+    "zh": "亚历山大的人口数量超出了它能够养活和保护的范围。他们必须确保获得更多的食物，同时试图在亚历山大像他们多年来遇到的无数其他社区一样崩溃之前恢复它。他们比以往任何时候都更加憔悴和饥饿，必须更深入地寻找努力和力量来保护孩子的生命，即使这意味着失去自己的生命。",
+    "protectedNames": [
+      "Alexandria",
+      "Alexandria"
+    ]
+  },
+  {
+    "id": 13201,
+    "zh": "跟随 Kevin、Kate 和 Randall 的家庭生活，他们也被称为“The Big Three”，目前生日相同，同时揭示了他们与已婚夫妇的联系Jack和Rebecca Pearson，即将在1980年Jack's 36岁生日时成为三胞胎的父母，匹兹堡、宾夕法尼亚州，美国。",
+    "protectedNames": [
+      "Kevin",
+      "Kate",
+      "Randall",
+      "The",
+      "Big Three",
+      "Jack",
+      "Rebecca Pearson",
+      "Jack's",
+      "Pittsburgh",
+      "Pennsylvania",
+      "USA"
+    ]
+  },
+  {
+    "id": 13202,
+    "zh": "在失去一名家庭成员和精神崩溃之后，Randall 决定通过做出一些大胆的决定来改变他们所有人的生活，以纪念他父亲的遗产。 Kate最终决定在未婚夫Toby的支持下从事歌唱事业，这将让他们的关系受到考验。与此同时，Kevin 与他的初恋情人 Sophie 重逢，并即将成为一名巨大的电影明星，直到他过去的幽灵追上了他。事实证明，“The Big Three”依赖于 Jack 和 Rebecca - 以比他们自己承认的更多的方式。",
+    "protectedNames": [
+      "Randall",
+      "Kate",
+      "Toby",
+      "Kevin",
+      "Sophie",
+      "The",
+      "Big Three",
+      "Jack",
+      "Rebecca"
+    ]
+  },
+  {
+    "id": 13203,
+    "zh": "讲述了在美国现在和过去生活和成长的三个成年人的生活和家庭。当他们的人生道路交叉，他们的生活故事以奇怪的方式交织在一起时，我们发现他们中的几个人有着同一天的生日，而且比任何人想象的都要多。",
+    "protectedNames": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 13204,
+    "zh": "讲述了在美国现在和过去生活和成长的三个成年人的生活和家庭。当他们的人生道路交叉，他们的生活故事以奇怪的方式交织在一起时，我们发现他们中的几个人有着同一天的生日，而且比任何人想象的都要多。",
+    "protectedNames": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 13205,
+    "zh": "讲述了在美国现在和过去生活和成长的三个成年人的生活和家庭。当他们的人生道路交叉，他们的生活故事以奇怪的方式交织在一起时，我们发现他们中的几个人有着同一天的生日，而且比任何人想象的都要多。",
+    "protectedNames": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 13206,
+    "zh": "讲述了在美国现在和过去生活和成长的三个成年人的生活和家庭。当他们的人生道路交叉，他们的生活故事以奇怪的方式交织在一起时，我们发现他们中的几个人有着同一天的生日，而且比任何人想象的都要多。",
+    "protectedNames": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 12501,
+    "zh": "跟随 Dutton 家族的暴力世界，该家族控制着美国最大的连续牧场。在族长 John Dutton 的领导下，这个家族捍卫自己的财产，抵御土地开发商、印第安保留地和美国的和国家公园的不断攻击。",
+    "protectedNames": [
+      "Dutton",
+      "United States",
+      "John Dutton",
+      "America’s",
+      "National Park"
+    ]
+  },
+  {
+    "id": 12502,
+    "zh": "在联盟不断变化和敌人不断增加的情况下，Dutton 家族的遗产受到前所未有的威胁，报应是肯定的。",
+    "protectedNames": [
+      "Dutton"
+    ]
+  },
+  {
+    "id": 12503,
+    "zh": "Jamie's 的忠诚度受到考验，Beth 准备战斗，Dutton 家族组建新联盟。",
+    "protectedNames": [
+      "Jamie's",
+      "Beth",
+      "Dutton"
+    ]
+  },
+  {
+    "id": 12504,
+    "zh": "跟随 Dutton 家族的暴力世界，该家族控制着美国最大的连续牧场。在族长 John Dutton 的领导下，这个家族捍卫自己的财产，抵御土地开发商、印第安保留地和美国的和国家公园的不断攻击。",
+    "protectedNames": [
+      "Dutton",
+      "United States",
+      "John Dutton",
+      "America’s",
+      "National Park"
+    ]
+  },
+  {
+    "id": 12505,
+    "zh": "跟随 Dutton 家族的暴力世界，该家族控制着美国最大的连续牧场。在族长 John Dutton 的领导下，这个家族捍卫自己的财产，抵御土地开发商、印第安保留地和美国的和国家公园的不断攻击。",
+    "protectedNames": [
+      "Dutton",
+      "United States",
+      "John Dutton",
+      "America’s",
+      "National Park"
+    ]
+  },
+  {
+    "id": 12506,
+    "zh": "跟随 the Dutton 一家向西穿越 Great Plains，前往未驯服的美国的最后堡垒。赤裸裸地重述Western的扩张，以及对一个家庭逃离贫困、在美国的应许之地，蒙大拿州寻求更美好未来的深入研究。",
+    "protectedNames": [
+      "the Dutton",
+      "Great Plains",
+      "America",
+      "Western",
+      "America’s",
+      "Montana"
+    ]
+  },
+  {
+    "id": 12507,
+    "zh": "跟随新一代 Dutton 家族在二十世纪初期的脚步，当时流行病、历史性干旱、Prohibition 和大萧条都困扰着西部山区，而 Duttons 则以这里为家。",
+    "protectedNames": [
+      "Dutton",
+      "Prohibition",
+      "Great Depression",
+      "Duttons"
+    ]
+  },
+  {
+    "id": 221,
+    "zh": "在被囚禁在 Afghan 洞穴中后，亿万富翁工程师 Tony Stark 创造了一套独特的武器化盔甲来对抗邪恶。",
+    "protectedNames": [
+      "Afghan",
+      "Tony Stark"
+    ]
+  },
+  {
+    "id": 222,
+    "zh": "现在全世界都知道他作为装甲超级英雄 Iron Man 的双重生活，亿万富翁发明家 Tony Stark 面临着来自政府、媒体和公众的压力，要求与军方分享他的技术。不愿放弃他的发明的 Stark 必须与 Pepper Potts 和 James 'Rhodey' Rhodes 建立新的联盟 - 并对抗强大的敌人。",
+    "protectedNames": [
+      "Iron Man",
+      "Tony Stark",
+      "Stark",
+      "Pepper Potts",
+      "James",
+      "Rhodey' Rhodes"
+    ]
+  },
+  {
+    "id": 223,
+    "zh": "当 Tony Stark's 的世界被一个名为 Mandarin 的强大恐怖分子撕裂时，他开始了重建和报复的冒险之旅。",
+    "protectedNames": [
+      "Tony Stark's",
+      "Mandarin"
+    ]
+  },
+  {
+    "id": 224,
+    "zh": "Odin's 违背父亲 Odin's 的意愿，The Mighty Thor - 一位强大但傲慢的战神 - 鲁莽地重新点燃了一场古老的战争。作为惩罚，Thor 被打入地球并被迫与人类生活在一起。来到这里后，当世界上最危险的恶棍派遣 Asgard 的黑暗势力入侵地球时，Thor 学会了如何成为一名真正的英雄。",
+    "protectedNames": [
+      "Odin's",
+      "The",
+      "Mighty Thor",
+      "Thor",
+      "Earth",
+      "Thor",
+      "Asgard",
+      "Earth"
+    ]
+  },
+  {
+    "id": 225,
+    "zh": "Thor 为恢复宇宙秩序而战……但复仇心重的 Malekith 领导的古老种族卷土重来，让宇宙重新陷入黑暗。面对连Odin和Asgard都无法抵挡的敌人，Thor必须踏上他迄今为止最危险的个人旅程，这将使他与Jane Foster重聚，并迫使他牺牲一切来拯救我们所有人。",
+    "protectedNames": [
+      "Thor",
+      "Malekith",
+      "Odin",
+      "Asgard",
+      "Thor",
+      "Jane Foster"
+    ]
+  },
+  {
+    "id": 226,
+    "zh": "Thor 被囚禁在宇宙的另一边，并发现自己正在与时间赛跑，回到 Asgard，以阻止 Ragnarok、他的家园的毁灭和 Asgardian 文明的终结，而这一切都落在了一个强大的新威胁，无情的人手中。 Hela。",
+    "protectedNames": [
+      "Thor",
+      "Asgard",
+      "Ragnarok",
+      "Asgardian",
+      "Hela"
+    ]
+  },
+  {
+    "id": 227,
+    "zh": "当意想不到的敌人出现并威胁全球安全时，国际维和机构 S.H.I.E.L.D. 的主任 Nick Fury 发现自己需要一支团队来将世界从灾难的边缘拉回来。一场跨越全球的大胆招募活动开始了！",
+    "protectedNames": [
+      "Nick Fury",
+      "S.H.I.E.L.D"
+    ]
+  },
+  {
+    "id": 228,
+    "zh": "当 Tony Stark 试图启动一项休眠的维和计划时，事情出了差错，地球’s Mightiest Heroes 受到了最终的考验，因为地球的命运悬而未决。随着邪恶的 Ultron 的出现，The Avengers 需要阻止他实施他的可怕计划，很快不稳定的联盟和意想不到的行动为一场史诗般的独特全球冒险铺平了道路。",
+    "protectedNames": [
+      "Tony Stark",
+      "Earth’s Mightiest Heroes",
+      "Ultron",
+      "The",
+      "Avengers"
+    ]
+  },
+  {
+    "id": 229,
+    "zh": "当 the Avengers 和他们的盟友继续保护世界免受任何一个英雄都无法应对的威胁时，宇宙阴影中出现了一种新的危险：Thanos。作为一个在星际间臭名昭著的暴君，他的目标是收集所有六块 Infinity Stones，这是具有难以想象的力量的神器，并用它们将他扭曲的意志强加于所有现实。 Everything the Avengers 为之奋斗的一切都导致了这一刻 - 地球的命运和存在本身从未如此不确定。",
+    "protectedNames": [
+      "the Avengers",
+      "Thanos",
+      "Infinity Stones",
+      "Everything the Avengers",
+      "Earth"
+    ]
+  },
+  {
+    "id": 230,
+    "zh": "在Avengers：Infinity War的毁灭性事件之后，由于Mad Titan、Thanos的努力，宇宙变成了废墟。在剩余盟友的帮助下，Avengers 必须再次集结，以撤销 Thanos 的行动并一劳永逸地恢复宇宙秩序，无论可能会产生什么后果。",
+    "protectedNames": [
+      "Avengers",
+      "Infinity War",
+      "Mad Titan",
+      "Thanos",
+      "Avengers",
+      "Thanos"
+    ]
+  },
+  {
+    "id": 231,
+    "zh": "在第二次世界大战期间，Steve Rogers是一位来自布鲁克林的体弱多病的人，他转变为超级士兵上尉美国来协助战争。 Rogers 必须阻止 Red Skull， Adolf Hitler's 冷酷无情的武器首领，以及一个打算使用具有无数力量的神秘装置来统治世界的组织的领导者。",
+    "protectedNames": [
+      "World War II",
+      "Steve Rogers",
+      "Brooklyn",
+      "America",
+      "Rogers",
+      "Red Skull",
+      "Adolf Hitler's"
+    ]
+  },
+  {
+    "id": 232,
+    "zh": "在纽约与The Avengers、Steve Rogers发生灾难性事件后，又名美国队长在华盛顿平静地生活，华盛顿特区并试图适应现代世界。但当 S.H.I.E.L.D. 同事受到攻击时，Steve 卷入了一个威胁世界的阴谋网络。美国队长与 Black Widow 联手，努力揭露不断扩大的阴谋，同时击退每次派来压制他的职业刺客。当邪恶阴谋的全部真相被揭露后，队长美国和 Black Widow 寻求新盟友 Falcon 的帮助。然而，他们很快发现自己遇到了一个意想不到的强大敌人，Winter Soldier。",
+    "protectedNames": [
+      "New York",
+      "The",
+      "Avengers",
+      "Steve Rogers",
+      "America",
+      "Washington",
+      "D.C.",
+      "S.H.I.E.L.D.",
+      "Steve",
+      "Black Widow",
+      "America",
+      "America",
+      "Black Widow",
+      "Falcon",
+      "Winter Soldier"
+    ]
+  },
+  {
+    "id": 233,
+    "zh": "在 Age of Ultron 事件之后，世界各国政府通过了一项旨在规范所有超人类活动的法案。这使得 Avengers 之间的意见两极分化，导致两个派系站在 Iron Man 或队长美国一边，从而导致前盟友之间发生史诗般的战斗。",
+    "protectedNames": [
+      "Age of Ultron",
+      "Avengers",
+      "Iron Man",
+      "America"
+    ]
+  },
+  {
+    "id": 234,
+    "zh": "距离地球数光年，被绑架 26 年后，Peter Quill 在发现 Ronan the Accuser 想要的球体后发现自己成为追捕的主要目标。",
+    "protectedNames": [
+      "Earth",
+      "Peter Quill",
+      "Ronan the Accuser"
+    ]
+  },
+  {
+    "id": 235,
+    "zh": "Guardians 必须努力让他们的新家庭团结在一起，同时解开 Peter Quill's 真实出身之谜。",
+    "protectedNames": [
+      "Guardians",
+      "Peter Quill's"
+    ]
+  },
+  {
+    "id": 236,
+    "zh": "Peter Quill 仍然因失去 Gamora 而感到震惊，他必须将他的团队团结在他周围，保卫宇宙，同时保护自己的一员。这个任务如果没有成功完成，很可能会导致我们所知的 Guardians 的终结。",
+    "protectedNames": [
+      "Peter Quill",
+      "Gamora",
+      "Guardians"
+    ]
+  },
+  {
+    "id": 237,
+    "zh": "Armed 拥有缩小规模但增强力量的惊人能力，大盗 Scott Lang 必须拥抱他内心的英雄，并帮助他的导师 Hank Pym 博士，保护他壮观的 Ant-Man 套装背后的秘密免受新一代的巨大威胁。面对看似无法克服的障碍，Pym 和 Lang 必须计划并完成一场拯救世界的抢劫。",
+    "protectedNames": [
+      "Armed",
+      "Scott Lang",
+      "Hank Pym",
+      "Ant-Man",
+      "Pym",
+      "Lang"
+    ]
+  },
+  {
+    "id": 238,
+    "zh": "就在他的软禁期即将结束时，Scott Lang再次冒着自由的危险，帮助Hope van Dyne和Dr. Hank Pym潜入量子领域，并试图争分夺秒地完成一项非常危险的营救任务。",
+    "protectedNames": [
+      "Scott Lang",
+      "Hope van Dyne",
+      "Dr. Hank Pym"
+    ]
+  },
+  {
+    "id": 239,
+    "zh": "一位才华横溢但傲慢的外科医生的职业生涯被毁后，当一位巫师将他置于自己的羽翼之下并训练他保卫世界免受邪恶侵害时，他获得了新生。",
+    "protectedNames": []
+  },
+  {
+    "id": 240,
+    "zh": "King T'Challa 回到隐居、技术先进的非洲国家 Wakanda，担任该国的新领导人。然而，T'Challa 很快发现他的王位受到国内外派系的挑战。 Using 权力保留给 Wakandan 国王，T'Challa 继承了 Black Panther 的衣钵，与前女友 Nakia、王后、他的公主妹妹、 Dora Milaje（Wakandan“特种部队”）和一名美国特工，以防止Wakanda被拖入世界大战。",
+    "protectedNames": [
+      "King T'Challa",
+      "Wakanda",
+      "T'Challa",
+      "Using",
+      "Wakandan",
+      "T'Challa",
+      "Black Panther",
+      "Nakia",
+      "Dora Milaje",
+      "Wakandan",
+      "Wakanda"
+    ]
+  },
+  {
+    "id": 241,
+    "zh": "继美国队长的事件：内战、Peter Parker之后，在导师Tony Stark的帮助下，试图平衡自己在Queens中作为一名普通高中生的生活，纽约市，以打击犯罪作为他的超级英雄另一个自我 Spider-Man 作为新的威胁，Vulture 出现。",
+    "protectedNames": [
+      "America",
+      "Civil War",
+      "Peter Parker",
+      "Tony Stark",
+      "Queens",
+      "New York City",
+      "Spider-Man",
+      "Vulture"
+    ]
+  },
+  {
+    "id": 242,
+    "zh": "Peter Parker 和他的朋友们去欧洲进行夏季旅行。然而，他们几乎无法休息 - Peter 必须同意帮助 Nick Fury 揭开在整个大陆造成自然灾害和破坏的生物之谜。",
+    "protectedNames": [
+      "Peter Parker",
+      "Europe",
+      "Peter",
+      "Nick Fury"
+    ]
+  },
+  {
+    "id": 243,
+    "zh": "Peter Parker 被揭穿，他不再能够将他的正常生活与成为超级英雄的高风险分开。当他向 Strange 博士寻求帮助时，赌注变得更加危险，迫使他发现 Spider-Man 的真正含义。",
+    "protectedNames": [
+      "Peter Parker",
+      "Strange",
+      "Spider-Man"
+    ]
+  },
+  {
+    "id": 244,
+    "zh": "故事讲述了当地球陷入两个外星种族之间的银河战争时，Carol Danvers 成为宇宙最强大的英雄之一。 《Captain Marvel》以 1990 年代为背景，是 Marvel Cinematic Universe 历史上前所未见的时期的全新冒险。",
+    "protectedNames": [
+      "Carol Danvers",
+      "Earth",
+      "Captain Marvel",
+      "Marvel Cinematic Universe"
+    ]
+  },
+  {
+    "id": 245,
+    "zh": "Scientist Bruce Banner 在地球上搜寻解毒剂，以消除他体内肆无忌惮的愤怒力量：Hulk。但当梦想利用他的力量的军事策划者迫使他回到文明世界时，他发现自己正面对着一个新的致命敌人。",
+    "protectedNames": [
+      "Scientist Bruce Banner",
+      "Hulk"
+    ]
+  },
+  {
+    "id": 401,
+    "zh": "Legendary 教练 Pep Guardiola 带领他的曼城球队度过了 2017-18 足球赛季。",
+    "protectedNames": [
+      "Legendary",
+      "Pep Guardiola",
+      "Manchester City"
+    ]
+  },
+  {
+    "id": 402,
+    "zh": "跟随标志性的足球俱乐部度过一个难忘的赛季。随着球迷重返体育场，2021-22 足球赛季给 Arsenal's 经理 Mikel Arteta 和他的年轻球队带来了重拾昔日辉煌并重返欧洲的压力。提供前所未有的接触方式，捕捉球场内外生活的高潮和低谷，这就是足球的最佳状态：原始、戏剧性和充满激情。",
+    "protectedNames": [
+      "Arsenal's",
+      "Mikel Arteta",
+      "Europe"
+    ]
+  },
+  {
+    "id": 26301,
+    "zh": "Anakin Skywalker，一个拥有 Force 的年轻奴隶，在 Tatooine 上被发现。与此同时，邪恶的Sith又回来了，他们对Jedi进行了报复。",
+    "protectedNames": [
+      "Anakin Skywalker",
+      "Force",
+      "Tatooine",
+      "Sith",
+      "Jedi"
+    ]
+  },
+  {
+    "id": 26302,
+    "zh": "在对 Senator Padmé Amidala 进行暗杀企图后，Jedi Knights Anakin Skywalker 和 Obi-Wan Kenobi 调查了 Separatist 运动核心的神秘阴谋以及Clone Wars。",
+    "protectedNames": [
+      "Senator Padmé Amidala",
+      "Jedi Knights Anakin Skywalker",
+      "Obi-Wan Kenobi",
+      "Separatist",
+      "Clone Wars"
+    ]
+  },
+  {
+    "id": 26303,
+    "zh": "当险恶的 Sith 揭露了一个统治银河系的千年阴谋时，Republic 崩溃了，邪恶的 Galactic Empire 从其灰烬中崛起。 Jedi 英雄 Anakin Skywalker 必须选择一方。",
+    "protectedNames": [
+      "Sith",
+      "Republic",
+      "Galactic Empire",
+      "Jedi",
+      "Anakin Skywalker"
+    ]
+  },
+  {
+    "id": 26304,
+    "zh": "Princess Leia 被邪恶的 Imperial 势力俘获并扣为人质，试图接管银河 Empire。 Venturesome Luke Skywalker和潇洒的队长Han Solo与可爱的机器人二人组R2-D2和C-3PO一起拯救美丽的公主，恢复Empire的和平与正义。",
+    "protectedNames": [
+      "Princess Leia",
+      "Imperial",
+      "Empire",
+      "Venturesome Luke Skywalker",
+      "Han Solo",
+      "C-",
+      "Empire"
+    ]
+  },
+  {
+    "id": 26305,
+    "zh": "史诗般的传奇仍在继续，Luke Skywalker 希望击败邪恶的 Galactic Empire，向年老大师 Yoda 学习 Jedi 的方法。但Darth Vader比以往任何时候都更有决心捕获Luke。与此同时，叛军领袖Princess Leia、自大的Han Solo、Chewbacca以及机器人C-3PO和R2-D2陷入了捕获、背叛和绝望的各个阶段。",
+    "protectedNames": [
+      "Luke Skywalker",
+      "Galactic Empire",
+      "Jedi",
+      "Yoda",
+      "Darth Vader",
+      "Luke",
+      "Princess Leia",
+      "Han Solo",
+      "Chewbacca",
+      "C-"
+    ]
+  },
+  {
+    "id": 26306,
+    "zh": "Luke Skywalker 执行任务，从 Jabba the Hutt 手中营救他的朋友 Han Solo，皇帝准备用更强大的 Death Star 粉碎 Rebellion，而Rebel舰队对空间站发起大规模攻击。 Luke Skywalker 在邪恶皇帝面前进行最后的高潮决斗，对抗 Darth Vader。",
+    "protectedNames": [
+      "Luke Skywalker",
+      "Han Solo",
+      "Jabba the Hutt",
+      "Rebellion",
+      "Death Star",
+      "Rebel",
+      "Luke Skywalker",
+      "Darth Vader"
+    ]
+  },
+  {
+    "id": 26307,
+    "zh": "击败 Galactic Empire 三十年后，Han Solo 和他的盟友面临来自邪恶 Kylo Ren 及其 Stormtroopers 军队的新威胁。",
+    "protectedNames": [
+      "Galactic Empire",
+      "Han Solo",
+      "Kylo Ren",
+      "Stormtroopers"
+    ]
+  },
+  {
+    "id": 26308,
+    "zh": "Rey 在 Luke Skywalker 的指导下发展她新发现的能力，Luke Skywalker 对她的力量强度感到不安。与此同时，Resistance 准备与 First Order 进行战斗。",
+    "protectedNames": [
+      "Rey",
+      "Luke Skywalker",
+      "Resistance",
+      "First Order"
+    ]
+  },
+  {
+    "id": 26309,
+    "zh": "随着 Rey、Finn 和 Poe Dameron 的旅程继续，幸存的 Resistance 再次面对 First Order。凭借几代人的力量和知识，最后的战斗开始了。",
+    "protectedNames": [
+      "Resistance",
+      "First Order",
+      "Rey",
+      "Finn",
+      "Poe Dameron"
+    ]
+  },
+  {
+    "id": 26310,
+    "zh": "一群叛逆的抵抗战士联合起来执行窃取 Death Star 计划并为银河系带来新希望的任务。",
+    "protectedNames": [
+      "Death Star"
+    ]
+  },
+  {
+    "id": 26311,
+    "zh": "在黑暗而危险的犯罪黑社会深处，经过一系列大胆的冒险，Han Solo 遇到了他强大的未来副驾驶 Chewbacca，并遇到了臭名昭著的赌徒 Lando Calrissian。",
+    "protectedNames": [
+      "Han Solo",
+      "Chewbacca",
+      "Lando Calrissian"
+    ]
+  },
+  {
+    "id": 27001,
+    "zh": "来自世界各地的八个陌生人突然开始进行心灵感应交流，但很快发现他们的天赋也成为了目标。",
+    "protectedNames": []
+  },
+  {
+    "id": 27002,
+    "zh": "Sensates 面临着越来越大的危险和痛苦的个人战斗，因为他们开始揭开暗黑势力想要消灭他们的真相。",
+    "protectedNames": [
+      "Sensates"
+    ]
+  }
+]

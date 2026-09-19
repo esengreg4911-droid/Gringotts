@@ -4,7 +4,8 @@ var filters = {genre:"all",type:"all"};
 var sortBy = "year";
 var sortDir = "desc";
 var curPage = 1;
-var PAGE_SIZE = 14;
+var PAGE_SIZE = 12;
+var currentWorkId = null;
 var sidebarToggle=document.getElementById('sidebar-toggle');
 var filterSidebar=document.getElementById('filter-sidebar');
 var filterContent=document.getElementById('filter-content');
@@ -28,6 +29,7 @@ document.querySelectorAll(".fb[data-f]").forEach(function(b){
     curPage=1;
     document.querySelectorAll(".fb[data-f='"+f+"']").forEach(function(x){x.classList.remove("on");});
     this.classList.add("on");
+    leaveDetailForCollection();
     render();
   });
 });
@@ -48,6 +50,7 @@ document.querySelectorAll(".fb[data-sort]").forEach(function(b){
     var sp=this.querySelector(".sdir");
     if(sp) sp.textContent=sortDir==="desc"?"↓":"↑";
     curPage=1;
+    leaveDetailForCollection();
     render();
   });
 });
@@ -88,7 +91,7 @@ document.getElementById("pg-jump").addEventListener("keydown",function(e){
   if(e.key==="Enter"){doJump();}
 });
 document.getElementById("pg-go").addEventListener("click",function(){doJump();});
-document.getElementById("srch").addEventListener("input",function(){curPage=1;render();});
+document.getElementById("srch").addEventListener("input",function(){curPage=1;leaveDetailForCollection();render();});
 
 // ── Local cover loader ──
 function coverUrl(id) {
@@ -207,7 +210,7 @@ function render(){
       +'<div class="mc-cover-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18M3 9h6M3 15h6"/><circle cx="15.5" cy="10.5" r="2.5"/></svg></div>'
       +'</div>';
     return '<article class="mc">'
-      +'<button class="mc-open" aria-labelledby="mc-title-'+d.id+'" aria-haspopup="dialog" onclick="openM('+d.id+',this)"></button>'
+      +'<button class="mc-open" aria-labelledby="mc-title-'+d.id+'" onclick="openM('+d.id+')"></button>'
       +coverHtml
       +'<div class="mc-body"><div class="mc-t" id="mc-title-'+d.id+'">'+nm+'</div>'
       +'</div></article>';
@@ -216,33 +219,93 @@ function render(){
   loadCovers();
 }
 
-function openM(id,trigger){
+function openM(id){
+  showDetail(id,true);
+}
+
+function workUrl(id){
+  var url=new URL(window.location.href);
+  if(id===null)url.searchParams.delete('work');
+  else url.searchParams.set('work',String(id));
+  return url.href;
+}
+
+function leaveDetailForCollection(){
+  if(currentWorkId!==null)showCollection(true);
+}
+
+function showCollection(pushHistory){
+  currentWorkId=null;
+  document.body.classList.remove('detail-open');
+  document.getElementById('detail-view').hidden=true;
+  document.getElementById('films').hidden=false;
+  document.title='GRINGOTTS';
+  if(pushHistory)history.pushState({view:'collection'},'',workUrl(null));
+}
+
+function showDetail(id,pushHistory){
   var d=DATA.find(function(x){return x.id===id;});
-  if(!d)return;
+  if(!d){
+    showCollection(false);
+    history.replaceState({view:'collection'},'',workUrl(null));
+    return;
+  }
+  currentWorkId=d.id;
   var zh=curLang==="zh";
   var nm=zh&&d.zh?d.zh:d.title;
-  var orig=(zh&&d.zh)?d.title:(d.zh||"");
   var gl_zh2={"Feature":"剧情","Fantasy":"奇幻","Documentary":"纪录片","Suspense":"侦探","Science Fiction":"科幻"};
-  document.getElementById("mcat").textContent=(curLang==="zh"?gl_zh2[d.genre]||d.genre:d.genre)+" · "+tl[d.type][curLang]+" · "+d.year;
-  document.getElementById("mtitle").textContent=nm;
-  document.getElementById("morig").textContent=orig;
-  // Modal cover
-  var mc = document.getElementById("modal-cover");
+  document.getElementById("detail-category").textContent=(curLang==="zh"?gl_zh2[d.genre]||d.genre:d.genre)+" · "+tl[d.type][curLang]+" · "+d.year;
+  document.getElementById("detail-title").textContent=nm;
+  var mc = document.getElementById("detail-cover");
   if (mc) {
-    mc.innerHTML = '<div class="modal-cover-placeholder"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" opacity=".4"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18M3 9h6M3 15h6"/><circle cx="15.5" cy="10.5" r="2.5"/></svg></div>';
+    mc.innerHTML = '<div class="modal-cover-placeholder"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" opacity=".4"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18M3 9h6M3 15h6"/><circle cx="15.5" cy="10.5" r="2.5"/></svg></div>';
     mc._currentId = d.id;
     applyCover(mc, coverUrl(d.id), false);
   }
   var imdbUrl = d.imdb_id ? "https://www.imdb.com/title/" + d.imdb_id + "/" : "https://www.imdb.com/find?q=" + encodeURIComponent(d.title);
   var doubanUrl = d.douban_id ? "https://movie.douban.com/subject/" + d.douban_id + "/" : "https://search.douban.com/movie/subject_search?search_text=" + encodeURIComponent(d.zh||d.title);
   var doubanTitle = d.douban_id ? (zh?"查看豆瓣作品页":"View on Douban") : (zh?"在豆瓣搜索":"Search on Douban");
-  document.getElementById("mrats").innerHTML=
+  document.getElementById("detail-ratings").innerHTML=
     '<a class="mrat im" href="'+imdbUrl+'" target="_blank" rel="noopener" title="Search on IMDb" style="text-decoration:none;cursor:pointer"><div class="mrn">'+d.imdb+'</div><div class="mrl">IMDb ↗</div></a>'
-    +'<a class="mrat db" href="'+doubanUrl+'" target="_blank" rel="noopener" title="'+doubanTitle+'" style="text-decoration:none;cursor:pointer"><div class="mrn">'+d.douban+'</div><div class="mrl">'+(zh?"豆瓣评分":"Douban")+' ↗</div></a>';
-  showDialog(document.getElementById('ov'),trigger);
+    +'<a class="mrat db" href="'+doubanUrl+'" target="_blank" rel="noopener" title="'+doubanTitle+'" style="text-decoration:none;cursor:pointer"><div class="mrn">'+d.douban+'</div><div class="mrl">'+(zh?"豆瓣":"Douban")+' ↗</div></a>';
+  var synopsis=zh?d.description_zh:d.description_en;
+  var synopsisSection=document.getElementById('detail-synopsis');
+  synopsisSection.hidden=!synopsis;
+  document.getElementById('detail-summary').textContent=synopsis||'';
+  var source=document.getElementById('detail-source');
+  var sourceUrl=zh?(d.description_source_zh||d.description_source):(d.description_source_en||d.description_source);
+  if(synopsis&&sourceUrl){
+    source.hidden=false;
+    source.href=sourceUrl;
+    var sourceName=zh?(d.description_source_name_zh||'资料页'):(d.description_source_name_en||'Source page');
+    source.textContent=(zh?'资料来源：':'Source: ')+sourceName+' ↗';
+  }else{
+    source.hidden=true;
+    source.removeAttribute('href');
+    source.textContent='';
+  }
+  document.getElementById('films').hidden=true;
+  document.getElementById('detail-view').hidden=false;
+  document.body.classList.add('detail-open');
+  document.title=nm+' · GRINGOTTS';
+  if(pushHistory)history.pushState({view:'detail',id:d.id,fromCollection:true},'',workUrl(d.id));
+  window.scrollTo({top:0,behavior:'instant'});
 }
-function closeOv(e){if(e.target===document.getElementById("ov"))closeModal();}
-function closeModal(){document.getElementById("ov").close();}
+
+document.getElementById('detail-back').addEventListener('click',function(){
+  if(history.state&&history.state.view==='detail'&&history.state.fromCollection)history.back();
+  else{
+    showCollection(false);
+    history.replaceState({view:'collection'},'',workUrl(null));
+    window.scrollTo({top:0,behavior:'instant'});
+  }
+});
+
+window.addEventListener('popstate',function(){
+  var id=parseInt(new URLSearchParams(window.location.search).get('work'),10);
+  if(!isNaN(id))showDetail(id,false);
+  else showCollection(false);
+});
 
 // Native dialogs make the background inert; retain the page position on mobile too.
 function showDialog(dialog,trigger){
@@ -287,7 +350,8 @@ function toggleLang(){
   document.body.classList.add(curLang);
   document.documentElement.lang=curLang;
   document.getElementById("lb").textContent=curLang==="zh"?"EN":"中文";
-  render();
+  if(currentWorkId!==null)showDetail(currentWorkId,false);
+  else render();
 }
 
 
@@ -302,3 +366,10 @@ function closeAboutOv(e){if(e.target===document.getElementById("about-ov"))close
 
 
 render();
+var initialWorkId=parseInt(new URLSearchParams(window.location.search).get('work'),10);
+if(!isNaN(initialWorkId)){
+  history.replaceState({view:'detail',id:initialWorkId,fromCollection:false},'',workUrl(initialWorkId));
+  showDetail(initialWorkId,false);
+}else{
+  history.replaceState({view:'collection'},'',workUrl(null));
+}
