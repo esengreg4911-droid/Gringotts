@@ -63,17 +63,18 @@ node scripts/build-tmdb-en.js
 
 ## 作品地址
 
-作品使用英文片名路径，例如 `/the-wire`、`/the-wire-season-2`。
+所有作品的网址自动根据英文片名生成，例如 `/the-wire`、`/the-wire-season-2`，不需要为每部作品创建文件夹。
 原来的 `?work=作品编号` 不再作为作品入口使用。
 
-`work-routes.js` 负责作品编号与路径的对应；`scripts/build-work-pages.js` 根据首页模板生成各作品目录中的 `index.html`。
-这些入口页通过 `<base href="../">` 共用根目录资源，直接打开、刷新和浏览器前进后退均使用相同的作品路径。
-静态服务器可能先将 `/the-wire` 重定向到 `/the-wire/`，页面加载后会统一为无尾斜杠形式。
+`work-routes.js` 自动建立作品编号与片名路径的对应关系；`vercel.json` 将单层作品路径交给根目录的 `index.html`。
+首页通过 `<base href="/">` 加载根目录资源；作品地址可直接打开和刷新，浏览器前进后退保持正常。
+图片、JS、CSS 及嵌套路径不匹配作品路径规则。
 
-新增作品或修改根目录 `index.html` 后运行：
+当前自定义域名由 Vercel 托管，需要将 `vercel.json` 一同提交。GitHub Pages 不执行该重写配置。
+新增作品只需更新 `data.js`；不再运行入口页生成脚本。
+
+验证路由：
 
 ```powershell
-node scripts/build-work-pages.js
+node scripts/test-work-routes.cjs
 ```
-
-本地预览请通过 HTTP 服务访问，例如 `python -m http.server 8000`，然后打开 `http://localhost:8000/`。
