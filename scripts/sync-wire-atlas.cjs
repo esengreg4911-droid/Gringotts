@@ -12,9 +12,8 @@ function files(root,prefix=''){
 }
 function standaloneHtml(html){
  if(!html.includes('<base href="/the-wire/atlas/">'))throw new Error('Integrated base path changed; review standalone conversion');
- const converted=html.replace(/^\s*<base href="\/the-wire\/atlas\/">\r?\n/m,'').replace('href="/the-wire"','href="https://www.gringotts04.cc/the-wire"');
+ const converted=html.replace(/^\s*<base href="\/the-wire\/atlas\/">\r?\n/m,'');
  if(/<base\b/.test(converted))throw new Error('Standalone base path was not removed');
- if(!converted.includes('href="https://www.gringotts04.cc/the-wire"'))throw new Error('Standalone return link was not converted');
  return converted;
 }
 const paths=files(source);

@@ -34,6 +34,6 @@
 
 地图支持中英文切换，并记住语言选择；切换语言保留当前进度、筛选及选中人物。
 Gringotts 的 `the-wire/atlas` 是维护源，独立地图仓库保留相同功能、样式、资料、译文和图片。
-两个版本仅在网页基础路径与返回链接上作部署适配。
+两个版本仅在网页基础路径上作部署适配。
 后续修改必须同步 Gringotts、`E:\Subtitles\wire-atlas\dist` 和 `esengreg4911-droid/the-wire-atlas` 仓库。
 在 Gringotts 项目运行 `node scripts/sync-wire-atlas.cjs` 可同步并逐文件校验本地独立版，之后提交并推送两个仓库。
