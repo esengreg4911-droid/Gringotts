@@ -174,3 +174,13 @@ body.detail-open .browse-toolbar{display:none}
 .review-option>a:hover{color:#f0dfbc;text-decoration:underline}
 .review-option>a:focus-visible{outline:1px solid #c9ad79;outline-offset:3px}
 @media(max-width:539px){.detail-resources{gap:8px}.detail-resources .detail-atlas-link{padding:10px 13px;font-size:12px}}
+
+.source-menu{width:300px;min-width:0;max-width:calc(100vw - 40px);padding:8px 14px;left:auto;right:0}
+.source-collection{display:block;padding:10px 0 14px;color:#d5bd91;text-decoration:none;border-bottom:1px solid rgba(201,173,121,.16)}
+.source-collection strong{font-size:13px;font-weight:500}.source-collection small{display:block;font-size:10px;line-height:1.7;color:#9e9788;margin-top:6px}
+.source-season-group{padding:13px 0}.source-group-title{font-size:11px;color:#a39a88;margin-bottom:10px}
+.source-season-links{display:flex;flex-wrap:wrap;gap:7px}
+.source-season-links a{display:inline-flex;align-items:center;gap:3px;border:1px solid rgba(201,173,121,.22);border-radius:3px;padding:7px 9px;font-size:11px;color:#d5bd91;text-decoration:none}
+.source-other{display:block;border-top:1px solid rgba(201,173,121,.16);padding:12px 0 8px;font-size:12px;color:#d5bd91;text-decoration:none}
+.source-menu a:hover{color:#f0dfbc}.source-season-links a:hover{background:rgba(201,173,121,.12)}.source-menu a:focus-visible{outline:1px solid #c9ad79;outline-offset:3px}
+@media(max-width:539px){.source-menu{position:static;width:min(300px,calc(100vw - 40px));margin-top:8px}.source-picker[open]{flex-basis:100%;order:1}}

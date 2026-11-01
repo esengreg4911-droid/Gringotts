@@ -282,6 +282,7 @@ function showDetail(id,pushHistory){
   document.getElementById('detail-atlas-link').hidden=d.imdb_id!=='tt0306414';
   document.getElementById('detail-resources').hidden=d.imdb_id!=='tt0306414';
   document.getElementById('review-picker').open=false;
+  document.getElementById('source-picker').open=false;
   var synopsis=zh?d.description_zh:d.description_en;
   var synopsisSection=document.getElementById('detail-synopsis');
   synopsisSection.hidden=!synopsis;
@@ -387,3 +388,10 @@ if(initialWorkId!==null){
 }else{
   history.replaceState({view:'collection'},'',workUrl(null));
 }
+
+
+document.querySelectorAll('.detail-resources details').forEach(function(picker){
+  picker.querySelector('summary').addEventListener('click',function(){
+    if(!picker.open)document.querySelectorAll('.detail-resources details').forEach(function(other){if(other!==picker)other.open=false;});
+  });
+});
