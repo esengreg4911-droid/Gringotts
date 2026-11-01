@@ -19,7 +19,7 @@ for(const work of app.c.DATA){
  assert.equal(config.rewrites[0].destination,'/index.html');
  const source=config.rewrites[0].source.replace(':work','');
  assert(new RegExp('^'+source+'$').test('/'+slug));
- app.c.openM(work.id);assert.equal(app.document.getElementById('detail-atlas-link').hidden,work.imdb_id!=='tt0306414');assert.equal(app.location.pathname,'/'+slug);assert.equal(app.location.search,'');assert.equal(app.c.currentWorkId,work.id);
+ app.c.openM(work.id);assert.equal(app.document.getElementById('detail-atlas-link').hidden,work.imdb_id!=='tt0306414');assert.equal(app.document.getElementById('detail-resources').hidden,work.imdb_id!=='tt0306414');assert.equal(app.document.getElementById('review-picker').open,false);assert.equal(app.location.pathname,'/'+slug);assert.equal(app.location.search,'');assert.equal(app.c.currentWorkId,work.id);
  app.c.toggleLang();assert.equal(app.location.pathname,'/'+slug);app.c.toggleLang();
  const direct=boot('https://www.gringotts04.cc/'+slug+'/');assert.equal(direct.c.currentWorkId,work.id);assert.equal(direct.location.pathname,'/'+slug);
  direct.location.href='https://www.gringotts04.cc/';direct.events.popstate();assert.equal(direct.c.currentWorkId,null);

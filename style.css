@@ -159,3 +159,18 @@ body.detail-open .browse-toolbar{display:none}
 .detail-atlas-link[hidden]{display:none}
 .detail-atlas-link:hover{background:rgba(201,173,121,.16);border-color:rgba(201,173,121,.65)}
 .detail-atlas-link:focus-visible{outline:2px solid #c9ad79;outline-offset:4px}
+
+.detail-resources{display:flex;align-items:flex-start;flex-wrap:wrap;gap:10px;margin-top:24px}
+.detail-resources[hidden]{display:none}
+.detail-resources .detail-atlas-link{margin:0;min-height:42px}
+.review-picker{position:relative}
+.review-picker>summary{cursor:pointer;list-style:none;user-select:none}
+.review-picker>summary::-webkit-details-marker{display:none}
+.review-menu{position:absolute;top:calc(100% + 8px);left:0;z-index:3;min-width:245px;padding:6px 12px;background:#151e2a;border:1px solid rgba(201,173,121,.35);border-radius:4px;box-shadow:0 8px 24px #0005}
+.review-option{display:flex;align-items:center;justify-content:space-between;gap:20px}
+.review-option+.review-option{border-top:1px solid rgba(201,173,121,.13)}
+.review-option>a{display:inline-block;padding:12px 0;color:#d5bd91;text-decoration:none;font-size:13px;white-space:nowrap}
+.review-option>a.resource-download{font-size:11px;color:#a39a88}
+.review-option>a:hover{color:#f0dfbc;text-decoration:underline}
+.review-option>a:focus-visible{outline:1px solid #c9ad79;outline-offset:3px}
+@media(max-width:539px){.detail-resources{gap:8px}.detail-resources .detail-atlas-link{padding:10px 13px;font-size:12px}}

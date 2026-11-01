@@ -280,6 +280,8 @@ function showDetail(id,pushHistory){
     '<a class="mrat im" href="'+imdbUrl+'" target="_blank" rel="noopener" title="Search on IMDb" style="text-decoration:none;cursor:pointer"><div class="mrn">'+d.imdb+'</div><div class="mrl">IMDb ↗</div></a>'
     +'<a class="mrat db" href="'+doubanUrl+'" target="_blank" rel="noopener" title="'+doubanTitle+'" style="text-decoration:none;cursor:pointer"><div class="mrn">'+d.douban+'</div><div class="mrl">'+(zh?"豆瓣":"Douban")+' ↗</div></a>';
   document.getElementById('detail-atlas-link').hidden=d.imdb_id!=='tt0306414';
+  document.getElementById('detail-resources').hidden=d.imdb_id!=='tt0306414';
+  document.getElementById('review-picker').open=false;
   var synopsis=zh?d.description_zh:d.description_en;
   var synopsisSection=document.getElementById('detail-synopsis');
   synopsisSection.hidden=!synopsis;
