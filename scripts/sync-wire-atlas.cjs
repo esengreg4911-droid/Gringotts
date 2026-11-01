@@ -1,5 +1,5 @@
 // Run from this checkout after changing the integrated character atlas.
-const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
+const fs=require('node:fs'),path=require('node:path');
 const source=path.resolve(__dirname,'../the-wire/atlas');
 const destination='E:/Subtitles/wire-atlas/dist';
 if(path.resolve(destination)!==path.resolve('E:/Subtitles/wire-atlas/dist'))throw new Error('Unexpected sync destination');
@@ -12,7 +12,10 @@ function files(root,prefix=''){
 }
 function standaloneHtml(html){
  if(!html.includes('<base href="/the-wire/atlas/">'))throw new Error('Integrated base path changed; review standalone conversion');
- return html.replace(' <base href="/the-wire/atlas/">\n','').replace('href="/the-wire"','href="https://www.gringotts04.cc/the-wire"');
+ const converted=html.replace(/^\s*<base href="\/the-wire\/atlas\/">\r?\n/m,'').replace('href="/the-wire"','href="https://www.gringotts04.cc/the-wire"');
+ if(/<base\b/.test(converted))throw new Error('Standalone base path was not removed');
+ if(!converted.includes('href="https://www.gringotts04.cc/the-wire"'))throw new Error('Standalone return link was not converted');
+ return converted;
 }
 const paths=files(source);
 for(const relative of paths){
