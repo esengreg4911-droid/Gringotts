@@ -1,8 +1,12 @@
 // Run from this checkout after changing the integrated character atlas.
 const fs=require('node:fs'),path=require('node:path');
 const source=path.resolve(__dirname,'../the-wire/atlas');
-const destination='E:/Subtitles/wire-atlas/dist';
-if(path.resolve(destination)!==path.resolve('E:/Subtitles/wire-atlas/dist'))throw new Error('Unexpected sync destination');
+const args=process.argv.slice(2);
+if(args.length!==2||args[0]!=='--output')throw new Error('Usage: node scripts/sync-wire-atlas.cjs --output <temporary standalone checkout>');
+const destination=path.resolve(args[1]);
+const project=path.resolve(__dirname,'..');
+function within(parent,child){const relative=path.relative(parent,child);return relative===''||(!relative.startsWith('..'+path.sep)&&relative!=='..'&&!path.isAbsolute(relative));}
+if(destination===path.parse(destination).root||within(project,destination)||within(destination,project))throw new Error('Choose a separate temporary destination, not the Gringotts checkout');
 function files(root,prefix=''){
  return fs.readdirSync(path.join(root,prefix),{withFileTypes:true}).flatMap(entry=>{
   if(entry.name==='AGENTS.md'||entry.name==='.git')return [];
@@ -17,6 +21,10 @@ function standaloneHtml(html){
  return converted;
 }
 const paths=files(source);
+if(fs.existsSync(destination)){
+ const unexpected=files(destination).filter(p=>!paths.includes(p));
+ if(unexpected.length)throw new Error('Destination contains unrelated files: '+unexpected.join(', '));
+}
 for(const relative of paths){
  const dest=path.join(destination,relative);fs.mkdirSync(path.dirname(dest),{recursive:true});
  const bytes=relative==='index.html'?Buffer.from(standaloneHtml(fs.readFileSync(path.join(source,relative),'utf8'))):fs.readFileSync(path.join(source,relative));
