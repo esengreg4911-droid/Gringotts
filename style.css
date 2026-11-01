@@ -154,3 +154,8 @@ body.detail-open .browse-toolbar{display:none}
 @media(max-width:539px){.mrats{display:flex;width:100%}.mrat{min-width:0;padding:12px}.mrn{font-size:26px}}
 @media(max-width:539px){.detail-hero{display:block}.detail-cover{width:min(58vw,220px);margin-bottom:28px}.detail-info{padding-top:0}.detail-category{margin-bottom:10px}.detail-ratings{width:100%;max-width:236px}.detail-content{margin-top:28px;padding-top:22px}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation:none!important}}
+
+.detail-atlas-link{display:inline-flex;align-items:center;gap:10px;margin-top:22px;padding:11px 17px;border:1px solid rgba(201,173,121,.38);border-radius:3px;background:rgba(201,173,121,.08);color:#d5bd91;font-size:13px;text-decoration:none;transition:background .15s,border-color .15s}
+.detail-atlas-link[hidden]{display:none}
+.detail-atlas-link:hover{background:rgba(201,173,121,.16);border-color:rgba(201,173,121,.65)}
+.detail-atlas-link:focus-visible{outline:2px solid #c9ad79;outline-offset:4px}
