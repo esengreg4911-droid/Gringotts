@@ -84,3 +84,12 @@ select{background:#f0eadb;border-color:#bfb69e}.season-tabs button{border-color:
 .atlas-back-link{display:block;width:fit-content;font-size:11px;text-decoration:none;color:#69664f;margin:0 0 22px;padding:5px 0;border-bottom:1px solid #bcb198}
 .atlas-back-link:hover{color:#393d33;border-color:#77745c}
 @media(max-width:650px){.atlas-back-link{grid-column:1/-1;font-size:10px;margin:0 0 4px}}
+
+.atlas-toolbar{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin-bottom:22px}
+.atlas-toolbar .atlas-back-link{margin:0;font-size:10px}
+.atlas-language{flex-shrink:0;font:11px ui-monospace,monospace;padding:5px 8px;border:1px solid #b9ad92;border-radius:3px;color:#66654e;background:#ece3cd}
+.atlas-language:hover{background:#d4cab1;color:#393d33}
+html[lang="en"] .group-filter{font-size:10px;line-height:1.5}html[lang="en"] .group-filter>span:not(.group-count){flex:1}
+html[lang="en"] .node-role{font-size:9px}html[lang="en"] .detail-actions{flex-wrap:wrap}html[lang="en"] .detail-role{flex-wrap:wrap}
+html[lang="en"] .map-help{max-width:55%;font-size:8px;line-height:1.7}
+@media(max-width:650px){.atlas-toolbar{grid-column:1/-1;margin-bottom:4px}.atlas-toolbar .atlas-back-link{grid-column:auto}.topbar .main-nav{gap:10px}html[lang="en"] .nav-button{font-size:10px}.group-filter .group-count{flex-shrink:0}}
