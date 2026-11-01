@@ -283,6 +283,7 @@ function showDetail(id,pushHistory){
   document.getElementById('detail-resources').hidden=d.imdb_id!=='tt0306414';
   document.getElementById('review-picker').open=false;
   document.getElementById('source-picker').open=false;
+  document.getElementById('subtitle-picker').open=false;
   var synopsis=zh?d.description_zh:d.description_en;
   var synopsisSection=document.getElementById('detail-synopsis');
   synopsisSection.hidden=!synopsis;

@@ -184,3 +184,8 @@ body.detail-open .browse-toolbar{display:none}
 .source-other{display:block;border-top:1px solid rgba(201,173,121,.16);padding:12px 0 8px;font-size:12px;color:#d5bd91;text-decoration:none}
 .source-menu a:hover{color:#f0dfbc}.source-season-links a:hover{background:rgba(201,173,121,.12)}.source-menu a:focus-visible{outline:1px solid #c9ad79;outline-offset:3px}
 @media(max-width:539px){.source-menu{position:static;width:min(300px,calc(100vw - 40px));margin-top:8px}.source-picker[open]{flex-basis:100%;order:1}}
+
+.subtitle-menu{min-width:210px}
+.subtitle-complete{display:block;padding:12px 0;color:#d5bd91;text-decoration:none;font-size:13px;font-weight:500;border-bottom:1px solid rgba(201,173,121,.16)}
+.subtitle-season-links a{display:flex;align-items:center;padding:10px 0;color:#d5bd91;text-decoration:none;font-size:12px}
+.subtitle-menu a:hover{color:#f0dfbc;text-decoration:underline}.subtitle-menu a:focus-visible{outline:1px solid #c9ad79;outline-offset:3px}
