@@ -6,6 +6,17 @@ var sortDir = "desc";
 var curPage = 1;
 var PAGE_SIZE = 12;
 var currentWorkId = null;
+var workRoutes = createWorkRoutes(DATA);
+var siteRoot = new URL('./', document.baseURI);
+var siteBaseElement = document.querySelector('base');
+if(siteBaseElement)siteBaseElement.href=siteRoot.href;
+function workIdFromLocation(){
+  var path=decodeURIComponent(window.location.pathname);
+  var basePath=decodeURIComponent(siteRoot.pathname);
+  if(path.indexOf(basePath)!==0)return null;
+  var slug=path.slice(basePath.length).replace(/\/+$/,'');
+  return Object.prototype.hasOwnProperty.call(workRoutes.bySlug,slug)?workRoutes.bySlug[slug]:null;
+}
 var sidebarToggle=document.getElementById('sidebar-toggle');
 var filterSidebar=document.getElementById('filter-sidebar');
 var filterContent=document.getElementById('filter-content');
@@ -224,10 +235,10 @@ function openM(id){
 }
 
 function workUrl(id){
-  var url=new URL(window.location.href);
-  if(id===null)url.searchParams.delete('work');
-  else url.searchParams.set('work',String(id));
-  return url.href;
+  if(id===null)return new URL('./',siteRoot).href;
+  var slug=workRoutes.byId[id];
+  if(!slug)throw new Error('Unknown work: '+id);
+  return new URL(slug,siteRoot).href;
 }
 
 function leaveDetailForCollection(){
@@ -302,8 +313,8 @@ document.getElementById('detail-back').addEventListener('click',function(){
 });
 
 window.addEventListener('popstate',function(){
-  var id=parseInt(new URLSearchParams(window.location.search).get('work'),10);
-  if(!isNaN(id))showDetail(id,false);
+  var id=workIdFromLocation();
+  if(id!==null)showDetail(id,false);
   else showCollection(false);
 });
 
@@ -366,8 +377,8 @@ function closeAboutOv(e){if(e.target===document.getElementById("about-ov"))close
 
 
 render();
-var initialWorkId=parseInt(new URLSearchParams(window.location.search).get('work'),10);
-if(!isNaN(initialWorkId)){
+var initialWorkId=workIdFromLocation();
+if(initialWorkId!==null){
   history.replaceState({view:'detail',id:initialWorkId,fromCollection:false},'',workUrl(initialWorkId));
   showDetail(initialWorkId,false);
 }else{

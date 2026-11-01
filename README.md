@@ -59,3 +59,21 @@ node scripts/build-tmdb-en.js
 <div align="center">
   联系：<a href="mailto:maox_115@163.com">maox_115@163.com</a>
 </div>
+
+
+## 作品地址
+
+作品使用英文片名路径，例如 `/the-wire`、`/the-wire-season-2`。
+原来的 `?work=作品编号` 不再作为作品入口使用。
+
+`work-routes.js` 负责作品编号与路径的对应；`scripts/build-work-pages.js` 根据首页模板生成各作品目录中的 `index.html`。
+这些入口页通过 `<base href="../">` 共用根目录资源，直接打开、刷新和浏览器前进后退均使用相同的作品路径。
+静态服务器可能先将 `/the-wire` 重定向到 `/the-wire/`，页面加载后会统一为无尾斜杠形式。
+
+新增作品或修改根目录 `index.html` 后运行：
+
+```powershell
+node scripts/build-work-pages.js
+```
+
+本地预览请通过 HTTP 服务访问，例如 `python -m http.server 8000`，然后打开 `http://localhost:8000/`。
